@@ -1,0 +1,15 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Books from Chris Williamson's Podcast"
+theme = "hugo-theme-mini"
+
+
+[params]
+  author = "Michael"
+  description = "Books mentioned in podcasts like Chris Williamson's"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
