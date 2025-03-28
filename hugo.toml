@@ -1,15 +1,8 @@
-baseURL = "https://example.com/"
+baseURL = "https://mcaneff.github.io/podcasts-to-books/"
 languageCode = "en-us"
-title = "Books from Chris Williamson's Podcast"
-theme = "hugo-theme-mini"
-
+title = "Books from Chris Williamson"
+theme = "PaperMod"
 
 [params]
-  author = "Michael"
-  description = "Books mentioned in podcasts like Chris Williamson's"
-
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
+  defaultTheme = "auto"
+  ShowReadingTime = true

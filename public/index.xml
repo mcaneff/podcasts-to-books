@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Books from Chris Williamson&#39;s Podcast</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Books from Chris Williamson&#39;s Podcast</description>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 28 Mar 2025 01:55:17 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fully Successful TVC Flight | Flights 1 &amp; 2</title>
-      <link>http://localhost:1313/posts/fully-successful-tvc-flight-flights-1-2/</link>
-      <pubDate>Fri, 28 Mar 2025 01:55:17 +0200</pubDate>
-      <guid>http://localhost:1313/posts/fully-successful-tvc-flight-flights-1-2/</guid>
-      <description>&lt;p&gt;📚 &lt;strong&gt;Books Mentioned&lt;/strong&gt;:&lt;br&gt;&#xA;(Extracted via AI – to be inserted&amp;hellip;)&lt;/p&gt;&#xA;&lt;p&gt;🎧 &lt;strong&gt;Transcript Summary&lt;/strong&gt;:&#xA;Hey everyone and welcome back to another video from Delta Space Systems.&#xA;Today I will be updating you on the development of my new rocket Unity and the first two test launches.&#xA;In May 2021, I began working on Unity. Unity has a completely new avionics unit that is more reliable and allows for&#xA;more expandability in the future. Unity also has a mechanical ejection system that can be tested on the ground before every&#xA;launch and that can be reloaded much quicker. The rocket&amp;rsquo;s structure is a&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Fri, 28 Mar 2025 01:39:20 +0200</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;This is my first post&lt;/p&gt;</description>
-    </item>
+    <language>en</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
