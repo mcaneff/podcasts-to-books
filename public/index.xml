@@ -2,18 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Books from Chris Williamson&#39;s Podcast on Books from Chris Williamson</title>
-    <link>https://mcaneff.github.io/podcasts-to-books/</link>
+    <link>http://localhost:1313/podcasts-to-books/</link>
     <description>Recent content in Books from Chris Williamson&#39;s Podcast on Books from Chris Williamson</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Mar 2025 12:01:18 +0200</lastBuildDate>
-    <atom:link href="https://mcaneff.github.io/podcasts-to-books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Mar 2025 17:43:21 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/podcasts-to-books/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://mcaneff.github.io/podcasts-to-books/posts/test/</link>
-      <pubDate>Fri, 28 Mar 2025 12:01:18 +0200</pubDate>
-      <guid>https://mcaneff.github.io/podcasts-to-books/posts/test/</guid>
-      <description>&lt;p&gt;This is a test post&lt;/p&gt;</description>
+      <title>10 Books That Changed My Life!</title>
+      <link>http://localhost:1313/podcasts-to-books/posts/10-books-that-changed-my-life/</link>
+      <pubDate>Sun, 30 Mar 2025 17:43:21 +0300</pubDate>
+      <guid>http://localhost:1313/podcasts-to-books/posts/10-books-that-changed-my-life/</guid>
+      <description>&lt;p&gt;This post lists the books mentioned in the episode: &lt;a href=&#34;https://www.facebook.com/chriswilliamsonlife/videos/10-books-that-changed-my-life/1220567305713937/&#34;&gt;10 Books That Changed My Life!&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;mentioned-books&#34;&gt;Mentioned Books&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/0804137382&#34;&gt;Essentialism by Greg McKeown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/161608152X&#34;&gt;The Forgotten Highlander by Alistair Urquhart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/1940051002&#34;&gt;Lying by Sam Harris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/1108425046&#34;&gt;The Ape That Understood the Universe by Steve Stewart-Williams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/0316484911&#34;&gt;The Precipice by Toby Ord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/163286830X&#34;&gt;Lost Connections by Johann Hari&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/1936891026&#34;&gt;The War of Art by Steven Pressfield&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/0465062881&#34;&gt;Endurance by Alfred Lansing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/1501144316&#34;&gt;Why We Sleep by Matthew Walker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/1463750358&#34;&gt;Models by Mark Manson&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>10 Books That Changed My Life!</title>
+      <link>http://localhost:1313/podcasts-to-books/posts/10-books-that-changed-my-life-copy/</link>
+      <pubDate>Sat, 29 Mar 2025 17:43:21 +0300</pubDate>
+      <guid>http://localhost:1313/podcasts-to-books/posts/10-books-that-changed-my-life-copy/</guid>
+      <description>&lt;p&gt;This post lists the books mentioned in the episode: &lt;a href=&#34;https://www.facebook.com/chriswilliamsonlife/videos/10-books-that-changed-my-life/1220567305713937/&#34;&gt;10 Books That Changed My Life!&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;mentioned-books&#34;&gt;Mentioned Books&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/0804137382&#34;&gt;Essentialism by Greg McKeown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/161608152X&#34;&gt;The Forgotten Highlander by Alistair Urquhart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/1940051002&#34;&gt;Lying by Sam Harris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/1108425046&#34;&gt;The Ape That Understood the Universe by Steve Stewart-Williams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/0316484911&#34;&gt;The Precipice by Toby Ord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/163286830X&#34;&gt;Lost Connections by Johann Hari&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/1936891026&#34;&gt;The War of Art by Steven Pressfield&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/0465062881&#34;&gt;Endurance by Alfred Lansing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/1501144316&#34;&gt;Why We Sleep by Matthew Walker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/1463750358&#34;&gt;Models by Mark Manson&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

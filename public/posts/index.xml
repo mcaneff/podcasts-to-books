@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Books from Chris Williamson</title>
-    <link>https://mcaneff.github.io/podcasts-to-books/posts/</link>
+    <link>http://localhost:1313/podcasts-to-books/posts/</link>
     <description>Recent content in Posts on Books from Chris Williamson</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Mar 2025 12:01:18 +0200</lastBuildDate>
-    <atom:link href="https://mcaneff.github.io/podcasts-to-books/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/podcasts-to-books/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://mcaneff.github.io/podcasts-to-books/posts/test/</link>
+      <link>http://localhost:1313/podcasts-to-books/posts/test/</link>
       <pubDate>Fri, 28 Mar 2025 12:01:18 +0200</pubDate>
-      <guid>https://mcaneff.github.io/podcasts-to-books/posts/test/</guid>
+      <guid>http://localhost:1313/podcasts-to-books/posts/test/</guid>
       <description>&lt;p&gt;This is a test post&lt;/p&gt;</description>
     </item>
   </channel>
