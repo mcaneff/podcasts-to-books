@@ -1,7 +1,6 @@
 baseURL = "https://mcaneff.github.io/podcasts-to-books/"
 title = "My PaperMod Site"
 theme = "PaperMod"
-paginate = 5
 enableRobotsTXT = true
 
 [params]
