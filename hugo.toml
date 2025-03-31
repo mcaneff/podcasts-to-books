@@ -1,8 +1,10 @@
 baseURL = "https://mcaneff.github.io/podcasts-to-books/"
-languageCode = "en-us"
-title = "Books from Chris Williamson"
+title = "My PaperMod Site"
 theme = "PaperMod"
+paginate = 5
+enableRobotsTXT = true
 
 [params]
-  defaultTheme = "auto"
   ShowReadingTime = true
+  ShowShareButtons = false
+  mainsections = ["post"]
