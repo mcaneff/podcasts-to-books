@@ -7,3 +7,6 @@ enableRobotsTXT = true
   ShowReadingTime = true
   ShowShareButtons = false
   mainsections = ["post"]
+
+[params]
+  ShowRssButtonInSectionTermList = false
