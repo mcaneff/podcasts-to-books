@@ -8,3 +8,6 @@ enableRobotsTXT = true
   ShowShareButtons = false
   mainsections = ["post"]
   ShowRssButtonInSectionTermList = false
+
+[analytics.google]
+  SiteVerificationTag = "G-X7GMKLV284"
