@@ -9,5 +9,6 @@ enableRobotsTXT = true
   mainsections = ["post"]
   ShowRssButtonInSectionTermList = false
 
-[analytics.google]
-  SiteVerificationTag = "G-X7GMKLV284"
+[services]
+  [services.googleAnalytics]
+    id = "G-X7GMKLV284"
