@@ -1,7 +1,7 @@
 +++
 date = '2025-03-27T00:00:00'
 draft = false
-title = 'Why Do We Date People That Need Fixing? - Dr John Delony'
+title = '#919 – George Mack – How To Take Control Of Your Own Destiny'
 type = "post"
 +++
 
