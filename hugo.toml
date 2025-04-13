@@ -12,3 +12,12 @@ enableRobotsTXT = true
 [services]
   [services.googleAnalytics]
     id = "G-X7GMKLV284"
+
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON" ]
+
+[[menu.main]]
+  name = "Search"
+  url = "/search"
+  weight = 10
