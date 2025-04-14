@@ -3,6 +3,13 @@ date = '2025-03-28T22:26:23.557608+03:00'
 draft = false
 title = '#921 – Catherine Price – How To Defeat Your Social Media Addiction'
 type = "post"
+tags = [
+  'Digital Wellness',
+  'Focus',
+  'Technology',
+  'Addiction',
+  'Catherine Price'
+]
 +++
 
 This post lists the books mentioned in the episode: [#921 – Catherine Price – How To Defeat Your Social Media Addiction](https://www.youtube.com/watch?v=JHjhw8Ek3Zk).

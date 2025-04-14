@@ -3,6 +3,13 @@ date = '2025-03-27T00:00:00'
 draft = false
 title = '#919 – George Mack – How To Take Control Of Your Own Destiny'
 type = "post"
+tags = [
+  'Attention',
+  'Digital Minimalism',
+  'Mindfulness',
+  'Technology',
+  'George Mack'
+]
 +++
 
 This post lists the books mentioned in the episode: [Why Do We Date People That Need Fixing? - Dr John Delony](https://www.youtube.com/watch?v=yscguH7dLbY).

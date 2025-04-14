@@ -3,6 +3,12 @@ date = '2025-04-10T00:00:00'
 draft = false
 title = 'How To Find The Love Of Your Life - Ty Tashiro'
 type = "post"
+tags = [
+  'Relationships',
+  'Love',
+  'Psychology',
+  'Attachment Styles'
+]
 +++
 
 This post lists the books mentioned in the episode: [How To Find The Love Of Your Life - Ty Tashiro](https://www.youtube.com/watch?v=8hI0LEkRqXk).

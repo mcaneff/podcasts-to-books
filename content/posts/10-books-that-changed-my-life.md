@@ -4,6 +4,7 @@ draft = false
 title = '10 Books That Changed My Life!'
 type = "post"
 weight = 1
+tags = ['Self-Improvement', 'Book List']
 +++
 
 This post lists the books mentioned in the episode: [10 Books That Changed My Life!](https://www.facebook.com/chriswilliamsonlife/videos/10-books-that-changed-my-life/1220567305713937/).

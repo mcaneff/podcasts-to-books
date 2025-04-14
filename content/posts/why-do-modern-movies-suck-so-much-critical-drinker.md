@@ -3,6 +3,12 @@ date = '2025-03-22T00:00:00'
 draft = false
 title = '#918 – Critical Drinker – Why Do Modern Movies Suck So Much?'
 type = "post"
+tags = [
+  'Storytelling',
+  'Hollywood',
+  'Culture',
+  'Media'
+]
 +++
 
 This post lists the books mentioned in the episode: [Why Do Modern Movies Suck So Much? - Critical Drinker](https://www.youtube.com/watch?v=PxIgDAc48qw).

@@ -3,6 +3,9 @@ date = '2025-04-07T00:00:00'
 draft = false
 title = '#925 – Joe Hudson – 23 Lessons For Being Kinder To Yourself'
 type = "post"
+tags = [
+  'Self-Compassion',
+  'Emotional Resilience']
 +++
 
 This post lists the books mentioned in the episode: [23 Lessons For Being Kinder To Yourself - Joe Hudson](https://www.youtube.com/watch?v=p8ZhcYoW43s).

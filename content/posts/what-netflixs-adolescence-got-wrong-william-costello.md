@@ -3,6 +3,13 @@ date = '2025-04-05T00:00:00'
 draft = false
 title = '#924 - William Costello - What Netflix’s “Adolescence” Got Wrong'
 type = "post"
+tags = [
+  'Masculinity',
+  'Media',
+  'Psychology',
+  'Dating',
+  'William Costello'
+]
 +++
 
 This post lists the books mentioned in the episode: [What Netflix’s “Adolescence” Got Wrong - William Costello](https://www.youtube.com/watch?v=NeL_jc1T_KI).

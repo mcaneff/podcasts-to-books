@@ -3,6 +3,13 @@ date = '2025-04-03T00:00:00'
 draft = false
 title = '#923 – Matt Ridley – Why Evolution Favours Beauty Over Survival'
 type = "post"
+tags = [
+  'Evolution',
+  'Sexual Selection',
+  'Biology',
+  'Human Nature',
+  'Matt Ridley'
+]
 +++
 
 This post lists the books mentioned in the episode: [Why Evolution Favours Beauty Over Survival - Matt Ridley](https://www.youtube.com/watch?v=ZZPKJWiWeNU&ab_channel=ChrisWilliamson).

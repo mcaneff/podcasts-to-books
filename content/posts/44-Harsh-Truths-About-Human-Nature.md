@@ -3,6 +3,13 @@ date = '2025-03-29T16:18:45+03:00'
 draft = false
 title = '#922 – Naval Ravikant – 44 Harsh Truths About Human Nature'
 type = "post"
+tags = [
+  'Philosophy',
+  'Psychology',
+  'Success',
+  'Mindset',
+  'Naval Ravikant'
+]
 +++
 
 This post lists the books mentioned in the episode: [#922 – Naval Ravikant – 44 Harsh Truths About Human Nature](https://www.youtube.com/watch?v=KyfUysrNaco).
