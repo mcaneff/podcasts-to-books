@@ -21,3 +21,8 @@ enableRobotsTXT = true
   name = "Search"
   url = "/search"
   weight = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
