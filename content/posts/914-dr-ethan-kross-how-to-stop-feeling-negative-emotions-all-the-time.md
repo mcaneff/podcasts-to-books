@@ -9,7 +9,7 @@ Ethan Kross is a psychologist, professor, and author.
 Emotions are complex. We all feel them, but how often are they genuine? When should we express them, and when should we hold them back? And ultimately how do we gain mastery over them?
 Expect to learn what exactly emotions are and why we struggle to control them, why anxiety is the boogie man of modern times, how to actually get in control of your emotional state, the best ways to stop ruminating thoughts, the most powerful daily practices to make big change, and much more…
 
-<audio controls>
+<audio controls style="width: 100%; max-width: 800px;">
   <source src="https://pdst.fm/e/chrt.fm/track/G454/prfx.byspotify.com/e/traffic.megaphone.fm/SIXMSB3007894218.mp3?updated=1741874065" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>

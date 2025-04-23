@@ -11,7 +11,7 @@ Having children today’s world can be challenging. Parenthood, especially with 
 
 Expect to learn how becoming a father has changed Andrew for the better, what it was like to go though fertility challenges when conceiving, what IVF was like for Andrew and his wife, how Andrew used his struggles with IVF in his new comedy special, Andrews thoughts on the Zelensky-Trump Oval Office meeting, the biggest differences Andrew sees in the UK and US, what Andrew thinks is really going on with the Epstein files, Andrew’s thoughts on Tate’s recent return to America, the conversation between Andrew Huberman, Bryan Johnson and Kim Kardashian and much more…
 
-<audio controls>
+<audio controls style="width: 100%; max-width: 800px;">
   <source src="https://pdst.fm/e/chrt.fm/track/G454/prfx.byspotify.com/e/traffic.megaphone.fm/SIXMSB2248159206.mp3?updated=1741577997" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>

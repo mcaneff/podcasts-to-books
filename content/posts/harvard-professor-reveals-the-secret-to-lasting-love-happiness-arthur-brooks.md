@@ -5,7 +5,7 @@ title = 'Harvard Professor Reveals The Secret To Lasting Love & Happiness - Arth
 type = "post"
 +++
 
-<audio controls>
+<audio controls style="width: 100%; max-width: 800px;">
   <source src="https://www.youtube.com/watch?v=jY1gwywkmvc" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
