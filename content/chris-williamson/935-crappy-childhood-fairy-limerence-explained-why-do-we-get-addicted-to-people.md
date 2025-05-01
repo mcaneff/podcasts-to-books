@@ -2,7 +2,8 @@
 date = '2025-05-01T00:00:00'
 draft = false
 title = '#935 - Crappy Childhood Fairy - Limerence Explained: Why Do We Get Addicted To People?'
-type = "post"
+type = "chris-williamson"
+podcaster = 'chris-williamson'
 +++
 
 Anna Runkle, also known as the Crappy Childhood Fairy, is a trauma educator, Youtuber and an author.
