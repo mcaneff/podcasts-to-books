@@ -2,7 +2,7 @@
 date = '2025-04-30T00:00:00'
 draft = false
 title = '#467 – Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming'
-type = "lex-fridman"
+type = "post"
 podcaster = 'lex-fridman'
 +++
 

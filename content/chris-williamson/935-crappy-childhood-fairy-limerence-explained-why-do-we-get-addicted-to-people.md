@@ -2,7 +2,7 @@
 date = '2025-05-01T00:00:00'
 draft = false
 title = '#935 - Crappy Childhood Fairy - Limerence Explained: Why Do We Get Addicted To People?'
-type = "chris-williamson"
+type = "post"
 podcaster = 'chris-williamson'
 +++
 
