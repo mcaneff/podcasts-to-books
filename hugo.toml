@@ -1,21 +1,35 @@
 baseURL = "https://mcaneff.github.io/podcasts-to-books/"
-title = "Chris Williamson"
+title = "Podcast To Books"
 theme = "PaperMod"
 enableRobotsTXT = true
 
 [params]
   ShowReadingTime = true
   ShowShareButtons = false
-  mainsections = ["post"]
+  mainsections = ["chris-williamson", "lex-fridman", "joe-rogan"]
   ShowRssButtonInSectionTermList = false
 
 [services]
   [services.googleAnalytics]
     id = "G-X7GMKLV284"
 
-
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
+
+[[menu.main]]
+  name = "Chris Williamson"
+  url = "/chris-williamson/"
+  weight = 1
+
+[[menu.main]]
+  name = "Lex Fridman"
+  url = "/lex-fridman/"
+  weight = 2
+
+[[menu.main]]
+  name = "Joe Rogan"
+  url = "/joe-rogan/"
+  weight = 3
 
 [[menu.main]]
   name = "Search"

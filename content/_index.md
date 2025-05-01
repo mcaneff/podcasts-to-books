@@ -1,5 +1,5 @@
 ---
-title: "Books from Chris Williamson's Podcast"
+title: "Welcome"
 ---
 
-Welcome to the curated archive of all books mentioned by Chris and his guests. 📚
+This is the curated archive of books mentioned on top podcasts.
