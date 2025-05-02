@@ -1,7 +1,7 @@
 +++
 date = '2025-04-30T00:00:00'
 draft = false
-title = '#2313 - Jillian Michaels'
+title = '#2313 - Jillian Michaels – No Books Mentioned'
 type = "post"
 podcaster = 'joe-rogan'
 +++
