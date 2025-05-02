@@ -14,7 +14,7 @@ enableRobotsTXT = true
     id = "G-X7GMKLV284"
 
 [outputs]
-  home = [ "HTML", "RSS", "JSON" ]
+  home = [ "HTML", "RSS", "JSON", "Sitemap" ]
 
 [[menu.main]]
   name = "Chris Williamson"
