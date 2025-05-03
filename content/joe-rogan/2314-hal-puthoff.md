@@ -11,9 +11,6 @@ Hal Puthoff is a physicist researching energy generation, space propulsion, and 
 www.earthtech.org
 
 
-
-This episode is brought to you by Visible.
-
 <audio controls style="width: 100%; max-width: 800px;">
   <source src="https://traffic.megaphone.fm/GLT1895618179.mp3?updated=1746119751" type="audio/mpeg">
   Your browser does not support the audio element.
