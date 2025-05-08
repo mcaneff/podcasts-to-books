@@ -40,3 +40,9 @@ enableRobotsTXT = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[[menu.main]]
+name = "More..."
+url = "/more"
+weight = 500
+identifier = "more"
