@@ -9,6 +9,9 @@ podcaster = 'joe-rogan'
 Cody Tucker is a content creator, host of "The Cody Tucker Show" podcast, and now the author of a brand new book, "And Now You Know: Mind-Blowing Stories from History and Pop Culture." www.Thecodytucker.com
 
 
+<audio controls style="width: 100%; max-width: 800px;">
+  <source src="https://traffic.megaphone.fm/GLT4853470718.mp3?updated=1746637006" type="audio/mpeg">
+  Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
