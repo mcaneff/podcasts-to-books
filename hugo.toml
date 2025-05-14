@@ -5,9 +5,9 @@ enableRobotsTXT = true
 
 [params]
   ShowReadingTime = true
-  ShowShareButtons = false
   mainsections = ["chris-williamson", "lex-fridman", "joe-rogan"]
   ShowRssButtonInSectionTermList = false
+  ShowPostNavLinks = true
 
 [services]
   [services.googleAnalytics]
