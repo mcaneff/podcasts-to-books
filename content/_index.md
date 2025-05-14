@@ -1,21 +1,26 @@
 ---
-title: "Welcome"
+title: "Podcast To Books"
+description: "Where powerful conversations become your next book list"
+cover:
+  image: "static/images/ancient-philosophers-facade.jpg"
+  alt: "Books mentioned in podcasts"
+  relative: true
+  hidden: false
 ---
 
-This is the curated archive of books mentioned on top podcasts.
-From Chris Williamson we have the following books for example 
+## 📚 Turn Conversations into Reading Lists
+<!-- ![Books mentioned in podcasts](/images/ancient-philosophers-facade.jpg) -->
+<p align="center">
+  <img src="/podcasts-to-books/images/ancient-philosophers-facade.jpg" alt="Books mentioned in podcasts" width="1000" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
+</p>
 
-This post lists the books mentioned in the episode: [10 Books That Changed My Life!](https://www.facebook.com/chriswilliamsonlife/videos/10-books-that-changed-my-life/1220567305713937/).
 
-## Mentioned Books
 
-- [Essentialism by Greg McKeown](https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&tag=podcaststoboo-20)
-- [The Forgotten Highlander by Alistair Urquhart](https://www.amazon.com/s?k=The+Forgotten+Highlander+by+Alistair+Urquhart&tag=podcaststoboo-20)
-- [Lying by Sam Harris](https://www.amazon.com/s?k=Lying+by+Sam+Harris&tag=podcaststoboo-20)
-- [The Ape That Understood the Universe by Steve Stewart-Williams](https://www.amazon.com/s?k=The+Ape+That+Understood+the+Universe+by+Steve+Stewart-Williams&tag=podcaststoboo-20)
-- [The Precipice by Toby Ord](https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&tag=podcaststoboo-20)
-- [Lost Connections by Johann Hari](https://www.amazon.com/s?k=Lost+Connections+by+Johann+Hari&tag=podcaststoboo-20)
-- [The War of Art by Stephen Pressfield](https://www.amazon.com/s?k=The+War+of+Art+by+Stephen+Pressfield&tag=podcaststoboo-20)
-- [Endurance by Alfred Lansing](https://www.amazon.com/s?k=Endurance+by+Alfred+Lansing&tag=podcaststoboo-20)
-- [Why We Sleep by Matthew Walker](https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&tag=podcaststoboo-20)
-- [Models by Mark Manson](https://www.amazon.com/s?k=Models+by+Mark+Manson&tag=podcaststoboo-20)
+Welcome to **Podcast To Books** — a curated archive of books mentioned in top podcasts.
+
+From deep philosophical dives to peak performance guides, this site captures all the books mentioned by like Chris Williamson, Lex Fridman, and Joe Rogan to update your reading lists, Enjoy :)
+
+[Start Here — 10 Books That Changed My Life](/podcasts-to-books/chris-williamson/10-books-that-changed-my-life/)
+
+
+---
