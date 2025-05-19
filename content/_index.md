@@ -16,11 +16,11 @@ cover:
 
 
 
-Welcome to **Podcast To Books** — a curated archive of books mentioned in top podcasts.
+### Welcome to **Podcast To Books** — a curated archive of books mentioned in top podcasts.
 
-From deep philosophical dives to peak performance guides, this site captures all the books mentioned by like Chris Williamson, Lex Fridman, and Joe Rogan to update your reading lists, Enjoy :)
+From deep philosophical dives to peak performance guides, this site captures all the books mentioned by like Chris Williamson, Lex Fridman, and Joe Rogan to update your reading lists, Enjoy:)
 
-[Start Here — 10 Books That Changed My Life](/podcasts-to-books/chris-williamson/10-books-that-changed-my-life/)
+[Start  Here — 10 Books That Changed My Life](/podcasts-to-books/chris-williamson/10-books-that-changed-my-life/)
 
 
 ---
