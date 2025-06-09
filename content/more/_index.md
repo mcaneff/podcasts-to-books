@@ -2,4 +2,4 @@
 title: "More..."
 ---
 
-#### Coming Soon!
+#### The random other podcasts that I found interesting so far:
