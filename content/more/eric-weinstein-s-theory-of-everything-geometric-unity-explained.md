@@ -1,7 +1,7 @@
 +++
 date = '2025-04-23T00:00:00'
 draft = false
-title = 'Eric Weinstein's Theory of Everything "Geometric Unity" Explained'
+title = 'Eric Weinsteins Theory of Everything "Geometric Unity" Explained'
 type = "post"
 podcaster = 'unknown'
 +++
