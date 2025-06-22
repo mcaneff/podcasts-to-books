@@ -3,7 +3,7 @@ date = '2025-04-23T00:00:00'
 draft = false
 title = 'Eric Weinsteins Theory of Everything "Geometric Unity" Explained'
 type = "post"
-podcaster = 'unknown'
+podcaster = 'Curt Jaimungal'
 +++
 
 <audio controls style="width: 100%; max-width: 800px;">
