@@ -7,6 +7,10 @@ podcaster = 'joe-rogan'
 +++
 
 Raul Bilecky is a researcher, explorer, and creator of the YouTube channel “Pillars of the Past.”www.youtube.com/@PillarsofthePast101
+https://www.patreon.com/PillarsofthePastwww.pillarsofthepast.com
+
+<audio controls style="width: 100%; max-width: 800px;">
+  <source src="https://traffic.megaphone.fm/GLT8924602297.mp3?updated=1770311634" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
