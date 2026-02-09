@@ -24,14 +24,14 @@ From deep philosophical dives to peak performance guides, this site captures all
 | # | Book | Mentions |
 |---|------|----------|
 | 1 | [The Almanack of Naval Ravikant by Eric Jorgenson](https://www.amazon.com/s?k=The+Almanack+of+Naval+Ravikant+by+Eric+Jorgenson&tag=podcaststoboo-20) | 8 times |
-| 2 | [Thinking, Fast and Slow by Daniel Kahneman](https://www.amazon.com/s?k=Thinking,+Fast+and+Slow+by+Daniel+Kahneman&tag=podcaststoboo-20) | 3 times |
-| 3 | [Man’s Search for Meaning by Viktor Frankl](https://www.amazon.com/s?k=Man’s+Search+for+Meaning+by+Viktor+Frankl&tag=podcaststoboo-20) | 3 times |
-| 4 | [Atomic Habits by James Clear](https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&tag=podcaststoboo-20) | 3 times |
-| 5 | [Hardwiring Happiness by Rick Hanson](https://www.amazon.com/s?k=Hardwiring+Happiness+by+Rick+Hanson&tag=podcaststoboo-20) | 3 times |
-| 6 | [Models by Mark Manson](https://www.amazon.com/s?k=Models+by+Mark+Manson&tag=podcaststoboo-20) | 3 times |
-| 7 | [Endurance by Alfred Lansing](https://www.amazon.com/s?k=Endurance+by+Alfred+Lansing&tag=podcaststoboo-20) | 3 times |
-| 8 | [Lost Connections by Johann Hari](https://www.amazon.com/s?k=Lost+Connections+by+Johann+Hari&tag=podcaststoboo-20) | 3 times |
-| 9 | [The Standard Model in a Nutshell by Dave Goldberg](https://www.amazon.com/s?k=The+Standard+Model+in+a+Nutshell+by+Dave+Goldberg&tag=podcaststoboo-20) | 2 times |
-| 10 | [The Road to Reality by Roger Penrose](https://www.amazon.com/s?k=The+Road+to+Reality+by+Roger+Penrose&tag=podcaststoboo-20) | 2 times |
+| 2 | ["Man's Search for Meaning" by Viktor Frankl](https://www.amazon.com/s?k="Man's+Search+for+Meaning"+by+Viktor+Frankl&tag=podcaststoboo-20) | 4 times |
+| 3 | [Rick Hansen Hardwiring Happiness by Rick Hanson ](https://www.amazon.com/s?k=Rick+Hansen+Hardwiring+Happiness+by+Rick+Hanson+&tag=podcaststoboo-20) | 4 times |
+| 4 | [The War of Art by Stephen Pressfield](https://www.amazon.com/s?k=The+War+of+Art+by+Stephen+Pressfield&tag=podcaststoboo-20) | 3 times |
+| 5 | [Why We Sleep by Matthew J. Walker](https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+J.+Walker&tag=podcaststoboo-20) | 3 times |
+| 6 | [Thinking, Fast and Slow by Daniel Kahneman](https://www.amazon.com/s?k=Thinking,+Fast+and+Slow+by+Daniel+Kahneman&tag=podcaststoboo-20) | 3 times |
+| 7 | [Atomic Habits by James Clear](https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&tag=podcaststoboo-20) | 3 times |
+| 8 | [The Strange Death of Europe: Immigration, Identity, Islam by Douglas Murray](https://www.amazon.com/s?k=The+Strange+Death+of+Europe:+Immigration,+Identity,+Islam+by+Douglas+Murray&tag=podcaststoboo-20) | 3 times |
+| 9 | [Models by Mark Manson](https://www.amazon.com/s?k=Models+by+Mark+Manson&tag=podcaststoboo-20) | 3 times |
+| 10 | [Endurance by Alfred Lansing](https://www.amazon.com/s?k=Endurance+by+Alfred+Lansing&tag=podcaststoboo-20) | 3 times |
 
 ---
