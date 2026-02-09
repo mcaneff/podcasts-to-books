@@ -31,6 +31,11 @@ enableRobotsTXT = true
   url = "/joe-rogan/"
   weight = 3
 
+  [[menu.main]]
+  name = "Curt Jaimungal"
+  url = "/curt-jaimungal/"
+  weight = 4
+
 [[menu.main]]
   name = "Search"
   url = "/search"
