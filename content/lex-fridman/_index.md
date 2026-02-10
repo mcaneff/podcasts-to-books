@@ -13,10 +13,10 @@ Explore the philosophical, technical, and deeply human themes covered in his con
 
 | # | Book | Mentions |
 |---|------|----------|
-| 1 | ["Man's Search for Meaning" by Viktor Frankl](https://www.amazon.com/s?k="Man's+Search+for+Meaning"+by+Viktor+Frankl&tag=podcaststoboo-20) | 6 times |
-| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 5 times |
-| 3 | ["The Bitter Lesson by Richard Sutton (Essay)"](https://www.amazon.com/s?k="The+Bitter+Lesson+by+Richard+Sutton+(Essay)"&tag=podcaststoboo-20) | 5 times |
-| 4 | ["The Scaling Laws of Reinforcement Learning with Human Feedback" by Nathan Lambert (Essay)](https://www.amazon.com/s?k="The+Scaling+Laws+of+Reinforcement+Learning+with+Human+Feedback"+by+Nathan+Lambert+(Essay)&tag=podcaststoboo-20) | 4 times |
+| 1 | ["Man's Search for Meaning" by Viktor Frankl](https://www.amazon.com/s?k="Man's+Search+for+Meaning"+by+Viktor+Frankl&tag=podcaststoboo-20) | 9 times |
+| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 8 times |
+| 3 | ["The Bitter Lesson by Richard Sutton (Essay)"](https://www.amazon.com/s?k="The+Bitter+Lesson+by+Richard+Sutton+(Essay)"&tag=podcaststoboo-20) | 6 times |
+| 4 | ["The Scaling Laws of Reinforcement Learning with Human Feedback" by Nathan Lambert (Essay)](https://www.amazon.com/s?k="The+Scaling+Laws+of+Reinforcement+Learning+with+Human+Feedback"+by+Nathan+Lambert+(Essay)&tag=podcaststoboo-20) | 5 times |
 | 5 | [The Almanack of Natural Experimentation by Ronald Cosworth](https://www.amazon.com/s?k=The+Almanack+of+Natural+Experimentation+by+Ronald+Cosworth&tag=podcaststoboo-20) | 1 time |
 | 6 | [Proof and the Order of Mathematics by Joel David Hamkins](https://www.amazon.com/s?k=Proof+and+the+Order+of+Mathematics+by+Joel+David+Hamkins&tag=podcaststoboo-20) | 1 time |
 | 7 | [Jungle Keeper by Paul Rosley](https://www.amazon.com/s?k=Jungle+Keeper+by+Paul+Rosley&tag=podcaststoboo-20) | 1 time |
