@@ -23,15 +23,15 @@ From deep philosophical dives to peak performance guides, this site captures all
 
 | # | Book | Mentions |
 |---|------|----------|
-| 1 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 155 times |
-| 2 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 151 times |
-| 3 | [The Evolution of Desire: Strategies of Human Mating by David Buss](https://www.amazon.com/s?k=The+Evolution+of+Desire:+Strategies+of+Human+Mating+by+David+Buss&tag=podcaststoboo-20) | 45 times |
-| 4 | [Models: Attract Women Through Honesty by Mark Manson](https://www.amazon.com/s?k=Models:+Attract+Women+Through+Honesty+by+Mark+Manson&tag=podcaststoboo-20) | 34 times |
-| 5 | [Rick Hansen Hardwiring Happiness by Rick Hanson ](https://www.amazon.com/s?k=Rick+Hansen+Hardwiring+Happiness+by+Rick+Hanson+&tag=podcaststoboo-20) | 34 times |
-| 6 | [Alright, I have to give an explicit answer: \boxed{Impossible under given data. Final Answer:](https://www.amazon.com/s?k=Alright,+I+have+to+give+an+explicit+answer:+\boxed{Impossible+under+given+data.+Final+Answer:&tag=podcaststoboo-20) | 32 times |
-| 7 | [The War of Art by Stephen Pressfield](https://www.amazon.com/s?k=The+War+of+Art+by+Stephen+Pressfield&tag=podcaststoboo-20) | 23 times |
-| 8 | [Why We Sleep by Matthew J. Walker](https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+J.+Walker&tag=podcaststoboo-20) | 23 times |
-| 9 | [Lying by Sam Harris (Essay)](https://www.amazon.com/s?k=Lying+by+Sam+Harris+(Essay)&tag=podcaststoboo-20) | 22 times |
-| 10 | [After all, I settle for boxed answer: \boxed{No possible resolution.}](https://www.amazon.com/s?k=After+all,+I+settle+for+boxed+answer:+\boxed{No+possible+resolution.}&tag=podcaststoboo-20) | 21 times |
+| 1 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 170 times |
+| 2 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 169 times |
+| 3 | [The Evolution of Desire: Strategies of Human Mating by David Buss](https://www.amazon.com/s?k=The+Evolution+of+Desire:+Strategies+of+Human+Mating+by+David+Buss&tag=podcaststoboo-20) | 49 times |
+| 4 | [Models: Attract Women Through Honesty by Mark Manson](https://www.amazon.com/s?k=Models:+Attract+Women+Through+Honesty+by+Mark+Manson&tag=podcaststoboo-20) | 37 times |
+| 5 | [Rick Hansen Hardwiring Happiness by Rick Hanson ](https://www.amazon.com/s?k=Rick+Hansen+Hardwiring+Happiness+by+Rick+Hanson+&tag=podcaststoboo-20) | 37 times |
+| 6 | [Alright, I have to give an explicit answer: \boxed{Impossible under given data. Final Answer:](https://www.amazon.com/s?k=Alright,+I+have+to+give+an+explicit+answer:+\boxed{Impossible+under+given+data.+Final+Answer:&tag=podcaststoboo-20) | 35 times |
+| 7 | [The War of Art by Stephen Pressfield](https://www.amazon.com/s?k=The+War+of+Art+by+Stephen+Pressfield&tag=podcaststoboo-20) | 25 times |
+| 8 | [Why We Sleep by Matthew J. Walker](https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+J.+Walker&tag=podcaststoboo-20) | 25 times |
+| 9 | [Lying by Sam Harris (Essay)](https://www.amazon.com/s?k=Lying+by+Sam+Harris+(Essay)&tag=podcaststoboo-20) | 24 times |
+| 10 | [After all, I settle for boxed answer: \boxed{No possible resolution.}](https://www.amazon.com/s?k=After+all,+I+settle+for+boxed+answer:+\boxed{No+possible+resolution.}&tag=podcaststoboo-20) | 23 times |
 
 ---
