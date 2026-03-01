@@ -13,15 +13,15 @@ Explore the philosophical, technical, and deeply human themes covered in his con
 
 | # | Book | Mentions |
 |---|------|----------|
-| 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 58 times |
-| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 48 times |
-| 3 | ["The Bitter Lesson by Richard Sutton (Essay)"](https://www.amazon.com/s?k="The+Bitter+Lesson+by+Richard+Sutton+(Essay)"&tag=podcaststoboo-20) | 17 times |
-| 4 | ["The Scaling Laws of Reinforcement Learning with Human Feedback" by Nathan Lambert (Essay)](https://www.amazon.com/s?k="The+Scaling+Laws+of+Reinforcement+Learning+with+Human+Feedback"+by+Nathan+Lambert+(Essay)&tag=podcaststoboo-20) | 16 times |
-| 5 | [The Almanack of Natural Experimentation by Ronald Cosworth](https://www.amazon.com/s?k=The+Almanack+of+Natural+Experimentation+by+Ronald+Cosworth&tag=podcaststoboo-20) | 1 time |
-| 6 | [Proof and the Order of Mathematics by Joel David Hamkins](https://www.amazon.com/s?k=Proof+and+the+Order+of+Mathematics+by+Joel+David+Hamkins&tag=podcaststoboo-20) | 1 time |
-| 7 | [Jungle Keeper by Paul Rosley](https://www.amazon.com/s?k=Jungle+Keeper+by+Paul+Rosley&tag=podcaststoboo-20) | 1 time |
-| 8 | [Echoes from Eden by Dax](https://www.amazon.com/s?k=Echoes+from+Eden+by+Dax&tag=podcaststoboo-20) | 1 time |
-| 9 | [The Black Banners by Ali Soufan](https://www.amazon.com/s?k=The+Black+Banners+by+Ali+Soufan&tag=podcaststoboo-20) | 1 time |
-| 10 | [Perfect Soldiers: The 9/11 Hijackers by Terry McDermott](https://www.amazon.com/s?k=Perfect+Soldiers:+The+9/11+Hijackers+by+Terry+McDermott&tag=podcaststoboo-20) | 1 time |
+| 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 63 times |
+| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 52 times |
+| 3 | ["The Bitter Lesson by Richard Sutton (Essay)"](https://www.amazon.com/s?k="The+Bitter+Lesson+by+Richard+Sutton+(Essay)"&tag=podcaststoboo-20) | 18 times |
+| 4 | ["The Scaling Laws of Reinforcement Learning with Human Feedback" by Nathan Lambert (Essay)](https://www.amazon.com/s?k="The+Scaling+Laws+of+Reinforcement+Learning+with+Human+Feedback"+by+Nathan+Lambert+(Essay)&tag=podcaststoboo-20) | 17 times |
+| 5 | [Yesterday by The Beatles](https://www.amazon.com/s?k=Yesterday+by+The+Beatles&tag=podcaststoboo-20) | 1 time |
+| 6 | [Wonderful Tonight by Eric Clapton](https://www.amazon.com/s?k=Wonderful+Tonight+by+Eric+Clapton&tag=podcaststoboo-20) | 1 time |
+| 7 | [Tears in Heaven by Eric Clapton](https://www.amazon.com/s?k=Tears+in+Heaven+by+Eric+Clapton&tag=podcaststoboo-20) | 1 time |
+| 8 | [Sultans of Swing by Dire Straits](https://www.amazon.com/s?k=Sultans+of+Swing+by+Dire+Straits&tag=podcaststoboo-20) | 1 time |
+| 9 | [Star Wars theme by John Williams](https://www.amazon.com/s?k=Star+Wars+theme+by+John+Williams&tag=podcaststoboo-20) | 1 time |
+| 10 | [Stairway to Heaven by Led Zeppelin](https://www.amazon.com/s?k=Stairway+to+Heaven+by+Led+Zeppelin&tag=podcaststoboo-20) | 1 time |
 
 ---
