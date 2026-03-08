@@ -13,10 +13,10 @@ Explore the philosophical, technical, and deeply human themes covered in his con
 
 | # | Book | Mentions |
 |---|------|----------|
-| 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 78 times |
-| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 64 times |
-| 3 | ["The Bitter Lesson by Richard Sutton (Essay)"](https://www.amazon.com/s?k="The+Bitter+Lesson+by+Richard+Sutton+(Essay)"&tag=podcaststoboo-20) | 21 times |
-| 4 | ["The Scaling Laws of Reinforcement Learning with Human Feedback" by Nathan Lambert (Essay)](https://www.amazon.com/s?k="The+Scaling+Laws+of+Reinforcement+Learning+with+Human+Feedback"+by+Nathan+Lambert+(Essay)&tag=podcaststoboo-20) | 20 times |
+| 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 83 times |
+| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 68 times |
+| 3 | ["The Bitter Lesson by Richard Sutton (Essay)"](https://www.amazon.com/s?k="The+Bitter+Lesson+by+Richard+Sutton+(Essay)"&tag=podcaststoboo-20) | 22 times |
+| 4 | ["The Scaling Laws of Reinforcement Learning with Human Feedback" by Nathan Lambert (Essay)](https://www.amazon.com/s?k="The+Scaling+Laws+of+Reinforcement+Learning+with+Human+Feedback"+by+Nathan+Lambert+(Essay)&tag=podcaststoboo-20) | 21 times |
 | 5 | [Yesterday by The Beatles](https://www.amazon.com/s?k=Yesterday+by+The+Beatles&tag=podcaststoboo-20) | 1 time |
 | 6 | [Wonderful Tonight by Eric Clapton](https://www.amazon.com/s?k=Wonderful+Tonight+by+Eric+Clapton&tag=podcaststoboo-20) | 1 time |
 | 7 | [Tears in Heaven by Eric Clapton](https://www.amazon.com/s?k=Tears+in+Heaven+by+Eric+Clapton&tag=podcaststoboo-20) | 1 time |
