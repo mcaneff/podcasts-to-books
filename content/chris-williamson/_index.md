@@ -13,15 +13,15 @@ These selections reflect the intellectual and philosophical depth that defines t
 
 | # | Book | Mentions |
 |---|------|----------|
-| 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 233 times |
-| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 202 times |
-| 3 | [The Evolution of Desire: Strategies of Human Mating by David Buss](https://www.amazon.com/s?k=The+Evolution+of+Desire:+Strategies+of+Human+Mating+by+David+Buss&tag=podcaststoboo-20) | 97 times |
-| 4 | [Models: Attract Women Through Honesty by Mark Manson](https://www.amazon.com/s?k=Models:+Attract+Women+Through+Honesty+by+Mark+Manson&tag=podcaststoboo-20) | 73 times |
-| 5 | [Rick Hansen Hardwiring Happiness by Rick Hanson ](https://www.amazon.com/s?k=Rick+Hansen+Hardwiring+Happiness+by+Rick+Hanson+&tag=podcaststoboo-20) | 73 times |
-| 6 | [Why We Sleep by Matthew J. Walker](https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+J.+Walker&tag=podcaststoboo-20) | 49 times |
-| 7 | [Lying by Sam Harris (Essay)](https://www.amazon.com/s?k=Lying+by+Sam+Harris+(Essay)&tag=podcaststoboo-20) | 48 times |
-| 8 | [The Power of Habit: Why We Do What We Do in Life and Business* by Charles Duhigg](https://www.amazon.com/s?k=The+Power+of+Habit:+Why+We+Do+What+We+Do+in+Life+and+Business*+by+Charles+Duhigg&tag=podcaststoboo-20) | 46 times |
-| 9 | [Four Thousand Weeks: Time Management for Mortals by Oliver Burkeman](https://www.amazon.com/s?k=Four+Thousand+Weeks:+Time+Management+for+Mortals+by+Oliver+Burkeman&tag=podcaststoboo-20) | 42 times |
-| 10 | [The War of Art by Stephen Pressfield](https://www.amazon.com/s?k=The+War+of+Art+by+Stephen+Pressfield&tag=podcaststoboo-20) | 25 times |
+| 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 12 times |
+| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 11 times |
+| 3 | [Atomic Habits by James Clear](https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&tag=podcaststoboo-20) | 5 times |
+| 4 | [The Evolution of Desire: Strategies of Human Mating by David Buss](https://www.amazon.com/s?k=The+Evolution+of+Desire:+Strategies+of+Human+Mating+by+David+Buss&tag=podcaststoboo-20) | 5 times |
+| 5 | [Models: Attract Women Through Honesty by Mark Manson](https://www.amazon.com/s?k=Models:+Attract+Women+Through+Honesty+by+Mark+Manson&tag=podcaststoboo-20) | 4 times |
+| 6 | [Rick Hansen Hardwiring Happiness by Rick Hanson ](https://www.amazon.com/s?k=Rick+Hansen+Hardwiring+Happiness+by+Rick+Hanson+&tag=podcaststoboo-20) | 4 times |
+| 7 | [The Psychology of Money by Morgan Housel](https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&tag=podcaststoboo-20) | 3 times |
+| 8 | [Four Thousand Weeks: Time Management for Mortals by Oliver Burkeman](https://www.amazon.com/s?k=Four+Thousand+Weeks:+Time+Management+for+Mortals+by+Oliver+Burkeman&tag=podcaststoboo-20) | 3 times |
+| 9 | [Why We Sleep by Matthew J. Walker](https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+J.+Walker&tag=podcaststoboo-20) | 3 times |
+| 10 | [Thinking, Fast and Slow by Daniel Kahneman](https://www.amazon.com/s?k=Thinking,+Fast+and+Slow+by+Daniel+Kahneman&tag=podcaststoboo-20) | 3 times |
 
 ---

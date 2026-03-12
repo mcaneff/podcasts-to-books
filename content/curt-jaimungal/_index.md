@@ -13,15 +13,15 @@ Explore the deep scientific, mathematical, and philosophical works discussed in 
 
 | # | Book | Mentions |
 |---|------|----------|
-| 1 | [Alright, I have to give an explicit answer: \boxed{Impossible under given data. Final Answer:](https://www.amazon.com/s?k=Alright,+I+have+to+give+an+explicit+answer:+\boxed{Impossible+under+given+data.+Final+Answer:&tag=podcaststoboo-20) | 47 times |
-| 2 | [After all, I settle for boxed answer: \boxed{No possible resolution.}](https://www.amazon.com/s?k=After+all,+I+settle+for+boxed+answer:+\boxed{No+possible+resolution.}&tag=podcaststoboo-20) | 47 times |
-| 3 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 35 times |
-| 4 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 28 times |
-| 5 | [\boxed{Impossible Due to lack of necessary context. However, since I must end. Thus, I choose to box nothing, but due to frustration, I'll use simplest:](https://www.amazon.com/s?k=\boxed{Impossible+Due+to+lack+of+necessary+context.+However,+since+I+must+end.+Thus,+I+choose+to+box+nothing,+but+due+to+frustration,+I'll+use+simplest:&tag=podcaststoboo-20) | 24 times |
-| 6 | [Given instructions say put final answer, even if it says ‘No’. Thus:](https://www.amazon.com/s?k=Given+instructions+say+put+final+answer,+even+if+it+says+‘No’.+Thus:&tag=podcaststoboo-20) | 24 times |
-| 7 | [Alright, I need to stop. I'll pick \boxed{The request cannot be addressed.}](https://www.amazon.com/s?k=Alright,+I+need+to+stop.+I'll+pick+\boxed{The+request+cannot+be+addressed.}&tag=podcaststoboo-20) | 24 times |
-| 8 | [Alright, I must give up and pick an accepted answer like "No definitive answer available." Due to the user's instruction ambiguity, I'll choose "I cannot respond here." Thus settle here](https://www.amazon.com/s?k=Alright,+I+must+give+up+and+pick+an+accepted+answer+like+"No+definitive+answer+available."+Due+to+the+user's+instruction+ambiguity,+I'll+choose+"I+cannot+respond+here."+Thus+settle+here&tag=podcaststoboo-20) | 24 times |
-| 9 | [The Feynman Lectures on Physics by Richard Feynman](https://www.amazon.com/s?k=The+Feynman+Lectures+on+Physics+by+Richard+Feynman&tag=podcaststoboo-20) | 2 times |
-| 10 | [Spin Geometry by H. Blaine Lawson and Marie-Louise Michelsohn](https://www.amazon.com/s?k=Spin+Geometry+by+H.+Blaine+Lawson+and+Marie-Louise+Michelsohn&tag=podcaststoboo-20) | 2 times |
+| 1 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 3 times |
+| 2 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 2 times |
+| 3 | [The Feynman Lectures on Physics by Richard Feynman](https://www.amazon.com/s?k=The+Feynman+Lectures+on+Physics+by+Richard+Feynman&tag=podcaststoboo-20) | 2 times |
+| 4 | [Spin Geometry by H. Blaine Lawson and Marie-Louise Michelsohn](https://www.amazon.com/s?k=Spin+Geometry+by+H.+Blaine+Lawson+and+Marie-Louise+Michelsohn&tag=podcaststoboo-20) | 2 times |
+| 5 | [The Standard Model in a Nutshell by Dave Goldberg](https://www.amazon.com/s?k=The+Standard+Model+in+a+Nutshell+by+Dave+Goldberg&tag=podcaststoboo-20) | 2 times |
+| 6 | [The Road to Reality by Roger Penrose](https://www.amazon.com/s?k=The+Road+to+Reality+by+Roger+Penrose&tag=podcaststoboo-20) | 2 times |
+| 7 | [Introduction to Quantum Field Theory by Michael E. Peskin and Daniel V. Schroeder](https://www.amazon.com/s?k=Introduction+to+Quantum+Field+Theory+by+Michael+E.+Peskin+and+Daniel+V.+Schroeder&tag=podcaststoboo-20) | 2 times |
+| 8 | [Gauge Fields, Knots and Gravity by John Baez and Javier P. Muniain](https://www.amazon.com/s?k=Gauge+Fields,+Knots+and+Gravity+by+John+Baez+and+Javier+P.+Muniain&tag=podcaststoboo-20) | 2 times |
+| 9 | [Quantum Field Theory by Anthony Zee](https://www.amazon.com/s?k=Quantum+Field+Theory+by+Anthony+Zee&tag=podcaststoboo-20) | 1 time |
+| 10 | [What Is It Like to Be a Bat? by Thomas Nagel (Essay)](https://www.amazon.com/s?k=What+Is+It+Like+to+Be+a+Bat?+by+Thomas+Nagel+(Essay)&tag=podcaststoboo-20) | 1 time |
 
 ---
