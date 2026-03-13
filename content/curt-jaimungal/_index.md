@@ -21,7 +21,7 @@ Explore the deep scientific, mathematical, and philosophical works discussed in 
 | 6 | [The Road to Reality by Roger Penrose](https://www.amazon.com/s?k=The+Road+to+Reality+by+Roger+Penrose&tag=podcaststoboo-20) | 2 times |
 | 7 | [Introduction to Quantum Field Theory by Michael E. Peskin and Daniel V. Schroeder](https://www.amazon.com/s?k=Introduction+to+Quantum+Field+Theory+by+Michael+E.+Peskin+and+Daniel+V.+Schroeder&tag=podcaststoboo-20) | 2 times |
 | 8 | [Gauge Fields, Knots and Gravity by John Baez and Javier P. Muniain](https://www.amazon.com/s?k=Gauge+Fields,+Knots+and+Gravity+by+John+Baez+and+Javier+P.+Muniain&tag=podcaststoboo-20) | 2 times |
-| 9 | [Quantum Field Theory by Anthony Zee](https://www.amazon.com/s?k=Quantum+Field+Theory+by+Anthony+Zee&tag=podcaststoboo-20) | 1 time |
-| 10 | [What Is It Like to Be a Bat? by Thomas Nagel (Essay)](https://www.amazon.com/s?k=What+Is+It+Like+to+Be+a+Bat?+by+Thomas+Nagel+(Essay)&tag=podcaststoboo-20) | 1 time |
+| 9 | [Emperor's New Mind by Roger Penrose](https://www.amazon.com/s?k=Emperor's+New+Mind+by+Roger+Penrose&tag=podcaststoboo-20) | 1 time |
+| 10 | [Quantum Field Theory by Anthony Zee](https://www.amazon.com/s?k=Quantum+Field+Theory+by+Anthony+Zee&tag=podcaststoboo-20) | 1 time |
 
 ---

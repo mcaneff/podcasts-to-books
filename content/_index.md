@@ -23,7 +23,7 @@ From deep philosophical dives to peak performance guides, this site captures all
 
 | # | Book | Mentions |
 |---|------|----------|
-| 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 29 times |
+| 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 30 times |
 | 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 23 times |
 | 3 | [The Evolution of Desire: Strategies of Human Mating by David Buss](https://www.amazon.com/s?k=The+Evolution+of+Desire:+Strategies+of+Human+Mating+by+David+Buss&tag=podcaststoboo-20) | 5 times |
 | 4 | [Atomic Habits by James Clear](https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&tag=podcaststoboo-20) | 5 times |
