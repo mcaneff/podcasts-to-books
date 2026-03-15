@@ -24,14 +24,14 @@ From deep philosophical dives to peak performance guides, this site captures all
 | # | Book | Mentions |
 |---|------|----------|
 | 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 30 times |
-| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 23 times |
+| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 24 times |
 | 3 | [The Evolution of Desire: Strategies of Human Mating by David Buss](https://www.amazon.com/s?k=The+Evolution+of+Desire:+Strategies+of+Human+Mating+by+David+Buss&tag=podcaststoboo-20) | 5 times |
 | 4 | [Atomic Habits by James Clear](https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&tag=podcaststoboo-20) | 5 times |
 | 5 | [Rick Hansen Hardwiring Happiness by Rick Hanson ](https://www.amazon.com/s?k=Rick+Hansen+Hardwiring+Happiness+by+Rick+Hanson+&tag=podcaststoboo-20) | 4 times |
-| 6 | [Models: Attract Women Through Honesty by Mark Manson](https://www.amazon.com/s?k=Models:+Attract+Women+Through+Honesty+by+Mark+Manson&tag=podcaststoboo-20) | 4 times |
-| 7 | [The Power of Habit: Why We Do What We Do in Life and Business* by Charles Duhigg](https://www.amazon.com/s?k=The+Power+of+Habit:+Why+We+Do+What+We+Do+in+Life+and+Business*+by+Charles+Duhigg&tag=podcaststoboo-20) | 3 times |
-| 8 | [Chaos: Charles Manson, the CIA, and the Secret History of the Sixties by Tom O'Neill](https://www.amazon.com/s?k=Chaos:+Charles+Manson,+the+CIA,+and+the+Secret+History+of+the+Sixties+by+Tom+O'Neill&tag=podcaststoboo-20) | 3 times |
-| 9 | [Lost Connections by Johann Hari](https://www.amazon.com/s?k=Lost+Connections+by+Johann+Hari&tag=podcaststoboo-20) | 3 times |
-| 10 | [Endurance by Alfred Lansing](https://www.amazon.com/s?k=Endurance+by+Alfred+Lansing&tag=podcaststoboo-20) | 3 times |
+| 6 | [The War of Art by Stephen Pressfield](https://www.amazon.com/s?k=The+War+of+Art+by+Stephen+Pressfield&tag=podcaststoboo-20) | 4 times |
+| 7 | [Models: Attract Women Through Honesty by Mark Manson](https://www.amazon.com/s?k=Models:+Attract+Women+Through+Honesty+by+Mark+Manson&tag=podcaststoboo-20) | 4 times |
+| 8 | [The Power of Habit: Why We Do What We Do in Life and Business* by Charles Duhigg](https://www.amazon.com/s?k=The+Power+of+Habit:+Why+We+Do+What+We+Do+in+Life+and+Business*+by+Charles+Duhigg&tag=podcaststoboo-20) | 3 times |
+| 9 | [Chaos: Charles Manson, the CIA, and the Secret History of the Sixties by Tom O'Neill](https://www.amazon.com/s?k=Chaos:+Charles+Manson,+the+CIA,+and+the+Secret+History+of+the+Sixties+by+Tom+O'Neill&tag=podcaststoboo-20) | 3 times |
+| 10 | [Lost Connections by Johann Hari](https://www.amazon.com/s?k=Lost+Connections+by+Johann+Hari&tag=podcaststoboo-20) | 3 times |
 
 ---

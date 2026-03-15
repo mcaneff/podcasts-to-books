@@ -20,8 +20,8 @@ These selections reflect the intellectual and philosophical depth that defines t
 | 5 | [Models: Attract Women Through Honesty by Mark Manson](https://www.amazon.com/s?k=Models:+Attract+Women+Through+Honesty+by+Mark+Manson&tag=podcaststoboo-20) | 4 times |
 | 6 | [Rick Hansen Hardwiring Happiness by Rick Hanson ](https://www.amazon.com/s?k=Rick+Hansen+Hardwiring+Happiness+by+Rick+Hanson+&tag=podcaststoboo-20) | 4 times |
 | 7 | [The Psychology of Money by Morgan Housel](https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&tag=podcaststoboo-20) | 3 times |
-| 8 | [Four Thousand Weeks: Time Management for Mortals by Oliver Burkeman](https://www.amazon.com/s?k=Four+Thousand+Weeks:+Time+Management+for+Mortals+by+Oliver+Burkeman&tag=podcaststoboo-20) | 3 times |
-| 9 | [Why We Sleep by Matthew J. Walker](https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+J.+Walker&tag=podcaststoboo-20) | 3 times |
-| 10 | [Thinking, Fast and Slow by Daniel Kahneman](https://www.amazon.com/s?k=Thinking,+Fast+and+Slow+by+Daniel+Kahneman&tag=podcaststoboo-20) | 3 times |
+| 8 | [The 7 Habits of Highly Effective People by Stephen Covey](https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+Covey&tag=podcaststoboo-20) | 3 times |
+| 9 | [Four Thousand Weeks: Time Management for Mortals by Oliver Burkeman](https://www.amazon.com/s?k=Four+Thousand+Weeks:+Time+Management+for+Mortals+by+Oliver+Burkeman&tag=podcaststoboo-20) | 3 times |
+| 10 | [Why We Sleep by Matthew J. Walker](https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+J.+Walker&tag=podcaststoboo-20) | 3 times |
 
 ---
