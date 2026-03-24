@@ -13,8 +13,8 @@ Explore the philosophical, technical, and deeply human themes covered in his con
 
 | # | Book | Mentions |
 |---|------|----------|
-| 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 5 times |
-| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 4 times |
+| 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 6 times |
+| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 5 times |
 | 3 | ["The Bitter Lesson by Richard Sutton (Essay)"](https://www.amazon.com/s?k="The+Bitter+Lesson+by+Richard+Sutton+(Essay)"&tag=podcaststoboo-20) | 2 times |
 | 4 | [On the Road by Jack Kerouac](https://www.amazon.com/s?k=On+the+Road+by+Jack+Kerouac&tag=podcaststoboo-20) | 2 times |
 | 5 | [Zork by Infocom](https://www.amazon.com/s?k=Zork+by+Infocom&tag=podcaststoboo-20) | 1 time |
