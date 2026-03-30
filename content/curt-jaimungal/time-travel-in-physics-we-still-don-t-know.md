@@ -13,8 +13,6 @@ podcaster = 'curt-jaimungal'
 
 ## Mentioned Books
 
-- [A Treatise of Human Nature by David Hume](https://www.amazon.com/s?k=A+Treatise+of+Human+Nature+by+David+Hume&tag=podcaststoboo-20)
 - [Gödel, Escher, Bach by Douglas Hofstadter](https://www.amazon.com/s?k=Gödel,+Escher,+Bach+by+Douglas+Hofstadter&tag=podcaststoboo-20)
-- [Meditations on First Philosophy by René Descartes](https://www.amazon.com/s?k=Meditations+on+First+Philosophy+by+René+Descartes&tag=podcaststoboo-20)
 - [The Master and His Emissary by Iain McGilchrist](https://www.amazon.com/s?k=The+Master+and+His+Emissary+by+Iain+McGilchrist&tag=podcaststoboo-20)
 - [World Enough and Space Time by John Earman](https://www.amazon.com/s?k=World+Enough+and+Space+Time+by+John+Earman&tag=podcaststoboo-20)

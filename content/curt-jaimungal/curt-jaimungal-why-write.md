@@ -16,4 +16,3 @@ As a listener of TOE you can get a special 35% off discount to The Economist and
 ## Mentioned Books
 
 - [Either/Or by Søren Kierkegaard](https://www.amazon.com/s?k=Either/Or+by+Søren+Kierkegaard&tag=podcaststoboo-20)
-- [On Formally Undecidable Propositions by Kurt Gödel](https://www.amazon.com/s?k=On+Formally+Undecidable+Propositions+by+Kurt+Gödel&tag=podcaststoboo-20)

@@ -13,7 +13,7 @@ podcaster = 'curt-jaimungal'
 
 ## Mentioned Books
 
-- [Man's Search for Meaning by Viktor Frankl](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl&tag=podcaststoboo-20)
-- [The Almanack of Naval Ravikant by Eric Jorgenson](https://www.amazon.com/s?k=The+Almanack+of+Naval+Ravikant+by+Eric+Jorgenson&tag=podcaststoboo-20)
-- [The Master and His Emissary by Iain McGilchrist](https://www.amazon.com/s?k=The+Master+and+His+Emissary+by+Iain+McGilchrist&tag=podcaststoboo-20)
-- [The Structure of Scientific Revolutions by Thomas Kuhn](https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+Kuhn&tag=podcaststoboo-20)
+- [The Elegant Universe by Brian Greene](https://www.amazon.com/s?k=The+Elegant+Universe+by+Brian+Greene&tag=podcaststoboo-20)
+- [The Emperor's New Mind by Roger Penrose](https://www.amazon.com/s?k=The+Emperor's+New+Mind+by+Roger+Penrose&tag=podcaststoboo-20)
+- [The Large Scale Structure of Space-Time by Stephen Hawking and George Ellis](https://www.amazon.com/s?k=The+Large+Scale+Structure+of+Space-Time+by+Stephen+Hawking+and+George+Ellis&tag=podcaststoboo-20)
+- [The Methodology of Scientific Research Programmes by Imre Lakatos](https://www.amazon.com/s?k=The+Methodology+of+Scientific+Research+Programmes+by+Imre+Lakatos&tag=podcaststoboo-20)
