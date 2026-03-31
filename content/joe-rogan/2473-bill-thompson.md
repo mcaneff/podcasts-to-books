@@ -19,6 +19,6 @@ Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan
 
 ## Mentioned Books
 
+- [Federalist Papers by Alexander Hamilton, James Madison, and John Jay](https://www.amazon.com/s?k=Federalist+Papers+by+Alexander+Hamilton,+James+Madison,+and+John+Jay&tag=podcaststoboo-20)
 - [Leviathan by Thomas Hobbes](https://www.amazon.com/s?k=Leviathan+by+Thomas+Hobbes&tag=podcaststoboo-20)
-- [The Federalist Papers by Alexander Hamilton, James Madison, and John Jay](https://www.amazon.com/s?k=The+Federalist+Papers+by+Alexander+Hamilton,+James+Madison,+and+John+Jay&tag=podcaststoboo-20)
 - [White Rage by Carol Anderson](https://www.amazon.com/s?k=White+Rage+by+Carol+Anderson&tag=podcaststoboo-20)
