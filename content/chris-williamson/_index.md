@@ -14,7 +14,7 @@ These selections reflect the intellectual and philosophical depth that defines t
 | # | Book | Mentions |
 |---|------|----------|
 | 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 13 times |
-| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 11 times |
+| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 12 times |
 | 3 | [Atomic Habits by James Clear](https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&tag=podcaststoboo-20) | 5 times |
 | 4 | [The Evolution of Desire: Strategies of Human Mating by David Buss](https://www.amazon.com/s?k=The+Evolution+of+Desire:+Strategies+of+Human+Mating+by+David+Buss&tag=podcaststoboo-20) | 5 times |
 | 5 | [Models: Attract Women Through Honesty by Mark Manson](https://www.amazon.com/s?k=Models:+Attract+Women+Through+Honesty+by+Mark+Manson&tag=podcaststoboo-20) | 4 times |
