@@ -14,10 +14,10 @@ Explore the deep scientific, mathematical, and philosophical works discussed in 
 | # | Book | Mentions |
 |---|------|----------|
 | 1 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 4 times |
-| 2 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 3 times |
-| 3 | [The Master and His Emissary: The Divided Brain and the Making of the Western World* by Iain McGilchrist](https://www.amazon.com/s?k=The+Master+and+His+Emissary:+The+Divided+Brain+and+the+Making+of+the+Western+World*+by+Iain+McGilchrist&tag=podcaststoboo-20) | 3 times |
-| 4 | [The Emperor's New Mind by Roger Penrose](https://www.amazon.com/s?k=The+Emperor's+New+Mind+by+Roger+Penrose&tag=podcaststoboo-20) | 2 times |
-| 5 | [Gödel, Escher, Bach by Douglas Hofstadter](https://www.amazon.com/s?k=Gödel,+Escher,+Bach+by+Douglas+Hofstadter&tag=podcaststoboo-20) | 2 times |
+| 2 | [The Master and His Emissary: The Divided Brain and the Making of the Western World* by Iain McGilchrist](https://www.amazon.com/s?k=The+Master+and+His+Emissary:+The+Divided+Brain+and+the+Making+of+the+Western+World*+by+Iain+McGilchrist&tag=podcaststoboo-20) | 4 times |
+| 3 | [Gödel, Escher, Bach by Douglas Hofstadter](https://www.amazon.com/s?k=Gödel,+Escher,+Bach+by+Douglas+Hofstadter&tag=podcaststoboo-20) | 3 times |
+| 4 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 3 times |
+| 5 | [The Emperor's New Mind by Roger Penrose](https://www.amazon.com/s?k=The+Emperor's+New+Mind+by+Roger+Penrose&tag=podcaststoboo-20) | 2 times |
 | 6 | [The Feynman Lectures on Physics by Richard Feynman](https://www.amazon.com/s?k=The+Feynman+Lectures+on+Physics+by+Richard+Feynman&tag=podcaststoboo-20) | 2 times |
 | 7 | [Spin Geometry by H. Blaine Lawson and Marie-Louise Michelsohn](https://www.amazon.com/s?k=Spin+Geometry+by+H.+Blaine+Lawson+and+Marie-Louise+Michelsohn&tag=podcaststoboo-20) | 2 times |
 | 8 | [The Standard Model in a Nutshell by Dave Goldberg](https://www.amazon.com/s?k=The+Standard+Model+in+a+Nutshell+by+Dave+Goldberg&tag=podcaststoboo-20) | 2 times |
