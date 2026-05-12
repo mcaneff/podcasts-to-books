@@ -1,9 +1,9 @@
 +++
-date = '2026-03-12T00:00:00'
+date = "2026-03-12T00:00:00"
 draft = false
-title = 'Curt Jaimungal: General Relativity Is NOT Deterministic (Here's the Proof)'
+title = "Curt Jaimungal: General Relativity Is NOT Deterministic (Here's the Proof)"
 type = "post"
-podcaster = 'curt-jaimungal'
+podcaster = "curt-jaimungal"
 +++
 
 Many people think physics / reality is either guided by a probabilistic distribution or is “determined.” Actually, there’s a third, far‐more unsettling option. Curt Jaimungal explains why Einstein’s general relativity isn't actually deterministic. He discusses how Cauchy horizons and closed time-like curves break predictability, showing that math and physics don't always guarantee a set future for our universe. This is a solo deep‑dive. One that he's been meaning to make for a while.

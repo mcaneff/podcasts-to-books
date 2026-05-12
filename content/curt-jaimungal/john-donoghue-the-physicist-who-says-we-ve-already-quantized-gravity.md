@@ -1,9 +1,9 @@
 +++
-date = '2026-03-11T00:00:00'
+date = "2026-03-11T00:00:00"
 draft = false
-title = 'John Donoghue: The Physicist Who Says We've Already Quantized Gravity'
+title = "John Donoghue: The Physicist Who Says We've Already Quantized Gravity"
 type = "post"
-podcaster = 'curt-jaimungal'
+podcaster = "curt-jaimungal"
 +++
 
 Professor John Donoghue explains why quantum physics and gravity actually work perfectly together. He tackles quadratic gravity, effective field theory, and random dynamics, arguing that grand unification and naturalness aren't required for a theory of everything.
