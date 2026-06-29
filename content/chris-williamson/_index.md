@@ -22,6 +22,6 @@ These selections reflect the intellectual and philosophical depth that defines t
 | 7 | [The Subtle Art of Not Giving a F*ck by Mark Manson](https://www.amazon.com/s?k=The+Subtle+Art+of+Not+Giving+a+F*ck+by+Mark+Manson&tag=podcaststoboo-20) | 4 times |
 | 8 | [Rick Hansen Hardwiring Happiness by Rick Hanson ](https://www.amazon.com/s?k=Rick+Hansen+Hardwiring+Happiness+by+Rick+Hanson+&tag=podcaststoboo-20) | 4 times |
 | 9 | [The Game by Neil Strauss](https://www.amazon.com/s?k=The+Game+by+Neil+Strauss&tag=podcaststoboo-20) | 3 times |
-| 10 | [The 7 Habits of Highly Effective People by Stephen Covey](https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+Covey&tag=podcaststoboo-20) | 3 times |
+| 10 | [Die With Zero by Bill Perkins](https://www.amazon.com/s?k=Die+With+Zero+by+Bill+Perkins&tag=podcaststoboo-20) | 3 times |
 
 ---
