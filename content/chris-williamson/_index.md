@@ -19,9 +19,9 @@ These selections reflect the intellectual and philosophical depth that defines t
 | 4 | [The Psychology of Money by Morgan Housel](https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&tag=podcaststoboo-20) | 5 times |
 | 5 | [Models: Attract Women Through Honesty by Mark Manson](https://www.amazon.com/s?k=Models:+Attract+Women+Through+Honesty+by+Mark+Manson&tag=podcaststoboo-20) | 5 times |
 | 6 | [The Evolution of Desire: Strategies of Human Mating by David Buss](https://www.amazon.com/s?k=The+Evolution+of+Desire:+Strategies+of+Human+Mating+by+David+Buss&tag=podcaststoboo-20) | 5 times |
-| 7 | [The Subtle Art of Not Giving a F*ck by Mark Manson](https://www.amazon.com/s?k=The+Subtle+Art+of+Not+Giving+a+F*ck+by+Mark+Manson&tag=podcaststoboo-20) | 4 times |
-| 8 | [Four Thousand Weeks: Time Management for Mortals by Oliver Burkeman](https://www.amazon.com/s?k=Four+Thousand+Weeks:+Time+Management+for+Mortals+by+Oliver+Burkeman&tag=podcaststoboo-20) | 4 times |
-| 9 | [Rick Hansen Hardwiring Happiness by Rick Hanson ](https://www.amazon.com/s?k=Rick+Hansen+Hardwiring+Happiness+by+Rick+Hanson+&tag=podcaststoboo-20) | 4 times |
-| 10 | [Seveneves* by Neal Stephenson](https://www.amazon.com/s?k=Seveneves*+by+Neal+Stephenson&tag=podcaststoboo-20) | 4 times |
+| 7 | [Die With Zero by Bill Perkins](https://www.amazon.com/s?k=Die+With+Zero+by+Bill+Perkins&tag=podcaststoboo-20) | 4 times |
+| 8 | [The Subtle Art of Not Giving a F*ck by Mark Manson](https://www.amazon.com/s?k=The+Subtle+Art+of+Not+Giving+a+F*ck+by+Mark+Manson&tag=podcaststoboo-20) | 4 times |
+| 9 | [The Moral Animal by Robert Wright](https://www.amazon.com/s?k=The+Moral+Animal+by+Robert+Wright&tag=podcaststoboo-20) | 4 times |
+| 10 | [Four Thousand Weeks: Time Management for Mortals by Oliver Burkeman](https://www.amazon.com/s?k=Four+Thousand+Weeks:+Time+Management+for+Mortals+by+Oliver+Burkeman&tag=podcaststoboo-20) | 4 times |
 
 ---
