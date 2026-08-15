@@ -22,6 +22,6 @@ From fighters to philosophers, here are the books shaping the minds of Joe's gue
 | 7 | [The Book of Ezekiel by Ezekiel](https://www.amazon.com/s?k=The+Book+of+Ezekiel+by+Ezekiel&tag=podcaststoboo-20) | 2 times |
 | 8 | [On Writing by Stephen King](https://www.amazon.com/s?k=On+Writing+by+Stephen+King&tag=podcaststoboo-20) | 2 times |
 | 9 | [How to Change Your Mind by Michael Pollan](https://www.amazon.com/s?k=How+to+Change+Your+Mind+by+Michael+Pollan&tag=podcaststoboo-20) | 2 times |
-| 10 | [The Real Anthony Fauci by Robert F. Kennedy Jr](https://www.amazon.com/s?k=The+Real+Anthony+Fauci+by+Robert+F.+Kennedy+Jr&tag=podcaststoboo-20) | 2 times |
+| 10 | [Empire of the Summer Moon by S.C. Gwynne](https://www.amazon.com/s?k=Empire+of+the+Summer+Moon+by+S.C.+Gwynne&tag=podcaststoboo-20) | 2 times |
 
 ---
