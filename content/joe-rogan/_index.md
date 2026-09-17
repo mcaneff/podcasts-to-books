@@ -21,7 +21,7 @@ From fighters to philosophers, here are the books shaping the minds of Joe's gue
 | 6 | [The Book of Five Rings by Miyamoto Musashi](https://www.amazon.com/s?k=The+Book+of+Five+Rings+by+Miyamoto+Musashi&tag=podcaststoboo-20) | 3 times |
 | 7 | [Childhood's End by Arthur C. Clarke](https://www.amazon.com/s?k=Childhood's+End+by+Arthur+C.+Clarke&tag=podcaststoboo-20) | 2 times |
 | 8 | [The Book of Ezekiel by Ezekiel](https://www.amazon.com/s?k=The+Book+of+Ezekiel+by+Ezekiel&tag=podcaststoboo-20) | 2 times |
-| 9 | [On Writing by Stephen King](https://www.amazon.com/s?k=On+Writing+by+Stephen+King&tag=podcaststoboo-20) | 2 times |
-| 10 | [How to Change Your Mind by Michael Pollan](https://www.amazon.com/s?k=How+to+Change+Your+Mind+by+Michael+Pollan&tag=podcaststoboo-20) | 2 times |
+| 9 | [Playing Off the Rail by David MacCumber](https://www.amazon.com/s?k=Playing+Off+the+Rail+by+David+MacCumber&tag=podcaststoboo-20) | 2 times |
+| 10 | [On Writing by Stephen King](https://www.amazon.com/s?k=On+Writing+by+Stephen+King&tag=podcaststoboo-20) | 2 times |
 
 ---
