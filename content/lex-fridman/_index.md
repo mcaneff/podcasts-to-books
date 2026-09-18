@@ -17,11 +17,11 @@ Explore the philosophical, technical, and deeply human themes covered in his con
 | 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 5 times |
 | 3 | ["The Bitter Lesson by Richard Sutton (Essay)"](https://www.amazon.com/s?k="The+Bitter+Lesson+by+Richard+Sutton+(Essay)"&tag=podcaststoboo-20) | 2 times |
 | 4 | [On the Road by Jack Kerouac](https://www.amazon.com/s?k=On+the+Road+by+Jack+Kerouac&tag=podcaststoboo-20) | 2 times |
-| 5 | [Finnegan's Wake by James Joyce](https://www.amazon.com/s?k=Finnegan's+Wake+by+James+Joyce&tag=podcaststoboo-20) | 1 time |
-| 6 | [: A Space Odyssey by Arthur C. Clarke](https://www.amazon.com/s?k=:+A+Space+Odyssey+by+Arthur+C.+Clarke&tag=podcaststoboo-20) | 1 time |
-| 7 | [Uncle Tom's Cabin by Harriet Beecher Stowe](https://www.amazon.com/s?k=Uncle+Tom's+Cabin+by+Harriet+Beecher+Stowe&tag=podcaststoboo-20) | 1 time |
-| 8 | [The Union War by Gary Gallagher](https://www.amazon.com/s?k=The+Union+War+by+Gary+Gallagher&tag=podcaststoboo-20) | 1 time |
-| 9 | [Huckleberry Finn by Mark Twain](https://www.amazon.com/s?k=Huckleberry+Finn+by+Mark+Twain&tag=podcaststoboo-20) | 1 time |
-| 10 | [Politics by Aristotle](https://www.amazon.com/s?k=Politics+by+Aristotle&tag=podcaststoboo-20) | 1 time |
+| 5 | [Wear and Tear by Silas Weir Mitchell](https://www.amazon.com/s?k=Wear+and+Tear+by+Silas+Weir+Mitchell&tag=podcaststoboo-20) | 1 time |
+| 6 | [The Interpretation of Dreams by Sigmund Freud](https://www.amazon.com/s?k=The+Interpretation+of+Dreams+by+Sigmund+Freud&tag=podcaststoboo-20) | 1 time |
+| 7 | [Studies in Hysteria by Josef Breuer and Sigmund Freud](https://www.amazon.com/s?k=Studies+in+Hysteria+by+Josef+Breuer+and+Sigmund+Freud&tag=podcaststoboo-20) | 1 time |
+| 8 | [Madness in Civilization by Andrew Scull](https://www.amazon.com/s?k=Madness+in+Civilization+by+Andrew+Scull&tag=podcaststoboo-20) | 1 time |
+| 9 | [Fat and Blood by Silas Weir Mitchell](https://www.amazon.com/s?k=Fat+and+Blood+by+Silas+Weir+Mitchell&tag=podcaststoboo-20) | 1 time |
+| 10 | [Finnegan's Wake by James Joyce](https://www.amazon.com/s?k=Finnegan's+Wake+by+James+Joyce&tag=podcaststoboo-20) | 1 time |
 
 ---
