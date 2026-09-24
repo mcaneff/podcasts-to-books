@@ -26,12 +26,12 @@ From deep philosophical dives to peak performance guides, this site captures all
 | 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 39 times |
 | 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 31 times |
 | 3 | [Atomic Habits by James Clear](https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&tag=podcaststoboo-20) | 8 times |
-| 4 | [Chaos: Charles Manson, the CIA, and the Secret History of the Sixties by Tom O'Neill](https://www.amazon.com/s?k=Chaos:+Charles+Manson,+the+CIA,+and+the+Secret+History+of+the+Sixties+by+Tom+O'Neill&tag=podcaststoboo-20) | 5 times |
-| 5 | [The Evolution of Desire: Strategies of Human Mating by David Buss](https://www.amazon.com/s?k=The+Evolution+of+Desire:+Strategies+of+Human+Mating+by+David+Buss&tag=podcaststoboo-20) | 5 times |
-| 6 | [The Master and His Emissary: The Divided Brain and the Making of the Western World* by Iain McGilchrist](https://www.amazon.com/s?k=The+Master+and+His+Emissary:+The+Divided+Brain+and+the+Making+of+the+Western+World*+by+Iain+McGilchrist&tag=podcaststoboo-20) | 5 times |
-| 7 | [Models: Attract Women Through Honesty by Mark Manson](https://www.amazon.com/s?k=Models:+Attract+Women+Through+Honesty+by+Mark+Manson&tag=podcaststoboo-20) | 5 times |
-| 8 | [The Subtle Art of Not Giving a F*ck by Mark Manson](https://www.amazon.com/s?k=The+Subtle+Art+of+Not+Giving+a+F*ck+by+Mark+Manson&tag=podcaststoboo-20) | 5 times |
-| 9 | [The Psychology of Money by Morgan Housel](https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&tag=podcaststoboo-20) | 5 times |
-| 10 | [Die With Zero by Bill Perkins](https://www.amazon.com/s?k=Die+With+Zero+by+Bill+Perkins&tag=podcaststoboo-20) | 5 times |
+| 4 | [Die With Zero by Bill Perkins](https://www.amazon.com/s?k=Die+With+Zero+by+Bill+Perkins&tag=podcaststoboo-20) | 6 times |
+| 5 | [Chaos: Charles Manson, the CIA, and the Secret History of the Sixties by Tom O'Neill](https://www.amazon.com/s?k=Chaos:+Charles+Manson,+the+CIA,+and+the+Secret+History+of+the+Sixties+by+Tom+O'Neill&tag=podcaststoboo-20) | 5 times |
+| 6 | [The Evolution of Desire: Strategies of Human Mating by David Buss](https://www.amazon.com/s?k=The+Evolution+of+Desire:+Strategies+of+Human+Mating+by+David+Buss&tag=podcaststoboo-20) | 5 times |
+| 7 | [The Master and His Emissary: The Divided Brain and the Making of the Western World* by Iain McGilchrist](https://www.amazon.com/s?k=The+Master+and+His+Emissary:+The+Divided+Brain+and+the+Making+of+the+Western+World*+by+Iain+McGilchrist&tag=podcaststoboo-20) | 5 times |
+| 8 | [Models: Attract Women Through Honesty by Mark Manson](https://www.amazon.com/s?k=Models:+Attract+Women+Through+Honesty+by+Mark+Manson&tag=podcaststoboo-20) | 5 times |
+| 9 | [The Subtle Art of Not Giving a F*ck by Mark Manson](https://www.amazon.com/s?k=The+Subtle+Art+of+Not+Giving+a+F*ck+by+Mark+Manson&tag=podcaststoboo-20) | 5 times |
+| 10 | [The Psychology of Money by Morgan Housel](https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&tag=podcaststoboo-20) | 5 times |
 
 ---

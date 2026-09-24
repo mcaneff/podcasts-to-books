@@ -16,7 +16,7 @@ These selections reflect the intellectual and philosophical depth that defines t
 | 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 13 times |
 | 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 12 times |
 | 3 | [Atomic Habits by James Clear](https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&tag=podcaststoboo-20) | 8 times |
-| 4 | [Die With Zero by Bill Perkins](https://www.amazon.com/s?k=Die+With+Zero+by+Bill+Perkins&tag=podcaststoboo-20) | 5 times |
+| 4 | [Die With Zero by Bill Perkins](https://www.amazon.com/s?k=Die+With+Zero+by+Bill+Perkins&tag=podcaststoboo-20) | 6 times |
 | 5 | [The Psychology of Money by Morgan Housel](https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&tag=podcaststoboo-20) | 5 times |
 | 6 | [The Subtle Art of Not Giving a F*ck by Mark Manson](https://www.amazon.com/s?k=The+Subtle+Art+of+Not+Giving+a+F*ck+by+Mark+Manson&tag=podcaststoboo-20) | 5 times |
 | 7 | [Models: Attract Women Through Honesty by Mark Manson](https://www.amazon.com/s?k=Models:+Attract+Women+Through+Honesty+by+Mark+Manson&tag=podcaststoboo-20) | 5 times |
