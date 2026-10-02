@@ -36,3 +36,9 @@
 .episode-book-author { font-weight: 400; color: var(--secondary); }
 .episode-book-links { display: flex; flex-wrap: wrap; gap: 14px; font-size: .9rem; }
 .muted { color: var(--secondary); font-weight: 400; }
+
+.book-description summary { cursor: pointer; list-style: none; }
+.book-description summary::-webkit-details-marker { display: none; }
+.book-description summary .more { color: var(--primary); font-weight: 600; }
+.book-description details[open] summary { display: none; }
+.episode-book-desc { margin: 4px 0 6px; font-size: .9rem; color: var(--secondary); }

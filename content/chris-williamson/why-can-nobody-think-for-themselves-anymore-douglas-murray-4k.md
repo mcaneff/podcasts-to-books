@@ -1,19 +1,20 @@
 +++
-date = '2023-11-13T00:00:00'
+date = "2023-11-13T00:00:00"
 draft = false
-title = 'Why Can Nobody Think For Themselves Anymore? - Douglas Murray (4K)'
+title = "Why Can Nobody Think For Themselves Anymore? - Douglas Murray (4K)"
 type = "post"
+podcaster = "chris-williamson"
+episode_id = "ep_chriswilliamson_2023-11-13"
+guest = ""
+books = ["the-strange-death-of-europe-douglas-murray", "the-madness-of-crowds-douglas-murray", "the-4-hour-workweek-timothy-ferriss", "girl-from-the-fiction-department-hilary-spurling", "the-complete-works-of-william-shakespeare-william-shakespeare", "the-collected-works-of-c-s-lewis-c-s-lewis", "the-importance-of-being-earnest-oscar-wilde", "toward-a-psychology-of-being-abraham-maslow"]
+books_display = ["The Strange Death of Europe by Douglas Murray", "The Madness of Crowds by Douglas Murray", "The 4-Hour Workweek by Timothy Ferriss", "Girl From The Fiction Department: A Portrait Of Sonia Orwell by Hilary Spurling", "The Complete Works of William Shakespeare by William Shakespeare", "The Collected Works of C.S. Lewis by C.S. Lewis", "The Importance of Being Earnest by Oscar Wilde", "Toward a Psychology of Being by Abraham Maslow"]
 +++
 
-This post lists the books mentioned in the episode: [Why Can Nobody Think For Themselves Anymore? - Douglas Murray (4K)](https://www.youtube.com/watch?v=MOf_c5dzYMY).
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
+  <source src="https://www.youtube.com/watch?v=MOf_c5dzYMY" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 ## Mentioned Books
 
-- [The Strange Death of Europe by Douglas Murray](https://www.amazon.com/s?k=The+Strange+Death+of+Europe+by+Douglas+Murray&tag=podcaststoboo-20)
-- [The Madness of Crowds by Douglas Murray](https://www.amazon.com/s?k=The+Madness+of+Crowds+by+Douglas+Murray&tag=podcaststoboo-20)
-- [The 4-Hour Workweek by Timothy Ferriss](https://www.amazon.com/s?k=The+4-Hour+Workweek+by+Timothy+Ferriss&tag=podcaststoboo-20)
-- [Girl From The Fiction Department: A Portrait Of Sonia Orwell by Hilary Spurling](https://www.amazon.com/s?k=Girl+From+The+Fiction+Department:+A+Portrait+Of+Sonia+Orwell+by+Hilary+Spurling&tag=podcaststoboo-20)
-- [The Complete Works of William Shakespeare by William Shakespeare](https://www.amazon.com/s?k=The+Complete+Works+of+William+Shakespeare+by+William+Shakespeare&tag=podcaststoboo-20)
-- [The Collected Works of C.S. Lewis by C.S. Lewis](https://www.amazon.com/s?k=The+Collected+Works+of+C.S.+Lewis+by+C.S.+Lewis&tag=podcaststoboo-20)
-- [The Importance of Being Earnest by Oscar Wilde](https://www.amazon.com/s?k=The+Importance+of+Being+Earnest+by+Oscar+Wilde&tag=podcaststoboo-20)
-- [Toward a Psychology of Being by Abraham Maslow](https://www.amazon.com/s?k=Toward+a+Psychology+of+Being+by+Abraham+Maslow&tag=podcaststoboo-20)
+{{< episode-books >}}

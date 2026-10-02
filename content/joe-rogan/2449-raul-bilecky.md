@@ -1,9 +1,13 @@
 +++
-date = '2026-02-05T00:00:00'
+date = "2026-02-05T00:00:00"
 draft = false
-title = '#2449 - Raul Bilecky'
+title = "#2449 - Raul Bilecky"
 type = "post"
-podcaster = 'joe-rogan'
+podcaster = "joe-rogan"
+episode_id = "ep_joe-rogan_2026-02-05"
+guest = "Raul Bilecky"
+books = ["fingerprints-of-the-gods-graham-hancock", "the-lord-of-sipan-walter-alva"]
+books_display = ["Fingerprints of the Gods by Graham Hancock", "The Lord of Sipán by Walter Alva"]
 +++
 
 Raul Bilecky is a researcher, explorer, and creator of the YouTube channel “Pillars of the Past.”www.youtube.com/@PillarsofthePast101https://www.patreon.com/PillarsofthePastwww.pillarsofthepast.com
@@ -22,12 +26,11 @@ GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema
 
 30% off + two free gifts.
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://traffic.megaphone.fm/GLT8924602297.mp3?updated=1770311634" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Fingerprints of the Gods by Graham Hancock](https://www.amazon.com/s?k=Fingerprints+of+the+Gods+by+Graham+Hancock&tag=podcaststoboo-20)
-- [The Lord of Sipán by Walter Alva](https://www.amazon.com/s?k=The+Lord+of+Sipán+by+Walter+Alva&tag=podcaststoboo-20)
+{{< episode-books >}}

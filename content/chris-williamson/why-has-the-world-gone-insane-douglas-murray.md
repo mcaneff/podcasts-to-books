@@ -1,16 +1,20 @@
 +++
-date = '2025-04-14T00:00:00'
+date = "2025-04-14T00:00:00"
 draft = false
-title = 'Why Has The World Gone Insane? - Douglas Murray'
+title = "Why Has The World Gone Insane? - Douglas Murray"
 type = "post"
+podcaster = "chris-williamson"
+episode_id = "ep_chriswilliamson_2025-04-14"
+guest = "Douglas Murray"
+books = ["the-strange-death-of-europe-douglas-murray", "the-war-on-the-west-douglas-murray", "war-and-peace-leo-tolstoy", "mother-night-kurt-vonnegut", "life-and-fate-vasily-grossman"]
+books_display = ["The Strange Death of Europe: Immigration, Identity, Islam by Douglas Murray", "The War on the West by Douglas Murray", "War and Peace by Leo Tolstoy", "Mother Night by Kurt Vonnegut", "Life and Fate by Vasily Grossman"]
 +++
 
-This post lists the books mentioned in the episode: [Why Has The World Gone Insane? - Douglas Murray](https://www.youtube.com/watch?v=uY4obrVWsRM&ab_channel=ChrisWilliamson).
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
+  <source src="https://www.youtube.com/watch?v=uY4obrVWsRM&ab_channel=ChrisWilliamson" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 ## Mentioned Books
 
-- [The Strange Death of Europe: Immigration, Identity, Islam by Douglas Murray](https://www.amazon.com/s?k=The+Strange+Death+of+Europe:+Immigration,+Identity,+Islam+by+Douglas+Murray&tag=podcaststoboo-20)
-- [The War on the West by Douglas Murray](https://www.amazon.com/s?k=The+War+on+the+West+by+Douglas+Murray&tag=podcaststoboo-20)
-- [War and Peace by Leo Tolstoy](https://www.amazon.com/s?k=War+and+Peace+by+Leo+Tolstoy&tag=podcaststoboo-20)
-- [Mother Night by Kurt Vonnegut](https://www.amazon.com/s?k=Mother+Night+by+Kurt+Vonnegut&tag=podcaststoboo-20)
-- [Life and Fate by Vasily Grossman](https://www.amazon.com/s?k=Life+and+Fate+by+Vasily+Grossman&tag=podcaststoboo-20)
+{{< episode-books >}}

@@ -21,11 +21,11 @@
     <div class="episode-book-body">
       <div class="episode-book-title">{{ $b.title }} <span class="episode-book-author">by {{ $b.author }}</span></div>
     {{- end }}
+      {{- with $b.description }}<p class="episode-book-desc">{{ if gt (len .) 220 }}{{ substr . 0 220 }}…{{ else }}{{ . }}{{ end }}</p>{{ end }}
       {{- if $m.quote }}<blockquote class="mention-quote">“{{ $m.quote }}”</blockquote>{{ end }}
       <div class="episode-book-links">
         {{- if $m.t_label }}<a class="seek" href="#t={{ $m.t }}" data-t="{{ $m.t }}">▶ Play at {{ $m.t_label }}</a>{{ end }}
         <a href="{{ $b.amazon_url }}" target="_blank" rel="noopener sponsored">Amazon</a>
-        {{- if $b.open_library_url }}<a href="{{ $b.open_library_url }}" target="_blank" rel="noopener">Open Library</a>{{ end }}
         {{- if gt $b.mention_count 1 }}<span class="muted">· mentioned in {{ $b.mention_count }} episodes</span>{{ end }}
       </div>
     </div>

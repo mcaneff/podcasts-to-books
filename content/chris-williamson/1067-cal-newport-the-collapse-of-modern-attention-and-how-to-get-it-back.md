@@ -1,9 +1,13 @@
 +++
-date = '2026-03-05T00:00:00'
+date = "2026-03-05T00:00:00"
 draft = false
-title = '#1067 - Cal Newport - The collapse of modern attention (and how to get it back)'
+title = "#1067 - Cal Newport - The collapse of modern attention (and how to get it back)"
 type = "post"
-podcaster = 'chris-williamson'
+podcaster = "chris-williamson"
+episode_id = "ep_chris-williamson_2026-03-05"
+guest = ""
+books = ["deep-work-cal-newport", "proust-and-the-squid-maryanne-wolf", "slow-productivity-cal-newport", "the-shallows-nicholas-carr"]
+books_display = ["Deep Work by Cal Newport", "Proust and the Squid by Maryanne Wolf", "Slow Productivity by Cal Newport", "The Shallows by Nicholas Carr"]
 +++
 
 Cal Newport is a computer science professor at Georgetown University, a productivity expert and an author.
@@ -12,14 +16,11 @@ Has AI “workslop” damaged our ability to focus? When AI entered the workplac
 
 Expect to learn what the future of work will be with major advancements in AI, what most people’s relationship with productivity is like at the moment, why your ability to focus is becoming increasingly more important, how people should deal with a lot of work messages, if new AI tools actually have been as transformative as they have claimed to be, if AI in the workplace has been a huge disappointment so far and why and much more…
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6620758567.mp3?updated=1772633819" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Deep Work by Cal Newport](https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&tag=podcaststoboo-20)
-- [Proust and the Squid by Maryanne Wolf](https://www.amazon.com/s?k=Proust+and+the+Squid+by+Maryanne+Wolf&tag=podcaststoboo-20)
-- [Slow Productivity by Cal Newport](https://www.amazon.com/s?k=Slow+Productivity+by+Cal+Newport&tag=podcaststoboo-20)
-- [The Shallows by Nicholas Carr](https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&tag=podcaststoboo-20)
+{{< episode-books >}}

@@ -1,25 +1,20 @@
 +++
-date = '2025-03-28T22:26:23.557608+03:00'
+date = "2025-03-29T00:00:00"
 draft = false
-title = '#921 – Catherine Price – How To Defeat Your Social Media Addiction'
+title = "The Harsh Truth About Digital Addiction – Catherine Price"
 type = "post"
-tags = [
-  'Digital Wellness',
-  'Focus',
-  'Technology',
-  'Addiction',
-  'Catherine Price'
-]
+podcaster = "chris-williamson"
+episode_id = "ep_chriswilliamson_2025-03-29"
+guest = "Catherine Price"
+books = ["the-distracted-mind-adam-gazzaley-and-larry-rosen", "how-to-break-up-with-your-phone-catherine-price", "the-principles-of-psychology-william-james", "the-power-of-fun-catherine-price"]
+books_display = ["The Distracted Mind by Adam Gazzaley and Larry Rosen", "How to Break Up with Your Phone by Catherine Price", "The Principles of Psychology by William James", "The Power of Fun by Catherine Price"]
 +++
 
-This post lists the books mentioned in the episode: [#921 – Catherine Price – How To Defeat Your Social Media Addiction](https://www.youtube.com/watch?v=JHjhw8Ek3Zk).
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
+  <source src="https://www.youtube.com/watch?v=JHjhw8Ek3Zk" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 ## Mentioned Books
-- [How to Break Up with Your Phone – Catherine Price](https://www.amazon.com/How-Break-Up-Your-Phone/dp/039958112X)  
-- [The Power of Fun – Catherine Price](https://www.amazon.com/Power-Fun-How-Feel-Alive/dp/0593241401)  
-- [The Distracted Mind – Adam Gazzaley & Larry Rosen](https://www.amazon.com/Distracted-Mind-Ancient-Brains-High-Tech/dp/0262034948)  
-- [The Principles of Psychology – William James](https://www.amazon.com/Principles-Psychology-William-James/dp/0486203816)
 
-- The Social Dilemma (mentioned as a documentary, not a book)
-
-Our phones are stealing our lives—not in big chunks, but in tiny moments that add up to years. Catherine Price argues that the issue isn’t just phone addiction—though that’s real—but rather unconscious, compulsive use that erodes our ability to focus, form memories, connect meaningfully, and feel truly alive.
+{{< episode-books >}}

@@ -4,6 +4,10 @@ draft = false
 title = "Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2 - #1136"
 type = "post"
 podcaster = "chris-williamson"
+episode_id = "ep_chris-williamson_2026-08-13"
+guest = "Hunter Biden, Matt McCusker & Duncan Trussell"
+books = ["promise-me-dad-joe-biden", "superintelligence-nick-bostrom", "the-devil-s-chessboard-david-talbot"]
+books_display = ["Promise Me, Dad by Joe Biden", "Superintelligence by Nick Bostrom", "The Devil's Chessboard by David Talbot"]
 +++
 
 I spent a really long time putting this together, I really hope you enjoy it! In this second episode of Mostly Wise, we explore:
@@ -33,13 +37,11 @@ Guests
 
   Duncan Trussell is a comedian, actor, writer and podcaster.
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8068505146.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Promise Me, Dad by Joe Biden](https://www.amazon.com/s?k=Promise+Me,+Dad+by+Joe+Biden&tag=podcaststoboo-20)
-- [Superintelligence by Nick Bostrom](https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&tag=podcaststoboo-20)
-- [The Devil's Chessboard by David Talbot](https://www.amazon.com/s?k=The+Devil's+Chessboard+by+David+Talbot&tag=podcaststoboo-20)
+{{< episode-books >}}

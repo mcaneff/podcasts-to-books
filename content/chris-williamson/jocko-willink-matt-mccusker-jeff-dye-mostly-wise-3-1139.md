@@ -4,6 +4,10 @@ draft = false
 title = "Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3 - #1139"
 type = "post"
 podcaster = "chris-williamson"
+episode_id = "ep_chris-williamson_2026-08-20"
+guest = "Jocko Willink, Matt McCusker & Jeff Dye"
+books = ["extreme-ownership-jocko-willink-and-leif-babin", "into-thin-air-jon-krakauer", "the-big-short-michael-lewis", "way-of-the-warrior-kid-jocko-willink"]
+books_display = ["Extreme Ownership by Jocko Willink and Leif Babin", "Into Thin Air by Jon Krakauer", "The Big Short by Michael Lewis", "Way of the Warrior Kid by Jocko Willink"]
 +++
 
 In the third episode of Mostly Wise, we explore:
@@ -33,14 +37,11 @@ Guests
 
   Jeff Dye is a comedian, actor, television host and podcaster.
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB2074376644.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Extreme Ownership by Jocko Willink and Leif Babin](https://www.amazon.com/s?k=Extreme+Ownership+by+Jocko+Willink+and+Leif+Babin&tag=podcaststoboo-20)
-- [Into Thin Air by Jon Krakauer](https://www.amazon.com/s?k=Into+Thin+Air+by+Jon+Krakauer&tag=podcaststoboo-20)
-- [The Big Short by Michael Lewis](https://www.amazon.com/s?k=The+Big+Short+by+Michael+Lewis&tag=podcaststoboo-20)
-- [Way of the Warrior Kid by Jocko Willink](https://www.amazon.com/s?k=Way+of+the+Warrior+Kid+by+Jocko+Willink&tag=podcaststoboo-20)
+{{< episode-books >}}

@@ -1,23 +1,20 @@
 +++
-date = '2025-04-10T00:00:00'
+date = "2025-04-10T00:00:00"
 draft = false
-title = 'How To Find The Love Of Your Life - Ty Tashiro'
+title = "How To Find The Love Of Your Life - Ty Tashiro"
 type = "post"
-tags = [
-  'Relationships',
-  'Love',
-  'Psychology',
-  'Attachment Styles'
-]
+podcaster = "chris-williamson"
+episode_id = "ep_chriswilliamson_2025-04-10"
+guest = "Ty Tashiro"
+books = ["sex-at-dawn-christopher-ryan", "the-evolution-of-desire-david-buss", "get-married-brad-wilcox"]
+books_display = ["Sex at Dawn by Christopher Ryan", "The Evolution of Desire by David Buss", "Get Married by Brad Wilcox"]
 +++
 
-This post lists the books mentioned in the episode: [How To Find The Love Of Your Life - Ty Tashiro](https://www.youtube.com/watch?v=8hI0LEkRqXk).
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
+  <source src="https://www.youtube.com/watch?v=8hI0LEkRqXk" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 ## Mentioned Books
 
-- [The Evolution of Desire](https://amzn.to/3YvEyXJ)
-- [Sex at Dawn](https://amzn.to/4cuYEau)
-- [Get Married](https://amzn.to/3G35APT)
-
-## Summary of this podcast:
-The conversation focuses on romantic relationships, emphasizing the importance of choosing partners based on traits that predict long-term satisfaction, such as emotional stability and agreeableness, while cautioning against prioritizing superficial qualities like looks and wealth. Key insights discussed include understanding attachment styles, recognizing red flags (such as high neuroticism or impulsivity), and appreciating the dynamics between passionate and companionate love. Practical advice is provided on avoiding temptation, selecting partners intentionally, and designing a life conducive to enduring relationship success.
+{{< episode-books >}}

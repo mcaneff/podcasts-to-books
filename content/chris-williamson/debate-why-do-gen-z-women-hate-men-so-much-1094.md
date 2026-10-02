@@ -1,9 +1,13 @@
 +++
-date = '2026-05-07T00:00:00'
+date = "2026-05-07T00:00:00"
 draft = false
-title = 'DEBATE: Why Do Gen Z Women Hate Men So Much? - #1094'
+title = "DEBATE: Why Do Gen Z Women Hate Men So Much? - #1094"
 type = "post"
-podcaster = 'chris-williamson'
+podcaster = "chris-williamson"
+episode_id = "ep_chris-williamson_2026-05-07"
+guest = ""
+books = ["models-mark-manson", "the-subtle-art-of-not-giving-a-f-ck-mark-manson"]
+books_display = ["Models by Mark Manson", "The Subtle Art of Not Giving a F*ck by Mark Manson"]
 +++
 
 In this evolutionary psychology debate, we explore:
@@ -24,12 +28,11 @@ Guests
 
 - Dr. Tania Reynolds is an Assistant Professor in Psychology at the University of New Mexico.
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8056658862.mp3?updated=1777905811" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Models by Mark Manson](https://www.amazon.com/s?k=Models+by+Mark+Manson&tag=podcaststoboo-20)
-- [The Subtle Art of Not Giving a F*ck by Mark Manson](https://www.amazon.com/s?k=The+Subtle+Art+of+Not+Giving+a+F*ck+by+Mark+Manson&tag=podcaststoboo-20)
+{{< episode-books >}}

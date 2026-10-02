@@ -1,9 +1,13 @@
 +++
-date = '2026-05-07T00:00:00'
+date = "2026-05-07T00:00:00"
 draft = false
-title = '#2495 - Tim Burchett'
+title = "#2495 - Tim Burchett"
 type = "post"
-podcaster = 'joe-rogan'
+podcaster = "joe-rogan"
+episode_id = "ep_joe-rogan_2026-05-07"
+guest = "Tim Burchett"
+books = ["chaos-tom-o-neill"]
+books_display = ["Chaos by Tom O'Neill"]
 +++
 
 Tim Burchett represents Tennessee’s 2nd District and is a member of the Republican Party. Rep. Burchett is a member of the UAP Caucus, chairman of the DOGE Subcommittee, and serves on the House Committees on Oversight and Government Reform, Foreign Affairs, and Transportation and Infrastructure.www.uapcaucus.comwww.youtube.com/@congressmantimburchett2448https://burchett.house.gov
@@ -21,11 +25,11 @@ GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-MY-RESET, (800) 327-5050 or visit 
 
 Learn more about your ad choices.
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://traffic.megaphone.fm/GLT4340239159.mp3?updated=1778171703" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Chaos by Tom O'Neill](https://www.amazon.com/s?k=Chaos+by+Tom+O'Neill&tag=podcaststoboo-20)
+{{< episode-books >}}

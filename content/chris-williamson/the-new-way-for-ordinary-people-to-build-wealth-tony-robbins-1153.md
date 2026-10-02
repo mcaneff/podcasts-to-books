@@ -4,6 +4,10 @@ draft = false
 title = "The New Way For Ordinary People To Build Wealth - Tony Robbins - #1153"
 type = "post"
 podcaster = "chris-williamson"
+episode_id = "ep_chris-williamson_2026-09-21"
+guest = "Tony Robbins"
+books = ["die-with-zero-bill-perkins", "the-holy-grail-of-investing-tony-robbins-and-christopher-zook"]
+books_display = ["Die with Zero by Bill Perkins", "The Holy Grail of Investing by Tony Robbins and Christopher Zook"]
 +++
 
 Tony Robbins is a life and business coach, entrepreneur and #1 New York Times Bestselling author.
@@ -14,12 +18,11 @@ How do you protect and grow your money when the markets feel so unpredictable? T
 
 Expect to learn the new strategies of investing from some of the nation's most successful funds, what Tony’s new philosophy and formula on investing is, which investing advice people still repeat today that is completely outdated, how normal people can get investing access to some of the world's fastest-growing companies, if we are in a genuine market bubble and much more…
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9362285978.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Die with Zero by Bill Perkins](https://www.amazon.com/s?k=Die+with+Zero+by+Bill+Perkins&tag=podcaststoboo-20)
-- [The Holy Grail of Investing by Tony Robbins and Christopher Zook](https://www.amazon.com/s?k=The+Holy+Grail+of+Investing+by+Tony+Robbins+and+Christopher+Zook&tag=podcaststoboo-20)
+{{< episode-books >}}

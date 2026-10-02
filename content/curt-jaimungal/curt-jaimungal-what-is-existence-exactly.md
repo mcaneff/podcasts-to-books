@@ -4,6 +4,10 @@ draft = false
 title = "Curt Jaimungal: What is Existence, Exactly?"
 type = "post"
 podcaster = "curt-jaimungal"
+episode_id = "ep_curt-jaimungal_2026-07-01"
+guest = ""
+books = ["critique-of-pure-reason-immanuel-kant", "naming-and-necessity-saul-kripke", "tractatus-ludwig-wittgenstein"]
+books_display = ["Critique of Pure Reason by Immanuel Kant", "Naming and Necessity by Saul Kripke", "Tractatus by Ludwig Wittgenstein"]
 +++
 
 I personally subscribe to The Economist. TOE listeners get 35% off the annual subscription. No other podcast has this! https://economist.com/TOE
@@ -25,13 +29,11 @@ LINKS MENTIONED:
 - Elan Barenholtz [TOE]: https://youtu.be/A36OumnSrWY
 - Naming And Necessity [Book]: https://neuroself.wordpress.com/wp-content/uploads/2020/11/naming-and-necessity-full-text.
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI4803736065.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Critique of Pure Reason by Immanuel Kant](https://www.amazon.com/s?k=Critique+of+Pure+Reason+by+Immanuel+Kant&tag=podcaststoboo-20)
-- [Naming and Necessity by Saul Kripke](https://www.amazon.com/s?k=Naming+and+Necessity+by+Saul+Kripke&tag=podcaststoboo-20)
-- [Tractatus by Ludwig Wittgenstein](https://www.amazon.com/s?k=Tractatus+by+Ludwig+Wittgenstein&tag=podcaststoboo-20)
+{{< episode-books >}}

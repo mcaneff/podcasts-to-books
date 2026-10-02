@@ -1,9 +1,13 @@
 +++
-date = '2026-04-20T00:00:00'
+date = "2026-04-20T00:00:00"
 draft = false
-title = 'The Masculinity Debate Is A Huge Mess - Richard Reeves - #1087'
+title = "The Masculinity Debate Is A Huge Mess - Richard Reeves - #1087"
 type = "post"
-podcaster = 'chris-williamson'
+podcaster = "chris-williamson"
+episode_id = "ep_chris-williamson_2026-04-20"
+guest = "Richard Reeves"
+books = ["of-boys-and-men-richard-reeves"]
+books_display = ["Of Boys and Men by Richard Reeves"]
 +++
 
 Richard Reeves is a writer, researcher and the Founder of the American Institute for Boys & Men.
@@ -34,11 +38,11 @@ Timestamps:
 (01:47:18) What Does the Future Look Like For Men?
 (02:04:21) Where to Find Richard
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB2625871310.mp3?updated=1776606168" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Of Boys and Men by Richard Reeves](https://www.amazon.com/s?k=Of+Boys+and+Men+by+Richard+Reeves&tag=podcaststoboo-20)
+{{< episode-books >}}

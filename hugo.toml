@@ -19,7 +19,7 @@ enableRobotsTXT = true
 [[menu.main]]
   name = "Books"
   url = "/books/"
-  weight = 0
+  weight = -1
 
 [[menu.main]]
   name = "Chris Williamson"

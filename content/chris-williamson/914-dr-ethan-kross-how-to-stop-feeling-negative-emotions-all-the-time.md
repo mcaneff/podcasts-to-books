@@ -1,19 +1,24 @@
 +++
-date = '2025-03-13T00:00:00'
+date = "2025-03-13T00:00:00"
 draft = false
-title = '#914 - Dr Ethan Kross - How To Stop Feeling Negative Emotions All The Time'
+title = "#914 - Dr Ethan Kross - How To Stop Feeling Negative Emotions All The Time"
 type = "post"
+podcaster = "chris-williamson"
+episode_id = "ep_chriswilliamson_2025-03-13"
+guest = ""
+books = ["chatter-ethan-kross"]
+books_display = ["Chatter by Ethan Kross"]
 +++
 
 Ethan Kross is a psychologist, professor, and author.
 Emotions are complex. We all feel them, but how often are they genuine? When should we express them, and when should we hold them back? And ultimately how do we gain mastery over them?
 Expect to learn what exactly emotions are and why we struggle to control them, why anxiety is the boogie man of modern times, how to actually get in control of your emotional state, the best ways to stop ruminating thoughts, the most powerful daily practices to make big change, and much more…
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://pdst.fm/e/chrt.fm/track/G454/prfx.byspotify.com/e/traffic.megaphone.fm/SIXMSB3007894218.mp3?updated=1741874065" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Chatter by Ethan Kross](https://www.amazon.com/s?k=Chatter+by+Ethan+Kross&tag=podcaststoboo-20)
+{{< episode-books >}}

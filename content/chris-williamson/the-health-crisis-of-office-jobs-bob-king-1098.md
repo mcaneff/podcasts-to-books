@@ -4,6 +4,10 @@ draft = false
 title = "The Health Crisis Of Office Jobs - Bob King - #1098"
 type = "post"
 podcaster = "chris-williamson"
+episode_id = "ep_chris-williamson_2026-05-16"
+guest = "Bob King"
+books = ["building-a-second-brain-tiago-forte", "getting-things-done-david-allen"]
+books_display = ["Building a Second Brain by Tiago Forte", "Getting Things Done by David Allen"]
 +++
 
 Bob King is the founder and CEO of Humanscale.
@@ -12,12 +16,11 @@ Is your desk job aging your body faster than you realize? Sitting may be part of
 
 Expect to learn why bad design might be the cause of your back problems, why sitting is so damaging to your health, what a healthy designed desk set-up looks like, if posture advice is mostly nonsense, how much physical discomfort degrades cognitive performance and much more…
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9559266838.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Building a Second Brain by Tiago Forte](https://www.amazon.com/s?k=Building+a+Second+Brain+by+Tiago+Forte&tag=podcaststoboo-20)
-- [Getting Things Done by David Allen](https://www.amazon.com/s?k=Getting+Things+Done+by+David+Allen&tag=podcaststoboo-20)
+{{< episode-books >}}

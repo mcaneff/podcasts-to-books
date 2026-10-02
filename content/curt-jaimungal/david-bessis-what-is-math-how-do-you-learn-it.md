@@ -1,9 +1,13 @@
 +++
-date = '2026-02-23T00:00:00'
+date = "2026-02-23T00:00:00"
 draft = false
-title = 'David Bessis: What is Math? How Do You Learn It?'
+title = "David Bessis: What is Math? How Do You Learn It?"
 type = "post"
-podcaster = 'curt-jaimungal'
+podcaster = "curt-jaimungal"
+episode_id = "ep_curt-jaimungal_2026-02-23"
+guest = "David Bessis"
+books = ["the-almanack-of-naval-ravikant-eric-jorgenson"]
+books_display = ["The Almanack of Naval Ravikant by Eric Jorgenson"]
 +++
 
 What is mathematics, really? Mathematician David Bessis joins me to argue that math isn't about numbers in a Platonic realm or a meaningless game of symbols—it's a cognitive technology for rewiring your brain. We explore why the official definitions of mathematics have been unresolved for 2,300 years, why understanding something means finding it obvious, and how the gap between a beginner and Terence Tao looks less like genetic destiny and more like compound interest on intuition. When asked what mathematics fundamentally is, his answer cuts through millennia of philosophy: it's what happens in your head when you pretend something is true until it feels real.
@@ -25,11 +29,11 @@ Papers, books, websites:
 - https://plato.stanford.edu/entries/set-theory/zf.html
 - https://imperialcollegelondon.github.
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI2675343707.mp3?updated=1771864686" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [The Almanack of Naval Ravikant by Eric Jorgenson](https://www.amazon.com/s?k=The+Almanack+of+Naval+Ravikant+by+Eric+Jorgenson&tag=podcaststoboo-20)
+{{< episode-books >}}

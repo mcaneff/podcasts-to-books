@@ -1,9 +1,13 @@
 +++
-date = '2026-04-11T00:00:00'
+date = "2026-04-11T00:00:00"
 draft = false
-title = '#1083 - Michael Smoak - 16 Brutal Life Lessons for Ambitious People'
+title = "#1083 - Michael Smoak - 16 Brutal Life Lessons for Ambitious People"
 type = "post"
-podcaster = 'chris-williamson'
+podcaster = "chris-williamson"
+episode_id = "ep_chris-williamson_2026-04-11"
+guest = ""
+books = ["die-with-zero-bill-perkins"]
+books_display = ["Die with Zero by Bill Perkins"]
 +++
 
 Michael Smoak is a mindset coach, entrepreneur, and podcaster. 
@@ -12,11 +16,11 @@ What does it actually cost to live a great life? From the outside, top performer
 
 Expect to learn what high-performance actually looks like, what the number one fear that holds people back is and how to get over it, how to face and overcome your fears, why the path to being the best version of yourself should feel somewhat lonely, why most of the things you want in life has an opportunity cost attached to it, why you should always prioritise physical health and much more..
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB2268637516.mp3?updated=1775878805" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Die with Zero by Bill Perkins](https://www.amazon.com/s?k=Die+with+Zero+by+Bill+Perkins&tag=podcaststoboo-20)
+{{< episode-books >}}

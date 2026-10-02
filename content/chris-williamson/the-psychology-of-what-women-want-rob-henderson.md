@@ -1,16 +1,20 @@
 +++
-date = '2025-04-17T00:00:00'
+date = "2025-04-17T00:00:00"
 draft = false
-title = 'The Psychology Of What Women Want - Rob Henderson'
+title = "The Psychology Of What Women Want - Rob Henderson"
 type = "post"
+podcaster = "chris-williamson"
+episode_id = "ep_chriswilliamson_2025-04-17"
+guest = "Rob Henderson"
+books = ["how-the-mind-works-steven-pinker", "outrage-kurt-gray", "the-evolution-of-desire-david-buss", "rules-for-life-jordan-peterson", "troubled-rob-henderson"]
+books_display = ["How the Mind Works by Steven Pinker", "Outrage by Kurt Gray", "The Evolution of Desire: Strategies of Human Mating by David Buss", "Rules for Life: An Antidote to Chaos by Jordan Peterson", "Troubled: A Memoir of Foster Care, Family, and Social Class by Rob Henderson"]
 +++
 
-This post lists the books mentioned in the episode: [The Psychology Of What Women Want - Rob Henderson](https://www.youtube.com/watch?v=Y7Y2Fs3zu0U).
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
+  <source src="https://www.youtube.com/watch?v=Y7Y2Fs3zu0U" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 ## Mentioned Books
 
-- [How the Mind Works by Steven Pinker](https://www.amazon.com/s?k=How+the+Mind+Works+by+Steven+Pinker&tag=podcaststoboo-20)
-- [Outrage by Kurt Gray](https://www.amazon.com/s?k=Outrage+by+Kurt+Gray&tag=podcaststoboo-20)
-- [The Evolution of Desire: Strategies of Human Mating by David Buss](https://www.amazon.com/s?k=The+Evolution+of+Desire:+Strategies+of+Human+Mating+by+David+Buss&tag=podcaststoboo-20)
-- [Rules for Life: An Antidote to Chaos by Jordan Peterson](https://www.amazon.com/s?k=Rules+for+Life:+An+Antidote+to+Chaos+by+Jordan+Peterson&tag=podcaststoboo-20)
-- [Troubled: A Memoir of Foster Care, Family, and Social Class by Rob Henderson](https://www.amazon.com/s?k=Troubled:+A+Memoir+of+Foster+Care,+Family,+and+Social+Class+by+Rob+Henderson&tag=podcaststoboo-20)
+{{< episode-books >}}

@@ -4,6 +4,10 @@ draft = false
 title = "#2497 - Gad Saad"
 type = "post"
 podcaster = "joe-rogan"
+episode_id = "ep_joe-rogan_2026-05-12"
+guest = "Gad Saad"
+books = ["suicidal-empathy-gad-saad", "the-parasitic-mind-gad-saad"]
+books_display = ["Suicidal Empathy by Gad Saad", "The Parasitic Mind by Gad Saad"]
 +++
 
 Dr. Gad Saad is a scholar at the Declaration of Independence Center for the Study of American Freedom at the University of Mississippi and host of “The Saad Truth.” His new book, “Suicidal Empathy: Dying to Be Kind,” is available now.
@@ -19,12 +23,11 @@ Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan
 Uber Eats makes last-minute gifting easy. https://www.ubereats.com/
 Learn more about your ad choices.
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://traffic.megaphone.fm/GLT9625231635.mp3?updated=1778626262" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Suicidal Empathy by Gad Saad](https://www.amazon.com/s?k=Suicidal+Empathy+by+Gad+Saad&tag=podcaststoboo-20)
-- [The Parasitic Mind by Gad Saad](https://www.amazon.com/s?k=The+Parasitic+Mind+by+Gad+Saad&tag=podcaststoboo-20)
+{{< episode-books >}}

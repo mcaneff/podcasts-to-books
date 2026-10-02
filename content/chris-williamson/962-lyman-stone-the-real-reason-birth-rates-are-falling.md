@@ -1,9 +1,13 @@
 +++
-date = '2025-07-03T00:00:00'
+date = "2025-07-03T00:00:00"
 draft = false
-title = '#962 - Lyman Stone - The Real Reason Birth Rates Are Falling'
+title = "#962 - Lyman Stone - The Real Reason Birth Rates Are Falling"
 type = "post"
-podcaster = 'chris-williamson'
+podcaster = "chris-williamson"
+episode_id = "ep_chris-williamson_2025-07-03"
+guest = ""
+books = ["developmental-idealism-arland-thornton", "the-book-of-proverbs-various-authors-religious-text", "little-house-on-the-prairie-laura-ingalls-wilder"]
+books_display = ["Developmental Idealism: The Cultural Foundations of Demographic Change by Arland Thornton (Essay)", "The Book of Proverbs by Various Authors (Religious Text)", "Little House on the Prairie by Laura Ingalls Wilder"]
 +++
 
 Lyman Stone is a demographer, researcher, and a writer.
@@ -12,13 +16,11 @@ It’s no surprise that birth rates are plummeting; raising kids feels harder th
 
 Expect to learn why fertility rates are falling off a cliff, why many young adults are struggling to have and even afford children in this economy, where mating preferences for fertility comes from, how women get their standards for men and who they base it off of, if men are suppose to be the breadwinners of a family this day in age, the real satisfaction rates of men and women in the workforce,  why humans have such a hard time with big changes, and much more...
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://pdst.fm/e/chrt.fm/track/G454/prfx.byspotify.com/e/traffic.megaphone.fm/SIXMSB6375774084.mp3?updated=1751518554" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Developmental Idealism: The Cultural Foundations of Demographic Change by Arland Thornton (Essay)](https://www.amazon.com/s?k=Developmental+Idealism:+The+Cultural+Foundations+of+Demographic+Change+by+Arland+Thornton+(Essay)&tag=podcaststoboo-20)
-- [The Book of Proverbs by Various Authors (Religious Text)](https://www.amazon.com/s?k=The+Book+of+Proverbs+by+Various+Authors+(Religious+Text)&tag=podcaststoboo-20)
-- [Little House on the Prairie by Laura Ingalls Wilder](https://www.amazon.com/s?k=Little+House+on+the+Prairie+by+Laura+Ingalls+Wilder&tag=podcaststoboo-20)
+{{< episode-books >}}

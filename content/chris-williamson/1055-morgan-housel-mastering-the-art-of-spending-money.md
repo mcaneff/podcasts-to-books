@@ -1,9 +1,13 @@
 +++
-date = '2026-02-05T00:00:00'
+date = "2026-02-05T00:00:00"
 draft = false
-title = '#1055 - Morgan Housel - Mastering the Art of Spending Money'
+title = "#1055 - Morgan Housel - Mastering the Art of Spending Money"
 type = "post"
-podcaster = 'chris-williamson'
+podcaster = "chris-williamson"
+episode_id = "ep_chris-williamson_2026-02-05"
+guest = ""
+books = ["how-rich-are-you-c-mason-jones", "london-edward-rutherford", "man-s-search-for-meaning-viktor-frankl", "rich-dad-poor-dad-robert-kiyosaki", "rough-music-james-wood", "the-bogleheads-guide-to-investing-taylor-larimore-et-al", "the-evolution-of-desire-david-buss", "the-intelligent-investor-benjamin-graham", "the-psychology-of-money-morgan-housel", "think-and-grow-rich-napoleon-hill"]
+books_display = ["How Rich Are You? by C. Mason Jones", "London by Edward Rutherford", "Man's Search for Meaning by Viktor Frankl", "Rich Dad Poor Dad by Robert Kiyosaki", "Rough Music by James Wood", "The Bogleheads' Guide to Investing by Taylor Larimore et al", "The Evolution of Desire by David Buss", "The Intelligent Investor by Benjamin Graham", "The Psychology of Money by Morgan Housel", "Think and Grow Rich by Napoleon Hill"]
 +++
 
 Morgan Housel is a partner at The Collaborative Fund, an investor and an author.
@@ -12,20 +16,11 @@ Why is spending money well a skill most people never learn? In a world obsessed 
 
 Expect to learn why it’s important to talk about how to spend money well when learning about personal finance, why good financial ideas struggle to spread while bad ones travel effortlessly, what Morgan’s definition of success is, how much modern dissatisfaction comes from comparing ourselves to people we don’t actually want to be like, the real relationship between money and happiness with nuance, why it’s so hard to find people who have managed to be wealthy, successful, happy and peaceful, and much more…
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8957890569.mp3?updated=1770229747" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [How Rich Are You?" by C. Mason Jones** – A practical assessment of financial health and long-term wealth building](https://www.amazon.com/s?k=How+Rich+Are+You?"+by+C.+Mason+Jones**+–+A+practical+assessment+of+financial+health+and+long-term+wealth+building&tag=podcaststoboo-20)
-- [London by Edward Rutherford](https://www.amazon.com/s?k=London+by+Edward+Rutherford&tag=podcaststoboo-20)
-- [Man's Search for Meaning by Viktor Frankl](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl&tag=podcaststoboo-20)
-- [Rich Dad Poor Dad" by Robert Kiyosaki** – Explores wealth mindset shifts and asset appreciation beyond traditional means](https://www.amazon.com/s?k=Rich+Dad+Poor+Dad"+by+Robert+Kiyosaki**+–+Explores+wealth+mindset+shifts+and+asset+appreciation+beyond+traditional+means&tag=podcaststoboo-20)
-- [Rough Music by James Wood](https://www.amazon.com/s?k=Rough+Music+by+James+Wood&tag=podcaststoboo-20)
-- [The Bogleheads' Guide to Investing by Taylor Larimore et al](https://www.amazon.com/s?k=The+Bogleheads'+Guide+to+Investing+by+Taylor+Larimore+et+al&tag=podcaststoboo-20)
-- [The Evolution of Desire by David Buss](https://www.amazon.com/s?k=The+Evolution+of+Desire+by+David+Buss&tag=podcaststoboo-20)
-- [The Intelligent Investor" by Benjamin Graham** – A foundational guide to disciplined investing and risk management](https://www.amazon.com/s?k=The+Intelligent+Investor"+by+Benjamin+Graham**+–+A+foundational+guide+to+disciplined+investing+and+risk+management&tag=podcaststoboo-20)
-- [The Psychology of Money by Morgan Housel](https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&tag=podcaststoboo-20)
-- [Think and Grow Rich" by Napoleon Hill** – A manifesto on goal-setting and achieving success through intellect and determination](https://www.amazon.com/s?k=Think+and+Grow+Rich"+by+Napoleon+Hill**+–+A+manifesto+on+goal-setting+and+achieving+success+through+intellect+and+determination&tag=podcaststoboo-20)
+{{< episode-books >}}

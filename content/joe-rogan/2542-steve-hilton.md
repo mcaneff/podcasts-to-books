@@ -4,6 +4,10 @@ draft = false
 title = "#2542 - Steve Hilton"
 type = "post"
 podcaster = "joe-rogan"
+episode_id = "ep_joe-rogan_2026-08-19"
+guest = "Steve Hilton"
+books = ["more-human-steve-hilton"]
+books_display = ["More Human by Steve Hilton"]
 +++
 
 Steve Hilton is a businessman, political commentator, author, and Republican candidate for governor of California.
@@ -23,11 +27,11 @@ Use code ROGAN at https://BlueChew.com to get 10% OFF + Free Overnight Shipping 
 Switch today at&nbsp;https://www.Visible.com&nbsp;for just 25/mo. Or Save $10 on your first month of Visible+ Pro with code ROGAN.&nbsp;
 Learn more about your ad choices.
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://traffic.megaphone.fm/GLT6487899018.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [More Human by Steve Hilton](https://www.amazon.com/s?k=More+Human+by+Steve+Hilton&tag=podcaststoboo-20)
+{{< episode-books >}}

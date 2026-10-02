@@ -1,9 +1,13 @@
 +++
-date = '2026-01-26T00:00:00'
+date = "2026-01-26T00:00:00"
 draft = false
-title = 'Subir Sarkar: Why Dark Energy is a Local Illusion'
+title = "Subir Sarkar: Why Dark Energy is a Local Illusion"
 type = "post"
-podcaster = 'curt-jaimungal'
+podcaster = "curt-jaimungal"
+episode_id = "ep_curt-jaimungal_2026-01-26"
+guest = "Subir Sarkar"
+books = ["gravitation-and-cosmology-steven-weinberg", "handbook-of-physics-wolfgang-pauli", "man-s-search-for-meaning-viktor-frankl", "monthly-notices-of-the-royal-astronomical-society-george-ellis-and-john-baldwin", "reviews-of-modern-physics-subir-sarkar", "the-almanack-of-naval-ravikant-eric-jorgenson", "the-unity-of-the-universe-dennis-sciama"]
+books_display = ["Gravitation and Cosmology by Steven Weinberg", "Handbook of Physics by Wolfgang Pauli", "Man's Search for Meaning by Viktor Frankl", "Monthly Notices of the Royal Astronomical Society by George Ellis and John Baldwin", "Reviews of Modern Physics by Subir Sarkar", "The Almanack of Naval Ravikant by Eric Jorgenson", "The Unity of the Universe by Dennis Sciama"]
 +++
 
 Hot off the press, Professor Subir Sarkar makes the case that dark energy doesn’t exist (and he’s not being provocative for its own sake). He’s the former head of Oxford’s particle theory group, serves on the Particle Data Group. Sarkar's group has found that the cosmic acceleration supposedly driving the universe's expansion is directional—not uniform as required by a cosmological constant—appearing only in the direction we're moving through space. He claims the 2011 Nobel Prize-winning discovery rests on a century-old assumption of cosmic isotropy that his data now falsifies at over 5 sigma. "We need to go back to square one."
@@ -28,17 +32,11 @@ LINKS MENTIONED:
 - https://arxiv.org/abs/1608.06483
 - https://scholar.google.
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI8821482244.mp3?updated=1769465728" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Gravitation and Cosmology by Steven Weinberg](https://www.amazon.com/s?k=Gravitation+and+Cosmology+by+Steven+Weinberg&tag=podcaststoboo-20)
-- [Handbook of Physics by Wolfgang Pauli](https://www.amazon.com/s?k=Handbook+of+Physics+by+Wolfgang+Pauli&tag=podcaststoboo-20)
-- [Man's Search for Meaning by Viktor Frankl](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl&tag=podcaststoboo-20)
-- [Monthly Notices of the Royal Astronomical Society by George Ellis and John Baldwin](https://www.amazon.com/s?k=Monthly+Notices+of+the+Royal+Astronomical+Society+by+George+Ellis+and+John+Baldwin&tag=podcaststoboo-20)
-- [Reviews of Modern Physics by Subir Sarkar](https://www.amazon.com/s?k=Reviews+of+Modern+Physics+by+Subir+Sarkar&tag=podcaststoboo-20)
-- [The Almanack of Naval Ravikant by Eric Jorgenson](https://www.amazon.com/s?k=The+Almanack+of+Naval+Ravikant+by+Eric+Jorgenson&tag=podcaststoboo-20)
-- [The Unity of the Universe by Dennis Sciama](https://www.amazon.com/s?k=The+Unity+of+the+Universe+by+Dennis+Sciama&tag=podcaststoboo-20)
+{{< episode-books >}}

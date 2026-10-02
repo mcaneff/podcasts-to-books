@@ -4,6 +4,10 @@ draft = false
 title = "The Most Important Questions Of Our Time - George Mack - #1124"
 type = "post"
 podcaster = "chris-williamson"
+episode_id = "ep_chris-williamson_2026-07-16"
+guest = "George Mack"
+books = ["atomic-habits-james-clear", "conspiracy-ryan-holiday", "essays-michel-de-montaigne", "moby-dick-herman-melville"]
+books_display = ["Atomic Habits by James Clear", "Conspiracy by Ryan Holiday", "Essays by Michel de Montaigne (Essay)", "Moby Dick by Herman Melville"]
 +++
 
 George Mack is a writer, marketer and entrepreneur.
@@ -12,14 +16,11 @@ What are the most important questions of our time? Some search for the meaning o
 
 Expect to learn if AI-generated stories can win awards, what qualifies for California’s gay certification program, who the chicken farmer who fooled Hitler was, why men aren’t great at receiving and expressing their emotions, why George is obsessed with Gymshark’s finances, the best lessons Chris and George have learned from this past year and much more…
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB4922595077.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Atomic Habits by James Clear](https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&tag=podcaststoboo-20)
-- [Conspiracy by Ryan Holiday](https://www.amazon.com/s?k=Conspiracy+by+Ryan+Holiday&tag=podcaststoboo-20)
-- [Essays by Michel de Montaigne (Essay)](https://www.amazon.com/s?k=Essays+by+Michel+de+Montaigne+(Essay)&tag=podcaststoboo-20)
-- [Moby Dick by Herman Melville](https://www.amazon.com/s?k=Moby+Dick+by+Herman+Melville&tag=podcaststoboo-20)
+{{< episode-books >}}

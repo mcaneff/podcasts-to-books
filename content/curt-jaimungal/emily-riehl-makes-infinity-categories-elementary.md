@@ -1,9 +1,13 @@
 +++
-date = '2026-04-06T00:00:00'
+date = "2026-04-06T00:00:00"
 draft = false
-title = 'Emily Riehl Makes Infinity Categories Elementary'
+title = "Emily Riehl Makes Infinity Categories Elementary"
 type = "post"
-podcaster = 'curt-jaimungal'
+podcaster = "curt-jaimungal"
+episode_id = "ep_curt-jaimungal_2026-04-06"
+guest = ""
+books = ["homotopy-type-theory-the-univalent-foundations-program"]
+books_display = ["Homotopy Type Theory by The Univalent Foundations Program"]
 +++
 
 Emily Riehl, one of the world’s leading category theorists, shares her vision for making infinity category theory something undergrads can actually learn. In this talk, she breaks down how rethinking the foundations of math could change the way it’s taught and understood—and why it might redefine what math even is.
@@ -25,11 +29,11 @@ Links:
 •⁠  ⁠RZK proof assistant: https://rzk-lang.github.io/rzk/en/latest/
 •⁠  ⁠Lean Zulip chat: https://leanprover.zulipchat.
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI6824529213.mp3?updated=1775501775" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Homotopy Type Theory by The Univalent Foundations Program](https://www.amazon.com/s?k=Homotopy+Type+Theory+by+The+Univalent+Foundations+Program&tag=podcaststoboo-20)
+{{< episode-books >}}

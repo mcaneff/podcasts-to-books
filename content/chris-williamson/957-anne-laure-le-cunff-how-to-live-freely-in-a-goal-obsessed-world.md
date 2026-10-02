@@ -1,9 +1,13 @@
 +++
-date = '2025-06-21T00:00:00'
+date = "2025-06-21T00:00:00"
 draft = false
-title = '#957 - Anne-Laure Le Cunff - How To Live Freely In A Goal-Obsessed World'
+title = "#957 - Anne-Laure Le Cunff - How To Live Freely In A Goal-Obsessed World"
 type = "post"
-podcaster = 'chris-williamson'
+podcaster = "chris-williamson"
+episode_id = "ep_chris-williamson_2025-06-21"
+guest = ""
+books = ["mans-search-for-meaning-viktor-frankl", "scripts-plans-goals-and-understanding-roger-schank-and-robert-abelson", "thinking-fast-and-slow-daniel-kahneman", "compensatory-control-and-the-appeal-of-a-structured-world-aaron-c-kay-et-al", "the-ritual-process-victor-turner", "self-complexity-and-affective-extremity-patricia-linville", "the-power-of-habit-charles-duhigg", "nudge-richard-thaler-and-cass-sunstein", "hooked-nir-eyal"]
+books_display = ["Man’s Search for Meaning by Viktor Frankl", "Scripts, Plans, Goals, and Understanding by Roger Schank and Robert Abelson", "Thinking, Fast and Slow by Daniel Kahneman", "Compensatory Control and the Appeal of a Structured World by Aaron C. Kay et al. (Essay)", "The Ritual Process: Structure and Anti-Structure by Victor Turner", "Self-Complexity and Affective Extremity by Patricia Linville (Essay)", "The Power of Habit by Charles Duhigg", "Nudge: Improving Decisions About Health, Wealth, and Happiness by Richard Thaler and Cass Sunstein", "Hooked: How to Build Habit-Forming Products by Nir Eyal"]
 +++
 
 Anne‑Laure Le Cunff is a neuroscientist, founder, and an author. 
@@ -12,19 +16,11 @@ We live by unconscious mental scripts. Most of the time, we don’t even realize
 
 Expect to learn what the problem is when people obsess over finding their purpose, how to know if you’re following your own dreams or someone else’s,  the tactics you can learn to begin unlearning cultural scripts, how to get more comfortable with uncertainty, how to deal with the shame of letting go of busyness and driving toward your purpose, why posture is so overlooked in mental health, how to improve a destructive mindset, and much more…
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://pdst.fm/e/chrt.fm/track/G454/prfx.byspotify.com/e/traffic.megaphone.fm/SIXMSB4255206378.mp3?updated=1750447584" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Man’s Search for Meaning by Viktor Frankl](https://www.amazon.com/s?k=Man’s+Search+for+Meaning+by+Viktor+Frankl&tag=podcaststoboo-20)
-- [Scripts, Plans, Goals, and Understanding by Roger Schank and Robert Abelson](https://www.amazon.com/s?k=Scripts,+Plans,+Goals,+and+Understanding+by+Roger+Schank+and+Robert+Abelson&tag=podcaststoboo-20)
-- [Thinking, Fast and Slow by Daniel Kahneman](https://www.amazon.com/s?k=Thinking,+Fast+and+Slow+by+Daniel+Kahneman&tag=podcaststoboo-20)
-- [Compensatory Control and the Appeal of a Structured World by Aaron C. Kay et al. (Essay)](https://www.amazon.com/s?k=Compensatory+Control+and+the+Appeal+of+a+Structured+World+by+Aaron+C.+Kay+et+al.+(Essay)&tag=podcaststoboo-20)
-- [The Ritual Process: Structure and Anti-Structure by Victor Turner](https://www.amazon.com/s?k=The+Ritual+Process:+Structure+and+Anti-Structure+by+Victor+Turner&tag=podcaststoboo-20)
-- [Self-Complexity and Affective Extremity by Patricia Linville (Essay)](https://www.amazon.com/s?k=Self-Complexity+and+Affective+Extremity+by+Patricia+Linville+(Essay)&tag=podcaststoboo-20)
-- [The Power of Habit by Charles Duhigg](https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&tag=podcaststoboo-20)
-- [Nudge: Improving Decisions About Health, Wealth, and Happiness by Richard Thaler and Cass Sunstein](https://www.amazon.com/s?k=Nudge:+Improving+Decisions+About+Health,+Wealth,+and+Happiness+by+Richard+Thaler+and+Cass+Sunstein&tag=podcaststoboo-20)
-- [Hooked: How to Build Habit-Forming Products by Nir Eyal](https://www.amazon.com/s?k=Hooked:+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&tag=podcaststoboo-20)
+{{< episode-books >}}

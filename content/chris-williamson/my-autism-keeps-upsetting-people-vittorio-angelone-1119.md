@@ -4,6 +4,10 @@ draft = false
 title = "“My Autism Keeps Upsetting People” - Vittorio Angelone - #1119"
 type = "post"
 podcaster = "chris-williamson"
+episode_id = "ep_chris-williamson_2026-07-04"
+guest = "Vittorio Angelone"
+books = ["rules-for-life-jordan-peterson", "strong-female-character-fern-brady", "the-psychology-of-money-morgan-housel"]
+books_display = ["Rules for Life by Jordan Peterson", "Strong Female Character by Fern Brady", "The Psychology of Money by Morgan Housel"]
 +++
 
 Vittorio Angelone is an Irish comedian, writer, and podcaster.
@@ -12,13 +16,11 @@ Is it autism, or something else? Humor can come from a lot of places: being Iris
 
 Expect to learn what happened to Vittorio when he visited Nashville, the biggest difference between being an only child and being autistic, why being uncool is the worst kind of cancellation, why it’s so hard to communicate authentically, why goofy male podcasts appeal to women, if there is any hope for AI and much more…
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB4151543411.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Rules for Life by Jordan Peterson](https://www.amazon.com/s?k=Rules+for+Life+by+Jordan+Peterson&tag=podcaststoboo-20)
-- [Strong Female Character by Fern Brady](https://www.amazon.com/s?k=Strong+Female+Character+by+Fern+Brady&tag=podcaststoboo-20)
-- [The Psychology of Money by Morgan Housel](https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&tag=podcaststoboo-20)
+{{< episode-books >}}

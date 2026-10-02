@@ -4,6 +4,10 @@ draft = false
 title = "Tim Maudlin: Quantum Mechanics Explained FROM SCRATCH"
 type = "post"
 podcaster = "curt-jaimungal"
+episode_id = "ep_curt-jaimungal_2026-07-27"
+guest = "Tim Maudlin"
+books = ["mathematical-foundations-of-quantum-mechanics-john-von-neumann", "quantum-non-locality-and-relativity-tim-maudlin"]
+books_display = ["Mathematical Foundations of Quantum Mechanics by John von Neumann", "Quantum Non-Locality and Relativity by Tim Maudlin"]
 +++
 
 I personally subscribe to The Economist. TOE listeners get 35% off the annual subscription. No other podcast has this! https://economist.com/TOE
@@ -18,13 +22,11 @@ FOLLOW:
 - Crypto: https://nowpayments.io/donation/TOE
 - PayPal: https://www.paypal.
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI5992208391.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Mathematical Foundations of Quantum Mechanics by John von Neumann](https://www.amazon.com/s?k=Mathematical+Foundations+of+Quantum+Mechanics+by+John+von+Neumann&tag=podcaststoboo-20)
-- [Quantum Non-Locality and Relativity by Tim Maudlin](https://www.amazon.com/s?k=Quantum+Non-Locality+and+Relativity+by+Tim+Maudlin&tag=podcaststoboo-20)
-- [Quantum Theory and Measurement by John Archibald Wheeler and Wojciech Hubert Zurek](https://www.amazon.com/s?k=Quantum+Theory+and+Measurement+by+John+Archibald+Wheeler+and+Wojciech+Hubert+Zurek&tag=podcaststoboo-20)
+{{< episode-books >}}

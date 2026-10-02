@@ -4,6 +4,10 @@ draft = false
 title = "Ex-Gang Member: What Makes A Violent Man Change? - Johnny Chang - #1140"
 type = "post"
 podcaster = "chris-williamson"
+episode_id = "ep_chris-williamson_2026-08-22"
+guest = "Johnny Chang"
+books = ["the-bible-anonymous"]
+books_display = ["The Bible by Anonymous"]
 +++
 
 Johnny Chang is a former gang member and inmate turned Christian pastor, speaker, and podcaster.
@@ -12,11 +16,11 @@ What happens when a boy enters prison at 12 and doesn’t emerge until 25? That 
 
 Expect to learn how Johnny was brought into gang life when he was 12 years old, why Juvie is more violent but less lethal than prison, what life is like in prison and what it takes to survive, the hardest things to unlearn after prison, how Johnny found god and started preaching the gospel, what twelve-year-old Johnny would think if he could see himself now and much more…
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8576589876.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [The Bible by Anonymous](https://www.amazon.com/s?k=The+Bible+by+Anonymous&tag=podcaststoboo-20)
+{{< episode-books >}}

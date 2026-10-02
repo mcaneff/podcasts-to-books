@@ -28,12 +28,24 @@
       </p>
       <div class="book-buy">
         <a class="btn" href="{{ $b.amazon_url }}" target="_blank" rel="noopener sponsored">Buy on Amazon</a>
-        <a class="btn secondary" href="{{ $b.bookshop_url }}" target="_blank" rel="noopener">Bookshop.org</a>
-        {{- if $b.open_library_url }}<a class="btn secondary" href="{{ $b.open_library_url }}" target="_blank" rel="noopener">Open Library</a>{{ end }}
       </div>
       {{- if $b.isbn13 }}<p class="muted">ISBN {{ $b.isbn13 }}</p>{{ end }}
     </div>
   </div>
+
+  {{- with $b.description }}
+  <div class="post-content book-description">
+    <h2 id="about">About the book</h2>
+    {{- if gt (len .) 700 }}
+    <details class="book-description-more">
+      <summary>{{ substr . 0 700 }}… <span class="more">Read more</span></summary>
+      <div class="book-description-rest">{{ . | markdownify }}</div>
+    </details>
+    {{- else }}
+    {{ . | markdownify }}
+    {{- end }}
+  </div>
+  {{- end }}
 
   <div class="post-content">
     <h2 id="mentions">Where it comes up</h2>

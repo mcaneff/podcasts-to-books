@@ -1,19 +1,20 @@
 +++
-date = '2025-04-12T00:00:00'
+date = "2025-04-12T00:00:00"
 draft = false
-title = 'The Most Unsolvable Question In Science – Annaka Harris'
+title = "The Most Unsolvable Question In Science – Annaka Harris"
 type = "post"
-tags = [
-  'Consciousness',
-  'Science',
-  'Philosophy of Mind',
-  'Annaka Harris'
-]
+podcaster = "chris-williamson"
+episode_id = "ep_chriswilliamson_2025-04-12"
+guest = "Annaka Harris"
+books = ["galileo-s-error-philip-goff", "the-light-eaters-zoe-schlinger"]
+books_display = ["Galileo's Error by Philip Goff", "The Light Eaters by Zoe Schlinger"]
 +++
-    
-This post lists the books mentioned in the episode: [The Most Unsolvable Question In Science – Annaka Harris](https://www.youtube.com/watch?v=M2DbhKDyo18).
+
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
+  <source src="https://www.youtube.com/watch?v=M2DbhKDyo18" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 ## Mentioned Books
 
-- [Galileo's Error by Philip Goff](https://www.amazon.com/s?k=Galileo's+Error+by+Philip+Goff&tag=podcaststoboo-20)
-- [The Light Eaters by Zoe Schlinger](https://www.amazon.com/s?k=The+Light+Eaters+by+Zoe+Schlinger&tag=podcaststoboo-20)
+{{< episode-books >}}

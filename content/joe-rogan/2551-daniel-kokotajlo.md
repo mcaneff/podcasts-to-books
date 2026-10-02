@@ -4,6 +4,10 @@ draft = false
 title = "#2551 - Daniel Kokotajlo"
 type = "post"
 podcaster = "joe-rogan"
+episode_id = "ep_joe-rogan_2026-09-09"
+guest = "Daniel Kokotajlo"
+books = ["count-down-shanna-swan"]
+books_display = ["Count Down by Shanna Swan"]
 +++
 
 Daniel&nbsp;Kokotajlo&nbsp;is the executive director of the AI Futures Project and a former governance researcher at OpenAI, where he focused on scenario planning.www.aifuturesmodel.com
@@ -23,11 +27,11 @@ Don’t miss out on all the action this week at DraftKings! Download the DraftKi
 Switch today at&nbsp;https://www.Visible.com&nbsp;for just 25/mo. Or Save $10 on your first month of Visible+ Pro with code ROGAN.&nbsp;
 Learn more about your ad choices.
 
-<audio controls style="width: 100%; max-width: 800px;">
+<audio id="episode-audio" controls preload="none" style="width: 100%; max-width: 800px;">
   <source src="https://traffic.megaphone.fm/GLT7087453482.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 ## Mentioned Books
 
-- [Count Down by Shanna Swan](https://www.amazon.com/s?k=Count+Down+by+Shanna+Swan&tag=podcaststoboo-20)
+{{< episode-books >}}
