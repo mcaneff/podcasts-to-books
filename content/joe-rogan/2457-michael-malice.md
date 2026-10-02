@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-19"
 guest = "Michael Malice"
+guests = ["Michael Malice"]
 books = ["american-splendor-harvey-pekar"]
 books_display = ["American Splendor by Harvey Pekar"]
 +++

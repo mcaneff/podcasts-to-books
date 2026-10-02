@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-03-26"
 guest = "Dave Smith"
+guests = ["Dave Smith"]
 books = ["the-way-of-the-fight-georges-st-pierre"]
 books_display = ["The Way of the Fight by Georges St-Pierre"]
 +++

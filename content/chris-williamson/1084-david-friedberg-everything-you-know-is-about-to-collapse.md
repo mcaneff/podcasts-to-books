@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-04-13"
 guest = ""
+guests = []
 books = ["seveneves-neal-stephenson"]
 books_display = ["Seveneves by Neal Stephenson"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-07-01"
 guest = ""
+guests = []
 books = ["critique-of-pure-reason-immanuel-kant", "naming-and-necessity-saul-kripke", "tractatus-ludwig-wittgenstein"]
 books_display = ["Critique of Pure Reason by Immanuel Kant", "Naming and Necessity by Saul Kripke", "Tractatus by Ludwig Wittgenstein"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-07-11"
 guest = "Robert Wright"
+guests = ["Robert Wright"]
 books = ["nonzero-robert-wright", "superintelligence-nick-bostrom", "the-moral-animal-robert-wright"]
 books_display = ["Nonzero by Robert Wright", "Superintelligence by Nick Bostrom", "The Moral Animal by Robert Wright"]
 +++

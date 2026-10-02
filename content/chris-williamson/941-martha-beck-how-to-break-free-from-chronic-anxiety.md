@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2025-05-15"
 guest = ""
+guests = []
 books = ["the-autobiography-of-mark-twain-mark-twain", "get-out-of-your-mind-and-into-your-life-steven-c-hayes", "the-master-and-his-emissary-iain-mcgilchrist", "never-split-the-difference-chris-voss", "the-way-of-integrity-martha-beck"]
 books_display = ["The Autobiography of Mark Twain by Mark Twain", "Get Out of Your Mind and Into Your Life by Steven C. Hayes", "The Master and His Emissary: The Divided Brain and the Making of the Western World by Iain McGilchrist", "Never Split the Difference by Chris Voss", "The Way of Integrity by Martha Beck"]
 +++

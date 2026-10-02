@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-03-04"
 guest = ""
+guests = []
 books = ["man-s-search-for-meaning-viktor-frankl", "the-almanack-of-naval-ravikant-eric-jorgenson", "the-spirit-s-book-allan-kardec"]
 books_display = ["Man's Search for Meaning by Viktor Frankl", "The Almanack of Naval Ravikant by Eric Jorgenson", "The Spirit's Book by Allan Kardec"]
 +++

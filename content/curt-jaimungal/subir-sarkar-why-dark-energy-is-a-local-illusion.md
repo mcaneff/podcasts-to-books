@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-01-26"
 guest = "Subir Sarkar"
+guests = ["Subir Sarkar"]
 books = ["gravitation-and-cosmology-steven-weinberg", "handbook-of-physics-wolfgang-pauli", "man-s-search-for-meaning-viktor-frankl", "monthly-notices-of-the-royal-astronomical-society-george-ellis-and-john-baldwin", "reviews-of-modern-physics-subir-sarkar", "the-almanack-of-naval-ravikant-eric-jorgenson", "the-unity-of-the-universe-dennis-sciama"]
 books_display = ["Gravitation and Cosmology by Steven Weinberg", "Handbook of Physics by Wolfgang Pauli", "Man's Search for Meaning by Viktor Frankl", "Monthly Notices of the Royal Astronomical Society by George Ellis and John Baldwin", "Reviews of Modern Physics by Subir Sarkar", "The Almanack of Naval Ravikant by Eric Jorgenson", "The Unity of the Universe by Dennis Sciama"]
 +++

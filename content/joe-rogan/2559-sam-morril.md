@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-09-29"
 guest = "Sam Morril"
+guests = ["Sam Morril"]
 books = ["cobalt-red-siddharth-kara", "mary-s-mosaic-peter-janney"]
 books_display = ["Cobalt Red by Siddharth Kara", "Mary's Mosaic by Peter Janney"]
 +++

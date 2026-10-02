@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-08-13"
 guest = ""
+guests = []
 books = ["blood-meridian-cormac-mccarthy", "empire-of-the-summer-moon-s-c-gwynne", "she-comes-first-ian-kerner"]
 books_display = ["Blood Meridian by Cormac McCarthy", "Empire of the Summer Moon by S.C. Gwynne", "She Comes First by Ian Kerner"]
 +++

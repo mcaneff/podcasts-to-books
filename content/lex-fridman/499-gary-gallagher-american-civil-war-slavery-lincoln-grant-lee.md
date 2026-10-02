@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2026-07-28"
 guest = "Gary Gallagher"
+guests = ["Gary Gallagher"]
 books = ["huckleberry-finn-mark-twain", "the-union-war-gary-gallagher", "uncle-tom-s-cabin-harriet-beecher-stowe"]
 books_display = ["Huckleberry Finn by Mark Twain", "The Union War by Gary Gallagher", "Uncle Tom's Cabin by Harriet Beecher Stowe"]
 +++

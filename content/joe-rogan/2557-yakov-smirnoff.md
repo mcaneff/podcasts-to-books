@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-09-23"
 guest = "Yakov Smirnoff"
+guests = ["Yakov Smirnoff"]
 books = ["his-needs-her-needs-willard-hartley"]
 books_display = ["His Needs, Her Needs by Willard Hartley"]
 +++

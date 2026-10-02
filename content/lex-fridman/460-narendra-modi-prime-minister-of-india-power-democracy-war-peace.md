@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2025-03-16"
 guest = "Narendra Modi"
+guests = ["Narendra Modi"]
 books = ["vedas-ancient-sages", "upanishads-ancient-sages", "bhagavad-gita-vyasa", "mahabharata-vyasa", "ramayana-valmiki", "siddhartha-hermann-hesse", "the-allegory-of-the-cave-plato", "karma-yoga-swami-vivekananda", "raja-yoga-swami-vivekananda"]
 books_display = ["Vedas by Ancient Sages", "Upanishads by Ancient Sages", "Bhagavad Gita by Vyasa", "Mahabharata by Vyasa", "Ramayana by Valmiki", "Siddhartha by Hermann Hesse", "The Allegory of the Cave by Plato (Essay)", "Karma Yoga by Swami Vivekananda", "Raja Yoga by Swami Vivekananda"]
 +++

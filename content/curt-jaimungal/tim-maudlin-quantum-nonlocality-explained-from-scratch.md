@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-08-31"
 guest = "Tim Maudlin"
+guests = ["Tim Maudlin"]
 books = ["quantum-reality-nick-herbert"]
 books_display = ["Quantum Reality by Nick Herbert"]
 +++

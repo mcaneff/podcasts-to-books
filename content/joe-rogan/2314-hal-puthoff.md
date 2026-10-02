@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-05-01"
 guest = "Hal Puthoff"
+guests = ["Hal Puthoff"]
 books = ["fundamentals-of-quantum-electronics-h-puthoff-and-anthony-e-siegman", "scientific-study-of-unidentified-flying-objects-edward-u-condon", "mind-reach-russell-targ-and-harold-puthoff"]
 books_display = ["Fundamentals of Quantum Electronics by H. Puthoff and Anthony E. Siegman", "Scientific Study of Unidentified Flying Objects by Edward U. Condon", "Mind-Reach: Scientists Look at Psychic Ability by Russell Targ and Harold Puthoff"]
 +++

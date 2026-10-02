@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-03-19"
 guest = ""
+guests = []
 books = ["either-or-soren-kierkegaard"]
 books_display = ["Either/Or by Søren Kierkegaard"]
 +++

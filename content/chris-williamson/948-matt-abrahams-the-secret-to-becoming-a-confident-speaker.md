@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2025-05-31"
 guest = ""
+guests = []
 books = ["the-almanack-of-naval-ravikant-eric-jorgenson"]
 books_display = ["The Almanack of Naval Ravikant by Eric Jorgenson"]
 +++

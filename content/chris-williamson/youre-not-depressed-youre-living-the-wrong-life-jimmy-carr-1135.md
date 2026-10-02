@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-08-10"
 guest = "Jimmy Carr"
+guests = ["Jimmy Carr"]
 books = ["die-with-zero-bill-perkins", "the-subtle-art-of-not-giving-a-f-ck-mark-manson", "what-we-owe-the-future-william-macaskill"]
 books_display = ["Die With Zero by Bill Perkins", "The Subtle Art of Not Giving a F*ck by Mark Manson", "What We Owe The Future by William MacAskill"]
 +++

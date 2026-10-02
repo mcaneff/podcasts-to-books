@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-05-07"
 guest = ""
+guests = []
 books = ["models-mark-manson", "the-subtle-art-of-not-giving-a-f-ck-mark-manson"]
 books_display = ["Models by Mark Manson", "The Subtle Art of Not Giving a F*ck by Mark Manson"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-09-22"
 guest = "Siddharth Kara"
+guests = ["Siddharth Kara"]
 books = ["cobalt-red-siddharth-kara"]
 books_display = ["Cobalt Red by Siddharth Kara"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-07-02"
 guest = "Tony Hinchcliffe"
+guests = ["Tony Hinchcliffe"]
 books = ["sapiens-yuval-noah-harari", "self-reliance-ralph-waldo-emerson", "the-power-of-habit-charles-duhigg"]
 books_display = ["Sapiens by Yuval Noah Harari", "Self-Reliance by Ralph Waldo Emerson (Essay)", "The Power of Habit by Charles Duhigg"]
 +++

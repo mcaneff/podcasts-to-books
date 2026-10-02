@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-10-01"
 guest = "Sean Sharaf"
+guests = ["Sean Sharaf"]
 books = ["can-t-hurt-me-david-goggins"]
 books_display = ["Can't Hurt Me by David Goggins"]
 +++

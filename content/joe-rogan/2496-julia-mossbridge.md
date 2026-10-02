@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-05-08"
 guest = "Julia Mossbridge"
+guests = ["Julia Mossbridge"]
 books = ["have-a-nice-disclosure-julia-mossbridge", "how-the-hippies-saved-physics-david-kaiser", "the-legend-of-bagger-vance-steven-pressfield"]
 books_display = ["Have a Nice Disclosure by Julia Mossbridge", "How the Hippies Saved Physics by David Kaiser", "The Legend of Bagger Vance by Steven Pressfield"]
 +++

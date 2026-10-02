@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-08-14"
 guest = "Travis Barker"
+guests = ["Travis Barker"]
 books = ["relentless-tim-grover"]
 books_display = ["Relentless by Tim Grover"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-05-07"
 guest = "Cody Tucker"
+guests = ["Cody Tucker"]
 books = ["and-now-you-know-cody-tucker", "gone-to-texas-forrest-carter", "the-running-man-richard-bachman", "the-dark-half-stephen-king", "industrial-society-and-its-future-ted-kaczynski", "my-big-toe-thomas-campbell", "the-emerald-tablets-of-thoth-the-atlantean-thoth"]
 books_display = ["And Now You Know by Cody Tucker", "Gone to Texas by Forrest Carter", "The Running Man by Richard Bachman", "The Dark Half by Stephen King", "Industrial Society and Its Future by Ted Kaczynski (Essay)", "My Big TOE by Thomas Campbell", "The Emerald Tablets of Thoth the Atlantean by Thoth"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2025-05-03"
 guest = ""
+guests = []
 books = ["endure-alex-hutchinson", "dopamine-nation-anna-lembke", "the-second-mountain-david-brooks", "the-power-of-habit-charles-duhigg", "the-4-hour-work-week-tim-ferriss", "the-art-of-learning-josh-waitzkin"]
 books_display = ["Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance by Alex Hutchinson", "Dopamine Nation: Finding Balance in the Age of Indulgence by Anna Lembke", "The Second Mountain: The Quest for a Moral Life by David Brooks", "The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg", "The 4-Hour Work Week: Escape 9-5, Live Anywhere, and Join the New Rich by Tim Ferriss", "The Art of Learning: An Inner Journey to Optimal Performance by Josh Waitzkin"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-05-07"
 guest = "Tim Burchett"
+guests = ["Tim Burchett"]
 books = ["chaos-tom-o-neill"]
 books_display = ["Chaos by Tom O'Neill"]
 +++

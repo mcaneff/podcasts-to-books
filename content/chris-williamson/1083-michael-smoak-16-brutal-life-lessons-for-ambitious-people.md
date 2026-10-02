@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-04-11"
 guest = ""
+guests = []
 books = ["die-with-zero-bill-perkins"]
 books_display = ["Die with Zero by Bill Perkins"]
 +++

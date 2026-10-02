@@ -1,0 +1,49 @@
+{{- define "main" }}
+{{- $books := site.Data.books | default dict }}
+{{- $ids := slice }}{{ range .Pages }}{{ with .Params.episode_id }}{{ $ids = $ids | append . }}{{ end }}{{ end }}
+{{- $podcasts := slice }}{{ range .Pages }}{{ with .Params.podcaster }}{{ $podcasts = $podcasts | append . }}{{ end }}{{ end }}
+{{- $podcasts = $podcasts | uniq }}
+{{- /* books mentioned in this guest's episodes, with the mention for the "listen" link */}}
+{{- $found := slice }}
+{{- range $slug, $b := $books }}
+  {{- $hits := slice }}
+  {{- range $b.mentions }}{{ if in $ids .episode_id }}{{ $hits = $hits | append . }}{{ end }}{{ end }}
+  {{- if $hits }}{{ $found = $found | append (dict "book" $b "hits" $hits "n" (len $hits)) }}{{ end }}
+{{- end }}
+<article class="post-single guest-page">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-description">
+      {{ len .Pages }} episode{{ if ne (len .Pages) 1 }}s{{ end }}
+      on {{ range $i, $p := $podcasts }}{{ if $i }}, {{ end }}{{ with index ((site.Data.site | default dict).podcasters | default dict) $p }}{{ .name }}{{ else }}{{ $p }}{{ end }}{{ end }}
+      · {{ len $found }} book{{ if ne (len $found) 1 }}s{{ end }} mentioned
+    </div>
+  </header>
+
+  {{- if $found }}
+  <div class="post-content">
+    <h2 id="books">Books {{ .Title }} talked about</h2>
+    <div class="book-grid">
+      {{- range sort $found "n" "desc" }}
+        {{- partial "book-card.html" (dict "book" .book "count" .n) }}
+      {{- end }}
+    </div>
+  </div>
+  {{- end }}
+
+  <div class="post-content">
+    <h2 id="episodes">Episodes</h2>
+    <ul class="mention-list">
+      {{- range .Pages.ByDate.Reverse }}
+      <li class="mention">
+        <div class="mention-head"><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <span class="muted">· {{ .Date | time.Format "2006-01-02" }}{{ with .Params.podcaster }} · {{ with index ((site.Data.site | default dict).podcasters | default dict) . }}{{ .name }}{{ else }}{{ . }}{{ end }}{{ end }}</span>
+        </div>
+        {{- with .Params.books_display }}<div class="muted episode-books-inline">{{ delimit . " · " }}</div>{{ end }}
+      </li>
+      {{- end }}
+    </ul>
+  </div>
+</article>
+{{- end }}

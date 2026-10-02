@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-05"
 guest = "Raul Bilecky"
+guests = ["Raul Bilecky"]
 books = ["fingerprints-of-the-gods-graham-hancock", "the-lord-of-sipan-walter-alva"]
 books_display = ["Fingerprints of the Gods by Graham Hancock", "The Lord of Sipán by Walter Alva"]
 +++

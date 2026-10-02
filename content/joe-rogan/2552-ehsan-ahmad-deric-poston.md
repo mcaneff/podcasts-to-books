@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-09-10"
 guest = "Ehsan Ahmad & Deric Poston"
+guests = ["Ehsan Ahmad", "Deric Poston"]
 books = ["fifty-shades-of-grey-e-l-james", "twilight-stephenie-meyer"]
 books_display = ["Fifty Shades of Grey by E. L. James", "Twilight by Stephenie Meyer"]
 +++

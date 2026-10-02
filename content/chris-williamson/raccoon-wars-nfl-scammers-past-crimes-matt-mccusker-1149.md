@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-09-12"
 guest = "Matt McCusker"
+guests = ["Matt McCusker"]
 books = ["a-swim-in-a-pond-in-the-rain-george-saunders", "harry-potter-j-k-rowling", "orthodoxy-g-k-chesterton", "the-alchemist-paulo-coelho"]
 books_display = ["A Swim in a Pond in the Rain by George Saunders", "Harry Potter by J.K. Rowling", "Orthodoxy by G.K. Chesterton", "The Alchemist by Paulo Coelho"]
 +++

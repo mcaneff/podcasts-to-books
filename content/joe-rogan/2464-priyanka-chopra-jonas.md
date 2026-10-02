@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-03-05"
 guest = "Priyanka Chopra Jonas"
+guests = ["Priyanka Chopra Jonas"]
 books = ["fingerprints-of-the-gods-graham-hancock", "man-s-search-for-meaning-viktor-frankl"]
 books_display = ["Fingerprints of the Gods by Graham Hancock", "Man's Search for Meaning by Viktor Frankl"]
 +++

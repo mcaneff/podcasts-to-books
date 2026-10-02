@@ -61,7 +61,7 @@
       <li class="mention">
         <div class="mention-head">
           {{- if $page }}<a href="{{ $page.RelPermalink }}">{{ .episode_title }}</a>{{ else }}{{ .episode_title }}{{ end }}
-          <span class="muted">· {{ .date }}{{ with .guest }} · with {{ . }}{{ end }}</span>
+          <span class="muted">· {{ .date }}{{ with .guest }} · with {{ with site.GetPage (printf "/guests/%s" (. | urlize)) }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ else }}{{ . }}{{ end }}{{ end }}</span>
         </div>
         {{- if .quote }}<blockquote class="mention-quote">“{{ .quote }}”</blockquote>{{ end }}
         {{- if and $page .t_label }}<a class="seek-link" href="{{ $page.RelPermalink }}#t={{ .t }}">▶ Listen from {{ .t_label }}</a>{{ end }}

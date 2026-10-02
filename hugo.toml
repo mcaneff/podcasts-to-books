@@ -13,12 +13,22 @@ enableRobotsTXT = true
   [services.googleAnalytics]
     id = "G-X7GMKLV284"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  guest = "guests"
+
 [outputs]
   home = [ "HTML", "RSS", "JSON", "Sitemap" ]
 
 [[menu.main]]
   name = "Books"
   url = "/books/"
+  weight = -2
+
+[[menu.main]]
+  name = "Guests"
+  url = "/guests/"
   weight = -1
 
 [[menu.main]]

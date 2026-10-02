@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-09-24"
 guest = "Tyler Engle"
+guests = ["Tyler Engle"]
 books = ["book-of-enoch-enoch", "fingerprints-of-the-gods-graham-hancock"]
 books_display = ["Book of Enoch by Enoch", "Fingerprints of the Gods by Graham Hancock"]
 +++

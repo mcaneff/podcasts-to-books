@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2026-01-13"
 guest = "Paul Rosolie"
+guests = ["Paul Rosolie"]
 books = ["echoes-from-eden-dax", "jungle-keeper-paul-rosley", "man-s-search-for-meaning-viktor-frankl", "the-almanack-of-naval-ravikant-eric-jorgenson"]
 books_display = ["Echoes from Eden by Dax", "Jungle Keeper by Paul Rosley", "Man's Search for Meaning by Viktor Frankl", "The Almanack of Naval Ravikant by Eric Jorgenson"]
 +++

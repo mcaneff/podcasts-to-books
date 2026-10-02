@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-17"
 guest = "Donnell Rawlings"
+guests = ["Donnell Rawlings"]
 books = ["dianetics-l-ron-hubbard"]
 books_display = ["Dianetics by L. Ron Hubbard"]
 +++

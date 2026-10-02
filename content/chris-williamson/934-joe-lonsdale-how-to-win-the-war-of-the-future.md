@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-04-28"
 guest = ""
+guests = []
 books = ["the-shield-of-achilles-philip-bobbitt", "seveneves-neal-stephenson"]
 books_display = ["The Shield of Achilles by Philip Bobbitt", "Seveneves by Neal Stephenson"]
 +++

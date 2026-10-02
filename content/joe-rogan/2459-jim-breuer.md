@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-24"
 guest = "Jim Breuer"
+guests = ["Jim Breuer"]
 books = ["man-s-search-for-meaning-viktor-frankl", "the-almanack-of-naval-ravikant-eric-jorgenson"]
 books_display = ["Man's Search for Meaning by Viktor Frankl", "The Almanack of Naval Ravikant by Eric Jorgenson"]
 +++

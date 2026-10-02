@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-05-15"
 guest = "Rebecca Lemov"
+guests = ["Rebecca Lemov"]
 books = ["chaos-tom-o-neill", "the-terminal-man-michael-crichton", "the-sacred-mushroom-and-the-cross-john-marco-allegro", "the-captive-mind-czeslaw-milosz"]
 books_display = ["Chaos: Charles Manson, the CIA, and the Secret History of the 1960s by Tom O'Neill", "The Terminal Man by Michael Crichton", "The Sacred Mushroom and the Cross by John Marco Allegro", "The Captive Mind by Czesław Miłosz"]
 +++

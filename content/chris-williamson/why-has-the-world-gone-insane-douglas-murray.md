@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-04-14"
 guest = "Douglas Murray"
+guests = ["Douglas Murray"]
 books = ["the-strange-death-of-europe-douglas-murray", "the-war-on-the-west-douglas-murray", "war-and-peace-leo-tolstoy", "mother-night-kurt-vonnegut", "life-and-fate-vasily-grossman"]
 books_display = ["The Strange Death of Europe: Immigration, Identity, Islam by Douglas Murray", "The War on the West by Douglas Murray", "War and Peace by Leo Tolstoy", "Mother Night by Kurt Vonnegut", "Life and Fate by Vasily Grossman"]
 +++

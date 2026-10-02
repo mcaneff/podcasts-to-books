@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-02-14"
 guest = ""
+guests = []
 books = ["notes-on-being-a-man-scott-galloway", "on-death-and-dying-elisabeth-kubler-ross", "the-7-habits-of-highly-effective-people-stephen-covey", "the-power-of-habit-charles-duhigg"]
 books_display = ["Notes on Being a Man by Scott Galloway", "On Death and Dying by Elisabeth Kübler-Ross", "The 7 Habits of Highly Effective People by Stephen Covey", "The Power of Habit by Charles Duhigg"]
 +++

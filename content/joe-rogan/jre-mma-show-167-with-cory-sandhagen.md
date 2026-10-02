@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-06-26"
 guest = "Cory Sandhagen"
+guests = ["Cory Sandhagen"]
 books = ["the-hero-with-a-thousand-faces-joseph-campbell", "man-and-his-symbols-carl-jung", "the-miracle-of-mindfulness-thich-nhat-hanh", "taming-your-gremlin-rick-carson"]
 books_display = ["The Hero with a Thousand Faces by Joseph Campbell", "Man and His Symbols by Carl Jung", "The Miracle of Mindfulness by Thich Nhat Hanh (Essay)", "Taming Your Gremlin by Rick Carson"]
 +++

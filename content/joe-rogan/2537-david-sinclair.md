@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-08-07"
 guest = "David Sinclair"
+guests = ["David Sinclair"]
 books = ["lifespan-david-sinclair"]
 books_display = ["Lifespan by David Sinclair"]
 +++

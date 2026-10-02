@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-08-08"
 guest = ""
+guests = []
 books = ["atomic-habits-james-clear", "dungeon-crawler-carl-matt-dinniman", "red-rising-pierce-brown", "the-obstacle-is-the-way-ryan-holiday", "the-precipice-toby-ord"]
 books_display = ["Atomic Habits by James Clear", "Dungeon Crawler Carl by Matt Dinniman", "Red Rising by Pierce Brown", "The Obstacle is the Way by Ryan Holiday", "The Precipice by Toby Ord"]
 +++

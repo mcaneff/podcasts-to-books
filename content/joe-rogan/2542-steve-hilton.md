@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-08-19"
 guest = "Steve Hilton"
+guests = ["Steve Hilton"]
 books = ["more-human-steve-hilton"]
 books_display = ["More Human by Steve Hilton"]
 +++

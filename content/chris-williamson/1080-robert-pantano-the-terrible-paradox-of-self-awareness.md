@@ -5,7 +5,8 @@ title = "#1080 -  Robert Pantano - The Terrible Paradox of Self-Awareness"
 type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-04-04"
-guest = "The Terrible Paradox of Self-Awareness"
+guest = ""
+guests = []
 books = ["harry-potter-series-j-k-rowling"]
 books_display = ["Harry Potter series by J.K. Rowling"]
 +++

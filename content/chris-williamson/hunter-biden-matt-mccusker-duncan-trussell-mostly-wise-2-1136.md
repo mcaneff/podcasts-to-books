@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-08-13"
 guest = "Hunter Biden, Matt McCusker & Duncan Trussell"
+guests = ["Hunter Biden", "Matt McCusker", "Duncan Trussell"]
 books = ["promise-me-dad-joe-biden", "superintelligence-nick-bostrom", "the-devil-s-chessboard-david-talbot"]
 books_display = ["Promise Me, Dad by Joe Biden", "Superintelligence by Nick Bostrom", "The Devil's Chessboard by David Talbot"]
 +++

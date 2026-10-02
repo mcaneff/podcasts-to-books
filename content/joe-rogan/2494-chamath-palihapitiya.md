@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-05-05"
 guest = "Chamath Palihapitiya"
+guests = ["Chamath Palihapitiya"]
 books = ["book-of-ezekiel-ezekiel", "mahabharata-vyasa"]
 books_display = ["Book of Ezekiel by Ezekiel", "Mahabharata by Vyasa"]
 +++

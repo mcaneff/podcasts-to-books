@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-04-30"
 guest = ""
+guests = []
 books = ["the-beginning-of-infinity-david-deutsch"]
 books_display = ["The Beginning of Infinity by David Deutsch"]
 +++

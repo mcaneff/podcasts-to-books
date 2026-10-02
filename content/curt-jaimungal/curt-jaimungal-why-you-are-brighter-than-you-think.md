@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-04-10"
 guest = ""
+guests = []
 books = ["godel-escher-bach-douglas-hofstadter", "the-master-and-his-emissary-iain-mcgilchrist"]
 books_display = ["Gödel, Escher, Bach by Douglas Hofstadter", "The Master and His Emissary by Iain McGilchrist"]
 +++

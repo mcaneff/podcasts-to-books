@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-03-10"
 guest = ""
+guests = []
 books = ["story-robert-mckee", "the-hero-with-a-thousand-faces-joseph-campbell", "the-science-of-storytelling-will-storr", "the-alchemist-paulo-coelho"]
 books_display = ["Story by Robert McKee", "The Hero with a Thousand Faces by Joseph Campbell", "The Science of Storytelling by Will Storr", "The Alchemist by Paulo Coelho"]
 +++

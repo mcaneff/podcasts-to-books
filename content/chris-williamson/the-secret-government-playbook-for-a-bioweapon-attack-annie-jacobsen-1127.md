@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-07-23"
 guest = "Annie Jacobsen"
+guests = ["Annie Jacobsen"]
 books = ["the-pentagon-s-brain-annie-jacobson", "the-precipice-toby-ord"]
 books_display = ["The Pentagon's Brain by Annie Jacobson", "The Precipice by Toby Ord"]
 +++

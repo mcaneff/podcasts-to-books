@@ -6,8 +6,9 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2026-08-26"
 guest = ""
-books = ["a-space-odyssey-arthur-c-clarke"]
-books_display = [": A Space Odyssey by Arthur C. Clarke"]
+guests = []
+books = ["2001-arthur-c-clarke"]
+books_display = ["2001: A Space Odyssey by Arthur C. Clarke"]
 +++
 
 <p>DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.<br />

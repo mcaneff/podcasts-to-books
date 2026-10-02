@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2025-05-08"
 guest = ""
+guests = []
 books = ["bringing-up-baby-paul-bloom", "homicide-martin-daly-and-margo-wilson"]
 books_display = ["Bringing Up Baby: An Evolutionary View of Pediatrics by Paul Bloom", "Homicide by Martin Daly and Margo Wilson"]
 +++

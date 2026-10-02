@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-08-20"
 guest = "Jocko Willink, Matt McCusker & Jeff Dye"
+guests = ["Jocko Willink", "Matt McCusker", "Jeff Dye"]
 books = ["extreme-ownership-jocko-willink-and-leif-babin", "into-thin-air-jon-krakauer", "the-big-short-michael-lewis", "way-of-the-warrior-kid-jocko-willink"]
 books_display = ["Extreme Ownership by Jocko Willink and Leif Babin", "Into Thin Air by Jon Krakauer", "The Big Short by Michael Lewis", "Way of the Warrior Kid by Jocko Willink"]
 +++

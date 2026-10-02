@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-07-30"
 guest = "Diana Pasulka"
+guests = ["Diana Pasulka"]
 books = ["behold-a-pale-horse-william-cooper", "childhood-s-end-arthur-c-clarke", "messengers-of-deception-jacques-vallee", "the-book-of-enoch-anonymous", "the-mothman-prophecies-john-keel", "wonders-in-the-sky-jacques-vallee"]
 books_display = ["Behold a Pale Horse by William Cooper", "Childhood's End by Arthur C. Clarke", "Messengers of Deception by Jacques Vallee", "The Book of Enoch by Anonymous", "The Mothman Prophecies by John Keel", "Wonders in the Sky by Jacques Vallee"]
 +++

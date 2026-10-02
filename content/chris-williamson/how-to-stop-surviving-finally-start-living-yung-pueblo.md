@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-03-15"
 guest = "Yung Pueblo"
+guests = ["Yung Pueblo"]
 books = ["why-buddhism-is-true-robert-wright", "how-to-love-better-yung-pueblo", "hardwiring-happiness-rick-hanson"]
 books_display = ["Why Buddhism is True by Robert Wright", "How to Love Better by Yung Pueblo", "Hardwiring Happiness by Rick Hanson"]
 +++

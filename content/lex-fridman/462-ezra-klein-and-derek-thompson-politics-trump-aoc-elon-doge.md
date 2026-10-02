@@ -5,7 +5,8 @@ title = "#462 – Ezra Klein and Derek Thompson: Politics, Trump, AOC, Elon & DO
 type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2025-03-26"
-guest = "Ezra Klein and Derek Thompson"
+guest = "Ezra Klein & Derek Thompson"
+guests = ["Ezra Klein", "Derek Thompson"]
 books = ["why-were-polarized-ezra-klein", "hitmakers-derek-thompson", "abundance-ezra-klein-and-derek-thompson", "the-rise-and-fall-of-the-neoliberal-order-gary-gerstle", "the-simple-plan-to-solve-all-of-americas-problems-derek-thompson", "the-affordability-crisis-annie-lowrey", "the-great-stagnation-tyler-cowen", "the-housing-theory-of-everything-john-myers-and-ben-southwood"]
 books_display = ["Why We’re Polarized by Ezra Klein", "Hitmakers by Derek Thompson", "Abundance by Ezra Klein and Derek Thompson", "The Rise and Fall of the Neoliberal Order by Gary Gerstle", "The Simple Plan to Solve All of America’s Problems by Derek Thompson (Essay)", "The Affordability Crisis by Annie Lowrey (Essay)", "The Great Stagnation by Tyler Cowen", "The Housing Theory of Everything by John Myers and Ben Southwood (Essay)"]
 +++

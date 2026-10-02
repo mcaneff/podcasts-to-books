@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2025-04-09"
 guest = "Dave Smith"
+guests = ["Dave Smith"]
 books = ["the-revolution-ron-paul", "end-the-fed-ron-paul", "liberty-defined-ron-paul", "a-foreign-policy-of-freedom-ron-paul"]
 books_display = ["The Revolution: A Manifesto by Ron Paul", "End the Fed by Ron Paul", "Liberty Defined by Ron Paul", "A Foreign Policy of Freedom by Ron Paul"]
 +++

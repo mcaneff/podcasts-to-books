@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2025-06-05"
 guest = "Sundar Pichai"
+guests = ["Sundar Pichai"]
 books = ["mans-search-for-meaning-viktor-frankl", "the-almanack-of-naval-ravikant-eric-jorgenson", "the-fountainhead-ayn-rand", "atlas-shrugged-ayn-rand", "sapiens-yuval-noah-harari"]
 books_display = ["Man’s Search for Meaning by Viktor Frankl", "The Almanack of Naval Ravikant by Eric Jorgenson", "The Fountainhead by Ayn Rand", "Atlas Shrugged by Ayn Rand", "Sapiens: A Brief History of Humankind by Yuval Noah Harari"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-07-20"
 guest = "David Senra"
+guests = ["David Senra"]
 books = ["against-the-odds-james-dyson", "creative-act-rick-rubin", "michael-jordan-the-life-roland-lazzley"]
 books_display = ["Against the Odds by James Dyson", "Creative Act by Rick Rubin", "Michael Jordan the Life by Roland Lazzley"]
 +++

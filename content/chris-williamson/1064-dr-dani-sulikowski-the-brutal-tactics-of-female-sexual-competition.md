@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-02-26"
 guest = ""
+guests = []
 books = ["the-case-against-the-sexual-revolution-louise-perry"]
 books_display = ["The Case Against the Sexual Revolution by Louise Perry"]
 +++

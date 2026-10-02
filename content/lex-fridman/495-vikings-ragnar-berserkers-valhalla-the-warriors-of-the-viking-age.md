@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2026-04-09"
 guest = ""
+guests = []
 books = ["meditations-marcus-aurelius"]
 books_display = ["Meditations by Marcus Aurelius"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-03-20"
 guest = "Vanessa Van Edwards"
+guests = ["Vanessa Van Edwards"]
 books = ["cues-vanessa-van-edwards", "captivate-vanessa-van-edwards"]
 books_display = ["Cues by Vanessa Van Edwards", "Captivate by Vanessa Van Edwards"]
 +++

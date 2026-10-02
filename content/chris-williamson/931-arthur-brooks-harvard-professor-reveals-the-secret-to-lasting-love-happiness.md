@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-04-21"
 guest = ""
+guests = []
 books = ["meanings-of-life-roy-f-baumeister", "the-evolution-of-desire-david-m-buss", "why-buddhism-is-true-robert-wright", "from-strength-to-strength-arthur-c"]
 books_display = ["Meanings of Life by Roy F. Baumeister", "The Evolution of Desire by David M. Buss", "Why Buddhism Is True by Robert Wright", "From Strength to Strength by Arthur C"]
 +++

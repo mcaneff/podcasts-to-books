@@ -5,7 +5,8 @@ title = "The Health Crisis Of Office Jobs - Bob King - #1098"
 type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-05-16"
-guest = "Bob King"
+guest = ""
+guests = []
 books = ["building-a-second-brain-tiago-forte", "getting-things-done-david-allen"]
 books_display = ["Building a Second Brain by Tiago Forte", "Getting Things Done by David Allen"]
 +++

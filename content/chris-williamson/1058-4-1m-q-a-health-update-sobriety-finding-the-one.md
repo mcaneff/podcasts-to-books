@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-02-12"
 guest = ""
+guests = []
 books = ["atomic-habits-james-clear", "man-s-search-for-meaning-viktor-frankl", "the-almanack-of-naval-ravikant-eric-jorgenson", "the-psychology-of-money-morgan-housel", "the-subtle-art-of-not-giving-a-fuck-mark-manson"]
 books_display = ["Atomic Habits by James Clear", "Man's Search for Meaning by Viktor Frankl", "The Almanack of Naval Ravikant by Eric Jorgenson", "The Psychology of Money by Morgan Housel", "The Subtle Art of Not Giving a Fuck by Mark Manson"]
 +++

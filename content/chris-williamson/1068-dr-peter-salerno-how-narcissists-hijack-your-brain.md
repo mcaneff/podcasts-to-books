@@ -5,7 +5,8 @@ title = "#1068 - Dr Peter Salerno - How Narcissists Hijack Your Brain"
 type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-03-07"
-guest = "How Narcissists Hijack Your Brain"
+guest = ""
+guests = []
 books = ["the-almanack-of-naval-ravikant-eric-jorgenson", "the-silent-patient-alex-michaelides"]
 books_display = ["The Almanack of Naval Ravikant by Eric Jorgenson", "The Silent Patient by Alex Michaelides"]
 +++

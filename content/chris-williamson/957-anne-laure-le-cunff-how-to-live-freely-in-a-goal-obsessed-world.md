@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2025-06-21"
 guest = ""
+guests = []
 books = ["mans-search-for-meaning-viktor-frankl", "scripts-plans-goals-and-understanding-roger-schank-and-robert-abelson", "thinking-fast-and-slow-daniel-kahneman", "compensatory-control-and-the-appeal-of-a-structured-world-aaron-c-kay-et-al", "the-ritual-process-victor-turner", "self-complexity-and-affective-extremity-patricia-linville", "the-power-of-habit-charles-duhigg", "nudge-richard-thaler-and-cass-sunstein", "hooked-nir-eyal"]
 books_display = ["Man’s Search for Meaning by Viktor Frankl", "Scripts, Plans, Goals, and Understanding by Roger Schank and Robert Abelson", "Thinking, Fast and Slow by Daniel Kahneman", "Compensatory Control and the Appeal of a Structured World by Aaron C. Kay et al. (Essay)", "The Ritual Process: Structure and Anti-Structure by Victor Turner", "Self-Complexity and Affective Extremity by Patricia Linville (Essay)", "The Power of Habit by Charles Duhigg", "Nudge: Improving Decisions About Health, Wealth, and Happiness by Richard Thaler and Cass Sunstein", "Hooked: How to Build Habit-Forming Products by Nir Eyal"]
 +++

@@ -5,7 +5,8 @@ title = "#473 – Iran War Debate: Nuclear Weapons, Trump, Peace, Power & the Mi
 type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2025-06-26"
-guest = "Iran War Debate"
+guest = ""
+guests = []
 books = ["enough-already-scott-horton", "by-way-of-deception-victor-ostrovsky", "irans-perilous-pursuit-of-nuclear-weapons-david-albright", "peddling-peril-david-albright", "manufactured-crisis-gareth-porter", "the-looming-tower-lawrence-wright", "angler-barton-gellman", "a-clean-break-david-wurmser", "perfect-soldiers-terry-mcdermott", "the-black-banners-ali-soufan"]
 books_display = ["Enough Already by Scott Horton", "By Way of Deception by Victor Ostrovsky", "Iran’s Perilous Pursuit of Nuclear Weapons by David Albright", "Peddling Peril by David Albright", "Manufactured Crisis by Gareth Porter", "The Looming Tower by Lawrence Wright", "Angler: The Cheney Vice Presidency by Barton Gellman", "A Clean Break: A New Strategy for Securing the Realm by David Wurmser (Essay)", "Perfect Soldiers: The 9/11 Hijackers by Terry McDermott", "The Black Banners by Ali Soufan"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-12"
 guest = "Evan Hafer"
+guests = ["Evan Hafer"]
 books = ["man-s-search-for-meaning-viktor-frankl", "the-man-in-the-arena-theodore-roosevelt"]
 books_display = ["Man's Search for Meaning by Viktor Frankl (Essay)", "The Man in the Arena by Theodore Roosevelt (Essay)"]
 +++

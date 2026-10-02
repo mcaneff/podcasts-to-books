@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-02-07"
 guest = ""
+guests = []
 books = ["bonded-evolution-by-eli-finkel", "man-s-search-for-meaning-viktor-frankl", "the-almanack-of-naval-ravikant-eric-jorgenson"]
 books_display = ["Bonded by Evolution by Eli Finkel", "Man's Search for Meaning by Viktor Frankl", "The Almanack of Naval Ravikant by Eric Jorgenson"]
 +++

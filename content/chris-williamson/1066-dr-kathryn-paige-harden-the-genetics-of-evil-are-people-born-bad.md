@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-03-02"
 guest = ""
+guests = []
 books = ["blueprint-robert-plomin", "far-from-the-tree-andrew-solomon", "freedom-evolves-daniel-dennett", "homo-deus-yuval-noah-harari", "man-s-search-for-meaning-viktor-frankl", "normal-people-sally-rooney", "the-almanack-of-naval-ravikant-eric-jorgenson", "the-better-angels-of-our-nature-steven-pinker", "the-blank-slate-steven-pinker", "the-gene-siddhartha-mukherjee", "the-genetic-lottery-kathryn-paige-harden", "the-moral-landscape-sam-harris", "the-selfish-gene-richard-dawkins", "utopia-for-realists-rutger-bregman"]
 books_display = ["Blueprint by Robert Plomin", "Far From the Tree by Andrew Solomon", "Freedom Evolves by Daniel Dennett", "Homo Deus by Yuval Noah Harari", "Man's Search for Meaning by Viktor Frankl", "Normal People by Sally Rooney", "The Almanack of Naval Ravikant by Eric Jorgenson", "The Better Angels of Our Nature by Steven Pinker", "The Blank Slate by Steven Pinker", "The Gene by Siddhartha Mukherjee", "The Genetic Lottery by Kathryn Paige Harden", "The Moral Landscape by Sam Harris", "The Selfish Gene by Richard Dawkins", "Utopia for Realists by Rutger Bregman"]
 +++

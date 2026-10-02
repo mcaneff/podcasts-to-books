@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2025-06-28"
 guest = ""
+guests = []
 books = ["on-the-origin-of-species-charles-darwin", "why-evolution-is-true-jerry-coyne", "the-moral-animal-robert-wright", "your-inner-fish-neil-shubin", "cynical-theories-helen-pluckrose-and-james-lindsay"]
 books_display = ["On the Origin of Species by Charles Darwin", "Why Evolution Is True by Jerry Coyne", "The Moral Animal by Robert Wright", "Your Inner Fish by Neil Shubin", "Cynical Theories by Helen Pluckrose and James Lindsay"]
 +++

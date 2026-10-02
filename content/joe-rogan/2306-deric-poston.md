@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-04-17"
 guest = "Deric Poston"
+guests = ["Deric Poston"]
 books = ["alexander-hamilton-ron-chernow", "oil-upton-sinclair", "cant-hurt-me-david-goggins", "the-great-shark-hunt-hunter-s-thompson"]
 books_display = ["Alexander Hamilton by Ron Chernow", "Oil! by Upton Sinclair", "Can’t Hurt Me by David Goggins", "The Great Shark Hunt by Hunter S. Thompson"]
 +++

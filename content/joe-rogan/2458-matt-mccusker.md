@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-20"
 guest = "Matt McCusker"
+guests = ["Matt McCusker"]
 books = ["empire-of-the-summer-moon-s-c-gwynne", "lonesome-dove-larry-mcmurtry"]
 books_display = ["Empire of the Summer Moon by S.C. Gwynne", "Lonesome Dove by Larry McMurtry"]
 +++

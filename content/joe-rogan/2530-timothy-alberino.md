@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-07-23"
 guest = "Timothy Alberino"
+guests = ["Timothy Alberino"]
 books = ["the-sign-and-the-seal-graham-hancock"]
 books_display = ["The Sign and the Seal by Graham Hancock"]
 +++

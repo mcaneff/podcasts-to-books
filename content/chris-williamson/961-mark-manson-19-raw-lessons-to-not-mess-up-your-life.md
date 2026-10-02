@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2025-06-30"
 guest = ""
+guests = []
 books = ["the-almanack-of-naval-ravikant-eric-jorgenson", "no-more-mr-nice-guy-robert-glover", "models-mark-manson", "the-courage-to-be-disliked-ichiro-kishimi-and-fumitake-koga", "four-thousand-weeks-oliver-burkeman", "the-paradox-of-choice-barry-schwartz", "in-front-of-your-nose-george-orwell", "the-7-habits-of-highly-effective-people-stephen-covey"]
 books_display = ["The Almanack of Naval Ravikant by Eric Jorgenson", "No More Mr. Nice Guy by Robert Glover", "Models: Attract Women Through Honesty by Mark Manson", "The Courage to Be Disliked by Ichiro Kishimi and Fumitake Koga", "Four Thousand Weeks: Time Management for Mortals by Oliver Burkeman", "The Paradox of Choice by Barry Schwartz", "In Front of Your Nose by George Orwell (Essay)", "The 7 Habits of Highly Effective People by Stephen Covey"]
 +++

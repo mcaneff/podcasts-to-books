@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-07-09"
 guest = "David Epstein"
+guests = ["David Epstein"]
 books = ["green-eggs-and-ham-dr-seuss", "range-david-epstein", "the-moral-animal-robert-wright", "why-buddhism-is-true-robert-wright"]
 books_display = ["Green Eggs and Ham by Dr. Seuss", "Range by David Epstein", "The Moral Animal by Robert Wright", "Why Buddhism Is True by Robert Wright"]
 +++

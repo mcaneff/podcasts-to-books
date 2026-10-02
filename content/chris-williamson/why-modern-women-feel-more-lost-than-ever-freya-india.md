@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-03-17"
 guest = "Freya India"
+guests = ["Freya India"]
 books = ["attached-amir-levine-and-rachel-heller"]
 books_display = ["Attached by Amir Levine and Rachel Heller"]
 +++

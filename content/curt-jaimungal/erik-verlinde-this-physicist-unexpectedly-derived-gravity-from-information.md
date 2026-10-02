@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-02-16"
 guest = "Erik Verlinde"
+guests = ["Erik Verlinde"]
 books = ["a-brief-history-of-time-stephen-hawking", "geons-black-holes-and-quantum-foam-john-archibald-wheeler", "the-feynman-lectures-on-physics-richard-feynman"]
 books_display = ["A Brief History of Time by Stephen Hawking", "Geons, Black Holes, and Quantum Foam by John Archibald Wheeler", "The Feynman Lectures on Physics by Richard Feynman"]
 +++

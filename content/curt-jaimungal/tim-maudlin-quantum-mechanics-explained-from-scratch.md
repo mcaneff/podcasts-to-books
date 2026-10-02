@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-07-27"
 guest = "Tim Maudlin"
+guests = ["Tim Maudlin"]
 books = ["mathematical-foundations-of-quantum-mechanics-john-von-neumann", "quantum-non-locality-and-relativity-tim-maudlin"]
 books_display = ["Mathematical Foundations of Quantum Mechanics by John von Neumann", "Quantum Non-Locality and Relativity by Tim Maudlin"]
 +++

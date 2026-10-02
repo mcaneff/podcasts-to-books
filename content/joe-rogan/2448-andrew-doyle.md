@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-04"
 guest = "Andrew Doyle"
+guests = ["Andrew Doyle"]
 books = ["man-s-search-for-meaning-viktor-frankl", "the-courage-to-heal-laura-davis-and-catherine-herman", "the-end-of-woke-andrew-doyle", "the-end-of-woke-drew", "the-longest-day-max-hastings", "the-odyssey-homer", "time-to-think-hannah-barnes"]
 books_display = ["Man's Search for Meaning by Viktor Frankl", "The Courage to Heal by Laura Davis and Catherine Herman", "The End of Woke by Andrew Doyle", "The End of Woke: How the Culture War Went Too Far and What to Expect From the Counter Revolution by Drew", "The Longest Day by Max Hastings", "The Odyssey by Homer", "Time to Think by Hannah Barnes"]
 +++

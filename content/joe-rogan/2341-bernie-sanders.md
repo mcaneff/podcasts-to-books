@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-06-24"
 guest = "Bernie Sanders"
+guests = ["Bernie Sanders"]
 books = ["our-revolution-bernie-sanders", "where-we-go-from-here-bernie-sanders", "the-war-on-normal-people-andrew-yang", "capital-in-the-twenty-first-century-thomas-piketty", "it-s-ok-to-be-angry-about-capitalism-bernie-sanders"]
 books_display = ["Our Revolution: A Future to Believe In by Bernie Sanders", "Where We Go from Here: Two Years in the Resistance by Bernie Sanders", "The War on Normal People by Andrew Yang", "Capital in the Twenty-First Century by Thomas Piketty", "It's OK to Be Angry About Capitalism by Bernie Sanders"]
 +++

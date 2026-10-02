@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-03-27"
 guest = "Andrew Jarecki"
+guests = ["Andrew Jarecki"]
 books = ["the-sun-does-shine-anthony-ray-hinton"]
 books_display = ["The Sun Does Shine by Anthony Ray Hinton"]
 +++

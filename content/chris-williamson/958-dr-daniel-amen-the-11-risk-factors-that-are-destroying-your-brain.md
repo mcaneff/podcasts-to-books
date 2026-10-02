@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2025-06-23"
 guest = ""
+guests = []
 books = ["you-happier-daniel-amen", "feel-better-fast-and-make-it-last-daniel-amen", "memory-rescue-daniel-amen", "the-end-of-mental-illness-daniel-amen", "the-brain-in-love-daniel-amen", "change-your-brain-change-your-life-daniel-amen"]
 books_display = ["You Happier by Daniel Amen", "Feel Better Fast and Make It Last by Daniel Amen", "Memory Rescue by Daniel Amen", "The End of Mental Illness by Daniel Amen", "The Brain in Love by Daniel Amen", "Change Your Brain, Change Your Life by Daniel Amen"]
 +++

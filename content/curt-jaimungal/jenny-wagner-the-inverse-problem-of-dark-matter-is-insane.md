@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-03-26"
 guest = "Jenny Wagner"
+guests = ["Jenny Wagner"]
 books = ["the-elegant-universe-brian-greene", "the-emperor-s-new-mind-roger-penrose", "the-large-scale-structure-of-space-time-stephen-hawking-and-george-ellis", "the-methodology-of-scientific-research-programmes-imre-lakatos"]
 books_display = ["The Elegant Universe by Brian Greene", "The Emperor's New Mind by Roger Penrose", "The Large Scale Structure of Space-Time by Stephen Hawking and George Ellis", "The Methodology of Scientific Research Programmes by Imre Lakatos"]
 +++

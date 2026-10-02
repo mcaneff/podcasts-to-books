@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-04-18"
 guest = "Etymology Nerd"
+guests = ["Etymology Nerd"]
 books = ["braiding-sweetgrass-robin-wall-kimmerer", "the-elements-of-eloquence-mark-forsyth", "the-etymologicon-mark-forsyth", "the-presentation-of-self-in-everyday-life-erving-goffman"]
 books_display = ["Braiding Sweetgrass by Robin Wall Kimmerer", "The Elements of Eloquence by Mark Forsyth", "The Etymologicon by Mark Forsyth", "The Presentation of Self in Everyday Life by Erving Goffman"]
 +++

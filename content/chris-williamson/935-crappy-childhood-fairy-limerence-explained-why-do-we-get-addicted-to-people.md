@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-05-01"
 guest = ""
+guests = []
 books = ["wuthering-heights-emily-bront", "love-and-limerence-dorothy-tennov", "the-nature-of-love-harry-harlow", "complex-ptsd-pete-walker", "the-body-keeps-the-score-bessel-van-der-kolk", "the-drama-of-the-gifted-child-alice-miller", "the-evolution-of-desire-david-buss"]
 books_display = ["Wuthering Heights by Emily Bront", "Love and Limerence by Dorothy Tennov", "The Nature of Love by Harry Harlow", "Complex PTSD: From Surviving to Thriving by Pete Walker", "The Body Keeps the Score by Bessel van der Kolk", "The Drama of the Gifted Child by Alice Miller", "The Evolution of Desire by David Buss"]
 +++

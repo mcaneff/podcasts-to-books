@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2025-06-15"
 guest = "Terence Tao"
+guests = ["Terence Tao"]
 books = ["blitzed-norman-ohler"]
 books_display = ["Blitzed: Drugs in the Third Reich by Norman Ohler"]
 +++

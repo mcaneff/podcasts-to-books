@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-02-21"
 guest = ""
+guests = []
 books = ["designing-your-life-dave-evans-and-bill-burnett", "man-s-search-for-meaning-viktor-frankl", "transitions-william-bridges"]
 books_display = ["Designing Your Life by Dave Evans and Bill Burnett", "Man's Search for Meaning by Viktor Frankl", "Transitions by William Bridges"]
 +++

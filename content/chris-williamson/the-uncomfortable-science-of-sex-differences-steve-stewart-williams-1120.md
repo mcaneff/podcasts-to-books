@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-07-06"
 guest = "Steve Stewart-Williams"
+guests = ["Steve Stewart-Williams"]
 books = ["the-ape-that-understood-the-universe-steve-stewart-williams", "the-moral-animal-robert-wright", "when-men-behave-badly-david-buss"]
 books_display = ["The Ape That Understood the Universe by Steve Stewart-Williams", "The Moral Animal by Robert Wright", "When Men Behave Badly by David Buss"]
 +++

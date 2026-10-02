@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-03-16"
 guest = ""
+guests = []
 books = ["godel-escher-bach-douglas-hofstadter", "the-master-and-his-emissary-iain-mcgilchrist", "world-enough-and-space-time-john-earman"]
 books_display = ["Gödel, Escher, Bach by Douglas Hofstadter", "The Master and His Emissary by Iain McGilchrist", "World Enough and Space Time by John Earman"]
 +++

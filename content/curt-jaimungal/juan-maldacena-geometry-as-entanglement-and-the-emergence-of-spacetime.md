@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-05-04"
 guest = "Juan Maldacena"
+guests = ["Juan Maldacena"]
 books = ["godel-escher-bach-douglas-hofstadter", "the-master-and-his-emissary-iain-mcgilchrist"]
 books_display = ["Gödel, Escher, Bach by Douglas Hofstadter", "The Master and His Emissary by Iain McGilchrist"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-08-21"
 guest = "Chris Williamson"
+guests = ["Chris Williamson"]
 books = ["chaos-tom-o-neill", "the-lives-of-john-lennon-albert-goldman", "the-secret-rhonda-byrne", "wired-bob-woodward"]
 books_display = ["Chaos by Tom O'Neill", "The Lives of John Lennon by Albert Goldman", "The Secret by Rhonda Byrne", "Wired by Bob Woodward"]
 +++

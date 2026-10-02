@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2025-05-10"
 guest = ""
+guests = []
 books = ["thinking-fast-and-slow-daniel-kahneman", "why-we-remember-charan-ranganath", "hardwiring-happiness-rick-hanson"]
 books_display = ["Thinking, Fast and Slow by Daniel Kahneman", "Why We Remember: Unlocking Memory's Power to Hold on to What Matters by Charan Ranganath", "Hardwiring Happiness by Rick Hanson"]
 +++

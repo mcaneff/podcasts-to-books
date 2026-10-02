@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-09-08"
 guest = "Rick Springfield"
+guests = ["Rick Springfield"]
 books = ["alice-in-wonderland-lewis-carroll", "magnificent-vibration-rick-springfield", "outliers-malcolm-gladwell"]
 books_display = ["Alice in Wonderland by Lewis Carroll", "Magnificent Vibration by Rick Springfield", "Outliers by Malcolm Gladwell"]
 +++

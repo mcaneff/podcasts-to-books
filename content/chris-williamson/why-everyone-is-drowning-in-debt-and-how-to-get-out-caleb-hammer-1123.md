@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-07-13"
 guest = "Caleb Hammer"
+guests = ["Caleb Hammer"]
 books = ["die-with-zero-bill-perkins"]
 books_display = ["Die with Zero by Bill Perkins"]
 +++

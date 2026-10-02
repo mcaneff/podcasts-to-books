@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-09-16"
 guest = "Ron White"
+guests = ["Ron White"]
 books = ["communion-whitley-strieber", "hillbilly-elegy-jd-vance", "playing-off-the-rail-david-mccumber", "the-book-of-mormon-joseph-smith"]
 books_display = ["Communion by Whitley Strieber", "Hillbilly Elegy by JD Vance", "Playing Off the Rail by David McCumber", "The Book of Mormon by Joseph Smith"]
 +++

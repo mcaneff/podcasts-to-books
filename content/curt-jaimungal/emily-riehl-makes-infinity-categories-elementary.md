@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-04-06"
 guest = ""
+guests = []
 books = ["homotopy-type-theory-the-univalent-foundations-program"]
 books_display = ["Homotopy Type Theory by The Univalent Foundations Program"]
 +++

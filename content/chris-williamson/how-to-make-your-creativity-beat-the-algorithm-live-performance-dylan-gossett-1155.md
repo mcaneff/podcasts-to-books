@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-09-26"
 guest = "Dylan Gossett"
+guests = ["Dylan Gossett"]
 books = ["the-e-myth-revisited-michael-gerber"]
 books_display = ["The E-Myth Revisited by Michael Gerber"]
 +++

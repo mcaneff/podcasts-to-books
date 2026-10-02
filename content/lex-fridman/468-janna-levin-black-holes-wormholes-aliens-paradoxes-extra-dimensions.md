@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2025-05-05"
 guest = "Janna Levin"
+guests = ["Janna Levin"]
 books = ["how-the-universe-got-its-spots-janna-levin", "a-madman-dreams-of-turing-machines-janna-levin", "black-hole-blues-and-other-songs-from-outer-space-janna-levin", "black-hole-survival-guide-janna-levin"]
 books_display = ["How the Universe Got Its Spots by Janna Levin", "A Madman Dreams of Turing Machines by Janna Levin", "Black Hole Blues and Other Songs from Outer Space by Janna Levin", "Black Hole Survival Guide by Janna Levin"]
 +++

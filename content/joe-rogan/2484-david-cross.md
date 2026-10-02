@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-04-16"
 guest = "David Cross"
+guests = ["David Cross"]
 books = ["art-school-confidential-daniel-clowes", "ghost-world-daniel-clowes", "wilson-daniel-clowes"]
 books_display = ["Art School Confidential by Daniel Clowes", "Ghost World by Daniel Clowes", "Wilson by Daniel Clowes"]
 +++

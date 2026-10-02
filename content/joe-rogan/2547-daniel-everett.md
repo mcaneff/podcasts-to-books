@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-08-27"
 guest = "Daniel Everett"
+guests = ["Daniel Everett"]
 books = ["american-power-and-the-new-mandarins-noam-chomsky", "aspects-of-the-theory-of-syntax-noam-chomsky", "don-t-sleep-there-are-snakes-daniel-everett", "how-language-began-daniel-everett", "kingdom-of-speech-tom-wolfe", "manufacturing-consent-noam-chomsky"]
 books_display = ["American Power and the New Mandarins by Noam Chomsky", "Aspects of the Theory of Syntax by Noam Chomsky", "Don't Sleep, There Are Snakes by Daniel Everett", "How Language Began by Daniel Everett", "Kingdom of Speech by Tom Wolfe", "Manufacturing Consent by Noam Chomsky"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-04-23"
 guest = "Joey Diaz"
+guests = ["Joey Diaz"]
 books = ["woke-inc-vivek-ramaswamy", "alan-turing-andrew-hodges", "the-war-on-normal-people-andrew-yang", "united-we-stand-ross-perot", "confess-rob-halford", "all-the-shahs-men-stephen-kinzer", "the-fourth-turning-william-strauss-and-neil-howe", "superintelligence-nick-bostrom", "the-creature-from-jekyll-island-g-edward-griffin"]
 books_display = ["Woke, Inc.: Inside Corporate America's Social Justice Scam by Vivek Ramaswamy", "Alan Turing: The Enigma by Andrew Hodges", "The War on Normal People by Andrew Yang", "United We Stand: How We Can Take Back Our Country by Ross Perot", "Confess by Rob Halford", "All the Shah’s Men: An American Coup and the Roots of Middle East Terror by Stephen Kinzer", "The Fourth Turning: An American Prophecy by William Strauss and Neil Howe", "Superintelligence: Paths, Dangers, Strategies by Nick Bostrom", "The Creature from Jekyll Island: A Second Look at the Federal Reserve by G. Edward Griffin"]
 +++

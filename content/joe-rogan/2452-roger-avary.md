@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-11"
 guest = "Roger Avary"
+guests = ["Roger Avary"]
 books = ["let-the-right-one-in-john-ajvide-lindqvist", "screenplay-syd-field", "the-exorcist-william-peter-blatty", "the-man-who-mistook-his-wife-for-a-hat-oliver-sacks", "the-strain-guillermo-del-toro"]
 books_display = ["Let the Right One In by John Ajvide Lindqvist", "Screenplay by Syd Field", "The Exorcist by William Peter Blatty", "The Man Who Mistook His Wife for a Hat by Oliver Sacks", "The Strain by Guillermo del Toro"]
 +++

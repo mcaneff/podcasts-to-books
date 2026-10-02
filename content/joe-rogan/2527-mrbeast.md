@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-07-16"
 guest = ""
+guests = []
 books = ["dune-frank-herbert", "purple-cow-seth-godin"]
 books_display = ["Dune by Frank Herbert", "Purple Cow by Seth Godin"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2025-03-30"
 guest = "Douglas Murray"
+guests = ["Douglas Murray"]
 books = ["the-war-in-the-west-james-holland", "the-war-on-the-west-douglas-murray", "life-and-fate-vasily-grossman", "the-tragic-sense-of-life-miguel-de-unamuno", "the-gulag-archipelago-aleksandr-solzhenitsyn", "the-satanic-verses-salman-rushdie", "the-triumph-of-stupidity-bertrand-russell"]
 books_display = ["The War in the West by James Holland", "The War on the West by Douglas Murray", "Life and Fate by Vasily Grossman", "The Tragic Sense of Life by Miguel de Unamuno", "The Gulag Archipelago by Aleksandr Solzhenitsyn", "The Satanic Verses by Salman Rushdie", "The Triumph of Stupidity by Bertrand Russell (Essay)"]
 +++

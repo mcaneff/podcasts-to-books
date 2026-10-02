@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-07-30"
 guest = "Jett Franzen"
+guests = ["Jett Franzen"]
 books = ["lying-sam-harris", "meditations-marcus-aurelius", "the-myth-of-sisyphus-albert-camus", "zero-to-one-peter-thiel"]
 books_display = ["Lying by Sam Harris (Essay)", "Meditations by Marcus Aurelius", "The Myth of Sisyphus by Albert Camus (Essay)", "Zero to One by Peter Thiel"]
 +++

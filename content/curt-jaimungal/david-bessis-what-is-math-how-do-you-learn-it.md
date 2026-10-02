@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-02-23"
 guest = "David Bessis"
+guests = ["David Bessis"]
 books = ["the-almanack-of-naval-ravikant-eric-jorgenson"]
 books_display = ["The Almanack of Naval Ravikant by Eric Jorgenson"]
 +++

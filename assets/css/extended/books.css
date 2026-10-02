@@ -42,3 +42,9 @@
 .book-description summary .more { color: var(--primary); font-weight: 600; }
 .book-description details[open] summary { display: none; }
 .episode-book-desc { margin: 4px 0 6px; font-size: .9rem; color: var(--secondary); }
+
+.guest-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; margin: 16px 0; }
+.guest-card { display: flex; flex-direction: column; padding: 12px 14px; border-radius: 8px; background: var(--code-bg); text-decoration: none; color: var(--content); }
+.guest-card:hover { background: var(--tertiary); }
+.guest-name { font-weight: 600; }
+.episode-books-inline { font-size: .85rem; margin-top: 4px; }

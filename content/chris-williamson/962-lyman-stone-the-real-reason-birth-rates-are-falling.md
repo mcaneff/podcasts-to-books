@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2025-07-03"
 guest = ""
+guests = []
 books = ["developmental-idealism-arland-thornton", "the-book-of-proverbs-various-authors-religious-text", "little-house-on-the-prairie-laura-ingalls-wilder"]
 books_display = ["Developmental Idealism: The Cultural Foundations of Demographic Change by Arland Thornton (Essay)", "The Book of Proverbs by Various Authors (Religious Text)", "Little House on the Prairie by Laura Ingalls Wilder"]
 +++

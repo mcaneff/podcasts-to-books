@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-04-07"
 guest = "Joe Hudson"
+guests = ["Joe Hudson"]
 books = ["rick-hansen-hardwiring-happiness-rick-hanson", "the-tibetan-book-of-living-and-dying-sogyal-rinpoche"]
 books_display = ["Rick Hansen Hardwiring Happiness by Rick Hanson", "The Tibetan Book of Living and Dying by Sogyal Rinpoche"]
 +++

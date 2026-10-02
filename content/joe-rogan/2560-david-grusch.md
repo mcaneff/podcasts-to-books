@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-09-30"
 guest = "David Grusch"
+guests = ["David Grusch"]
 books = ["book-of-enoch-enoch", "book-of-ezekiel-ezekiel", "chariots-of-the-gods-erich-von-daniken", "ufos-and-nukes-robert-hastings"]
 books_display = ["Book of Enoch by Enoch", "Book of Ezekiel by Ezekiel", "Chariots of the Gods by Erich von Däniken", "UFOs and Nukes by Robert Hastings"]
 +++

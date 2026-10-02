@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-03-06"
 guest = "Shakur Stevenson"
+guests = ["Shakur Stevenson"]
 books = ["man-s-search-for-meaning-viktor-frankl"]
 books_display = ["Man's Search for Meaning by Viktor Frankl"]
 +++

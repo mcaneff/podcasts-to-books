@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-03-08"
 guest = ""
+guests = []
 books = ["bottle-of-lies-katherine-eban"]
 books_display = ["Bottle of Lies by Katherine Eban"]
 +++

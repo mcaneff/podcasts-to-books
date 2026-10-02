@@ -5,7 +5,8 @@ title = "#2321 - Dr. Zahi Hawass"
 type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-05-14"
-guest = "Dr. Zahi Hawass"
+guest = "Zahi Hawass"
+guests = ["Zahi Hawass"]
 books = ["giza-and-the-pyramids-zahi-hawass", "the-complete-pyramids-mark-lehner"]
 books_display = ["Giza and the Pyramids by Zahi Hawass", "The Complete Pyramids by Mark Lehner"]
 +++

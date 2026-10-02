@@ -5,7 +5,8 @@ title = "#2499 - Marcus King"
 type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-05-14"
-guest = "Marcus King"
+guest = ""
+guests = []
 books = ["east-of-eden-john-steinbeck", "the-archaic-revival-terence-mckenna"]
 books_display = ["East of Eden by John Steinbeck", "The Archaic Revival by Terence McKenna"]
 +++

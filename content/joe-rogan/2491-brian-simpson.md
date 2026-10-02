@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-04-29"
 guest = "Brian Simpson"
+guests = ["Brian Simpson"]
 books = ["on-writing-stephen-king", "outliers-malcolm-gladwell"]
 books_display = ["On Writing by Stephen King", "Outliers by Malcolm Gladwell"]
 +++

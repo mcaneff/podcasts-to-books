@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-26"
 guest = "Rachel Wilson"
+guests = ["Rachel Wilson"]
 books = ["satanic-feminism-per-faxneld", "the-war-of-the-worlds-h-g-wells", "the-woman-s-bible-elizabeth-cady-stanton"]
 books_display = ["Satanic Feminism by Per Faxneld", "The War of the Worlds by H.G. Wells", "The Woman's Bible by Elizabeth Cady Stanton"]
 +++

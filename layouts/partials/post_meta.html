@@ -1,0 +1,28 @@
+{{- /* PaperMod's post_meta.html plus a link to the guest's page */ -}}
+{{- $scratch := newScratch }}
+
+{{- if not .Date.IsZero -}}
+{{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
+{{- end }}
+
+{{- with .Params.guests }}
+{{- $links := slice }}
+{{- range . }}
+  {{- with site.GetPage (printf "/guests/%s" (. | urlize)) }}{{ $links = $links | append (printf "<a href=\"%s\">%s</a>" .RelPermalink .Title) }}{{ else }}{{ $links = $links | append . }}{{ end }}
+{{- end }}
+{{- $scratch.Add "meta" (slice (printf "with&nbsp;%s" (delimit $links ", "))) }}
+{{- end }}
+
+{{- if (.Param "ShowReadingTime") -}}
+{{- $scratch.Add "meta" (slice (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime))) }}
+{{- end }}
+
+{{- if not (.Param "hideAuthor") -}}
+{{- with (partial "author.html" .) }}
+{{- $scratch.Add "meta" (slice .) }}
+{{- end }}
+{{- end }}
+
+{{- with ($scratch.Get "meta") }}
+{{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
+{{- end -}}

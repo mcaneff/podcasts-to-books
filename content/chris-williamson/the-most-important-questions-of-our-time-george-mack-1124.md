@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-07-16"
 guest = "George Mack"
+guests = ["George Mack"]
 books = ["atomic-habits-james-clear", "conspiracy-ryan-holiday", "essays-michel-de-montaigne", "moby-dick-herman-melville"]
 books_display = ["Atomic Habits by James Clear", "Conspiracy by Ryan Holiday", "Essays by Michel de Montaigne (Essay)", "Moby Dick by Herman Melville"]
 +++

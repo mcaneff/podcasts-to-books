@@ -5,7 +5,8 @@ title = "#943 - Will Ahmed - The Downfall Of CrossFit & The Future Of Fitness"
 type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2025-05-19"
-guest = "The Downfall Of CrossFit & The Future Of Fitness"
+guest = ""
+guests = []
 books = ["why-we-sleep-matthew-j-walker", "atomic-habits-james-clear", "chasing-excellence-ben-bergeron", "meditations-marcus-aurelius"]
 books_display = ["Why We Sleep by Matthew J. Walker", "Atomic Habits by James Clear", "Chasing Excellence by Ben Bergeron", "Meditations by Marcus Aurelius"]
 +++

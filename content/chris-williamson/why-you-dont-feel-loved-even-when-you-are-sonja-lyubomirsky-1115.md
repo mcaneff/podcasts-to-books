@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-06-25"
 guest = "Sonja Lyubomirsky"
+guests = ["Sonja Lyubomirsky"]
 books = ["friends-robin-dunbar", "quiet-susan-cain", "the-all-or-nothing-marriage-eli-finkel", "the-myths-of-happiness-sonja-lyubomirsky"]
 books_display = ["Friends by Robin Dunbar", "Quiet by Susan Cain", "The All-or-Nothing Marriage by Eli Finkel", "The Myths of Happiness by Sonja Lyubomirsky"]
 +++

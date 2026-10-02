@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-05-11"
 guest = "Mark Manson"
+guests = ["Mark Manson"]
 books = ["atomic-habits-james-clear", "getting-things-done-david-allen", "the-psychology-of-money-morgan-housel", "the-subtle-art-of-not-giving-a-f-ck-mark-manson"]
 books_display = ["Atomic Habits by James Clear", "Getting Things Done by David Allen", "The Psychology of Money by Morgan Housel", "The Subtle Art of Not Giving a F*ck by Mark Manson"]
 +++

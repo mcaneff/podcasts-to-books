@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2025-02-03"
 guest = ""
+guests = []
 books = ["on-the-road-jack-kerouac", "brave-new-world-aldous-huxley", "genghis-khan-and-the-making-of-the-modern-world-jack-weatherford", "the-bitter-lesson-richard-sutton", "finnegans-wake-james-joyce"]
 books_display = ["On the Road by Jack Kerouac", "Brave New World by Aldous Huxley", "Genghis Khan and the Making of the Modern World by Jack Weatherford", "The Bitter Lesson by Richard Sutton (Essay)", "Finnegans Wake by James Joyce"]
 +++

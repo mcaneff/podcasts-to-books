@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-05-28"
 guest = "Luke Caverns"
+guests = ["Luke Caverns"]
 books = ["the-lost-city-of-z-david-grann", "exploration-fawcett-percy-fawcett", "fingerprints-of-the-gods-graham-hancock", "america-before-graham-hancock"]
 books_display = ["The Lost City of Z by David Grann", "Exploration Fawcett by Percy Fawcett", "Fingerprints of the Gods by Graham Hancock", "America Before by Graham Hancock"]
 +++

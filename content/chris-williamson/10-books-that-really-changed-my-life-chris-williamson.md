@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_test_chriswilliamson_10-books"
 guest = ""
+guests = []
 books = ["endurance-alfred-lansing", "essentialism-greg-mcewan", "lost-connections-johann-hari", "lying-sam-harris", "models-mark-manson", "the-ape-that-understood-the-universe-steve-stewart-williams", "the-forgotten-highlander-alistair-urkart", "the-precipice-toby-ord", "the-war-of-art-stephen-pressfield", "why-we-sleep-matthew-walker"]
 books_display = ["Endurance by Alfred Lansing", "Essentialism by Greg McEwan", "Lost Connections by Johann Hari", "Lying by Sam Harris", "Models by Mark Manson", "The Ape That Understood the Universe by Steve Stewart Williams", "The Forgotten Highlander by Alistair Urkart", "The Precipice by Toby Ord", "The War of Art by Stephen Pressfield", "Why We Sleep by Matthew Walker"]
 +++

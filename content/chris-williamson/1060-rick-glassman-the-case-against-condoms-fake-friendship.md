@@ -5,7 +5,8 @@ title = "#1060 - Rick Glassman - The Case Against Condoms & Fake Friendship"
 type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-02-16"
-guest = "The Case Against Condoms & Fake Friendship"
+guest = ""
+guests = []
 books = ["flatland-edwin-a-abbott", "mans-search-for-meaning-viktor-frankl"]
 books_display = ["Flatland by Edwin A. Abbott", "Man’s Search for Meaning by Viktor Frankl"]
 +++

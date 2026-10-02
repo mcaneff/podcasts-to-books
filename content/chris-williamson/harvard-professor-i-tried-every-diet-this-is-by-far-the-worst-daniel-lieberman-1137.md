@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-08-15"
 guest = "Daniel Lieberman"
+guests = ["Daniel Lieberman"]
 books = ["salt-sugar-fat-michael-moss", "the-blue-zones-dan-buettner", "the-story-of-the-human-body-daniel-lieberman"]
 books_display = ["Salt Sugar Fat by Michael Moss", "The Blue Zones by Dan Buettner", "The Story of the Human Body by Daniel Lieberman"]
 +++

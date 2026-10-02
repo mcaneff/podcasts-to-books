@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-04-24"
 guest = ""
+guests = []
 books = ["the-total-money-makeover-dave-ramsey", "financial-peace-revisited-dave-ramsey", "entreleadership-dave-ramsey", "how-the-mighty-fall-jim-collins", "raving-fans-ken-blanchard", "affluenza-john-de-graaf"]
 books_display = ["The Total Money Makeover by Dave Ramsey", "Financial Peace Revisited by Dave Ramsey", "EntreLeadership by Dave Ramsey", "How the Mighty Fall by Jim Collins", "Raving Fans: A Revolutionary Approach To Customer Service by Ken Blanchard", "Affluenza: The All-Consuming Epidemic by John de Graaf"]
 +++

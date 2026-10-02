@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-02-28"
 guest = ""
+guests = []
 books = ["life-of-dad-anna-machin", "seveneves-neal-stephenson", "the-right-stuff-tom-wolfe"]
 books_display = ["Life of Dad by Anna Machin", "Seveneves by Neal Stephenson", "The Right Stuff by Tom Wolfe"]
 +++

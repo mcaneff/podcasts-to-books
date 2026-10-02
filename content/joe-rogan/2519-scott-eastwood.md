@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-06-26"
 guest = "Scott Eastwood"
+guests = ["Scott Eastwood"]
 books = ["how-to-change-your-mind-michael-pollan"]
 books_display = ["How to Change Your Mind by Michael Pollan"]
 +++

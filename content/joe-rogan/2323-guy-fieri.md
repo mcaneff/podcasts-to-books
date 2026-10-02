@@ -5,7 +5,8 @@ title = "#2323 - Guy Fieri"
 type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-05-16"
-guest = "Guy Fieri"
+guest = ""
+guests = []
 books = ["fear-and-loathing-in-las-vegas-hunter-s-thompson", "how-to-win-friends-and-influence-people-dale-carnegie", "mastering-the-art-of-french-cooking-julia-child", "man-computer-symbiosis-j-c-r-licklider"]
 books_display = ["Fear and Loathing in Las Vegas by Hunter S. Thompson", "How to Win Friends and Influence People by Dale Carnegie", "Mastering the Art of French Cooking by Julia Child", "Man-Computer Symbiosis by J.C.R. Licklider (Essay)"]
 +++

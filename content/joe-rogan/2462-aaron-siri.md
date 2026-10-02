@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-03-03"
 guest = "Aaron Siri"
+guests = ["Aaron Siri"]
 books = ["plotkin-s-vaccines-stanley-plotkin"]
 books_display = ["Plotkin's Vaccines by Stanley Plotkin"]
 +++

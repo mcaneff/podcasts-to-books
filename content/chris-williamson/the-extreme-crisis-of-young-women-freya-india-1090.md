@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-04-27"
 guest = "Freya India"
+guests = ["Freya India"]
 books = ["the-handmaid-s-tale-margaret-atwood"]
 books_display = ["The Handmaid's Tale by Margaret Atwood"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-09-14"
 guest = "Andrew Huberman"
+guests = ["Andrew Huberman"]
 books = ["the-prince-of-medicine-susan-p-mattern"]
 books_display = ["The Prince of Medicine by Susan P. Mattern"]
 +++

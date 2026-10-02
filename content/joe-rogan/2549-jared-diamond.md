@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-09-03"
 guest = "Jared Diamond"
+guests = ["Jared Diamond"]
 books = ["collapse-jared-diamond", "guns-germs-and-steel-jared-diamond"]
 books_display = ["Collapse by Jared Diamond", "Guns, Germs, and Steel by Jared Diamond"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-09-09"
 guest = "Daniel Kokotajlo"
+guests = ["Daniel Kokotajlo"]
 books = ["count-down-shanna-swan"]
 books_display = ["Count Down by Shanna Swan"]
 +++

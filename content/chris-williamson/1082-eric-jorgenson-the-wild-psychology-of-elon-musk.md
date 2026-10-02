@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-04-09"
 guest = ""
+guests = []
 books = ["elon-musk-ashlee-vance", "the-almanack-of-naval-ravikant-eric-jorgenson"]
 books_display = ["Elon Musk by Ashlee Vance", "The Almanack of Naval Ravikant by Eric Jorgenson"]
 +++

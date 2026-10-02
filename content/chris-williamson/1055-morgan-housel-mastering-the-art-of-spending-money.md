@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-02-05"
 guest = ""
+guests = []
 books = ["how-rich-are-you-c-mason-jones", "london-edward-rutherford", "man-s-search-for-meaning-viktor-frankl", "rich-dad-poor-dad-robert-kiyosaki", "rough-music-james-wood", "the-bogleheads-guide-to-investing-taylor-larimore-et-al", "the-evolution-of-desire-david-buss", "the-intelligent-investor-benjamin-graham", "the-psychology-of-money-morgan-housel", "think-and-grow-rich-napoleon-hill"]
 books_display = ["How Rich Are You? by C. Mason Jones", "London by Edward Rutherford", "Man's Search for Meaning by Viktor Frankl", "Rich Dad Poor Dad by Robert Kiyosaki", "Rough Music by James Wood", "The Bogleheads' Guide to Investing by Taylor Larimore et al", "The Evolution of Desire by David Buss", "The Intelligent Investor by Benjamin Graham", "The Psychology of Money by Morgan Housel", "Think and Grow Rich by Napoleon Hill"]
 +++

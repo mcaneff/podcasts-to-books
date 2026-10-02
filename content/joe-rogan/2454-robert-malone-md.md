@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-13"
 guest = ""
+guests = []
 books = ["dissolving-illusions-suzanne-humphries"]
 books_display = ["Dissolving Illusions by Suzanne Humphries"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-07-22"
 guest = "Zach Bush"
+guests = ["Zach Bush"]
 books = ["the-lost-city-of-z-david-grann"]
 books_display = ["The Lost City of Z by David Grann"]
 +++

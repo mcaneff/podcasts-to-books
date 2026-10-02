@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-04-26"
 guest = ""
+guests = []
 books = ["eat-pray-love-elizabeth-gilbert", "the-almanack-of-naval-ravikant-eric-jorgenson", "troubled-rob-henderson", "the-two-parent-advantage-melissa-kearney", "the-coddling-of-the-american-mind-jonathan-haidt-and-greg-lukianoff", "blueprint-nicholas-christakis", "of-boys-and-men-richard-v-reeves"]
 books_display = ["Eat, Pray, Love by Elizabeth Gilbert", "The Almanack of Naval Ravikant by Eric Jorgenson", "Troubled: A Memoir of Foster Care, Family, and Social Class by Rob Henderson", "The Two-Parent Advantage by Melissa Kearney", "The Coddling of the American Mind by Jonathan Haidt and Greg Lukianoff", "Blueprint: The Evolutionary Origins of a Good Society by Nicholas Christakis", "Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do About It by Richard V. Reeves"]
 +++

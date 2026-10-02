@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-08-06"
 guest = "Eric Goode & Jeremy McBride"
+guests = ["Eric Goode", "Jeremy McBride"]
 books = ["silent-spring-rachel-carson"]
 books_display = ["Silent Spring by Rachel Carson"]
 +++

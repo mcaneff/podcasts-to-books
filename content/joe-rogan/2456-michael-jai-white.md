@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-18"
 guest = "Michael Jai White"
+guests = ["Michael Jai White"]
 books = ["beyond-a-boundary-c-l-r-james", "man-s-search-for-meaning-viktor-frankl", "the-almanack-of-naval-ravikant-eric-jorgenson"]
 books_display = ["Beyond a Boundary by C.L.R. James", "Man's Search for Meaning by Viktor Frankl (Essay)", "The Almanack of Naval Ravikant by Eric Jorgenson"]
 +++

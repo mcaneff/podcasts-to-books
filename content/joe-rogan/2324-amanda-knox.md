@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-05-20"
 guest = "Amanda Knox"
+guests = ["Amanda Knox"]
 books = ["waiting-to-be-heard-amanda-knox", "free-amanda-knox"]
 books_display = ["Waiting to Be Heard by Amanda Knox", "Free: My Search for Meaning by Amanda Knox"]
 +++

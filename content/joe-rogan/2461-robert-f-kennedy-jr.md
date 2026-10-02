@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-27"
 guest = ""
+guests = []
 books = ["fear-and-loathing-on-the-campaign-trail-72-hunter-s-thompson"]
 books_display = ["Fear and Loathing on the Campaign Trail '72 by Hunter S. Thompson"]
 +++

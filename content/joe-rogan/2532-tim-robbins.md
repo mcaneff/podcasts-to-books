@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-07-29"
 guest = "Tim Robbins"
+guests = ["Tim Robbins"]
 books = ["carrie-stephen-king", "salem-s-lot-stephen-king", "the-nature-of-things-lucretius", "the-shining-stephen-king"]
 books_display = ["Carrie by Stephen King", "Salem's Lot by Stephen King", "The Nature of Things by Lucretius", "The Shining by Stephen King"]
 +++

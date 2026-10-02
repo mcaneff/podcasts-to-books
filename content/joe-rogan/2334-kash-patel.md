@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-06-06"
 guest = "Kash Patel"
+guests = ["Kash Patel"]
 books = ["government-gangster-cash-patel"]
 books_display = ["Government Gangster by Cash Patel"]
 +++

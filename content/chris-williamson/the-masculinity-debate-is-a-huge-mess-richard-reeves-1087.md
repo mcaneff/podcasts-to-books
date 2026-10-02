@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-04-20"
 guest = "Richard Reeves"
+guests = ["Richard Reeves"]
 books = ["of-boys-and-men-richard-reeves"]
 books_display = ["Of Boys and Men by Richard Reeves"]
 +++

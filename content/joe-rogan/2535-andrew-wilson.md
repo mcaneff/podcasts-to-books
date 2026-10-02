@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-08-05"
 guest = "Andrew Wilson"
+guests = ["Andrew Wilson"]
 books = ["the-comfort-crisis-michael-easter"]
 books_display = ["The Comfort Crisis by Michael Easter"]
 +++

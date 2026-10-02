@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-06-11"
 guest = "Ken Burns"
+guests = ["Ken Burns"]
 books = ["the-great-bridge-david-mccullough", "common-sense-thomas-paine", "democracy-in-america-alexis-de-tocqueville", "letters-of-john-keats-john-keats", "the-american-crisis-thomas-paine", "john-adams-david-mccullough", "declaration-of-independence-thomas-jefferson", "the-pentagon-papers-united-states-government", "the-complete-works-of-william-shakespeare-william-shakespeare", "the-civil-war-shelby-foote", "the-war-geoffrey-c-ward"]
 books_display = ["The Great Bridge: The Epic Story of the Building of the Brooklyn Bridge by David McCullough", "Common Sense by Thomas Paine", "Democracy in America by Alexis de Tocqueville", "Letters of John Keats by John Keats (Essay)", "The American Crisis by Thomas Paine (Essay)", "John Adams by David McCullough", "Declaration of Independence by Thomas Jefferson (Essay)", "The Pentagon Papers by United States Government (Essay)", "The Complete Works of William Shakespeare by William Shakespeare", "The Civil War by Shelby Foote", "The War by Geoffrey C. Ward"]
 +++

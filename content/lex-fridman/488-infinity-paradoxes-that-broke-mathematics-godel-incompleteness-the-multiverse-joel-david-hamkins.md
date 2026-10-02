@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2025-12-31"
 guest = "Joel David Hamkins"
+guests = ["Joel David Hamkins"]
 books = ["man-s-search-for-meaning-viktor-frankl", "proof-and-the-order-of-mathematics-joel-david-hamkins", "the-almanack-of-natural-experimentation-ronald-cosworth", "the-almanack-of-naval-ravikant-eric-jorgenson"]
 books_display = ["Man's Search for Meaning by Viktor Frankl", "Proof and the Order of Mathematics by Joel David Hamkins", "The Almanack of Natural Experimentation by Ronald Cosworth", "The Almanack of Naval Ravikant by Eric Jorgenson"]
 +++

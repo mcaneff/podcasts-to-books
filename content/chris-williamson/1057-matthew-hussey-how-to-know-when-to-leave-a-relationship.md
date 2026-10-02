@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-02-09"
 guest = ""
+guests = []
 books = ["anxiously-attached-jessica-barnes", "man-s-search-for-meaning-viktor-frankl", "safe-jessica-barnes", "the-almanack-of-naval-ravikant-eric-jorgenson"]
 books_display = ["Anxiously Attached by Jessica Barnes", "Man's Search for Meaning by Viktor Frankl", "Safe by Jessica Barnes", "The Almanack of Naval Ravikant by Eric Jorgenson"]
 +++

@@ -5,9 +5,10 @@ title = "“This Is The Culmination Of Everything I Know” - Dr Andrew Huberman
 type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-09-14"
-guest = "Dr Andrew Huberman"
-books = ["beyond-order-jordan-peterson", "rules-for-life-jordan-peterson"]
-books_display = ["Beyond Order by Jordan Peterson", "Rules for Life by Jordan Peterson"]
+guest = "Andrew Huberman"
+guests = ["Andrew Huberman"]
+books = ["beyond-order-jordan-peterson", "12-rules-for-life-jordan-peterson"]
+books_display = ["Beyond Order by Jordan Peterson", "12 Rules for Life by Jordan Peterson"]
 +++
 
 Dr Andrew Huberman is a neuroscientist, Associate Professor at the Stanford University School of Medicine, podcaster and author.

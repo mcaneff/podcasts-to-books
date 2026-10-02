@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-04-15"
 guest = "Spencer Pratt"
+guests = ["Spencer Pratt"]
 books = ["chinatown-robert-towne"]
 books_display = ["Chinatown by Robert Towne"]
 +++

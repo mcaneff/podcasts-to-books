@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-06-24"
 guest = "Tim Dillon"
+guests = ["Tim Dillon"]
 books = ["dmt-rick-strassman", "the-book-of-ezekiel-ezekiel", "the-book-of-isaiah-isaiah"]
 books_display = ["DMT: The Spirit Molecule by Rick Strassman", "The Book of Ezekiel by Ezekiel", "The Book of Isaiah by Isaiah"]
 +++

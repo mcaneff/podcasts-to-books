@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-02-23"
 guest = ""
+guests = []
 books = ["atomic-habits-james-clear", "god-is-not-great-christopher-hitchens", "how-to-win-friends-and-influence-people-dale-carnegie", "man-s-search-for-meaning-viktor-frankl", "the-game-neil-strauss"]
 books_display = ["Atomic Habits by James Clear", "God Is Not Great by Christopher Hitchens (Essay)", "How to Win Friends and Influence People by Dale Carnegie", "Man's Search for Meaning by Viktor Frankl", "The Game by Neil Strauss"]
 +++

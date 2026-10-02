@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-04-02"
 guest = ""
+guests = []
 books = ["cultural-materialism-marvin-harris", "superintelligence-nick-bostrom"]
 books_display = ["Cultural Materialism by Marvin Harris", "Superintelligence by Nick Bostrom"]
 +++

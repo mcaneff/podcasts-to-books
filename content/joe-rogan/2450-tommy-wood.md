@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-06"
 guest = "Tommy Wood"
+guests = ["Tommy Wood"]
 books = ["the-anxious-generation-jonathan-haidt", "the-coddling-of-the-american-mind-jonathan-haidt", "range-david-epstein", "the-almanack-of-naval-ravikant-eric-jorgenson"]
 books_display = ["The Anxious Generation by Jonathan Haidt", "The Coddling of the American Mind by Jonathan Haidt (Essay)", "Range by David Epstein", "The Almanack of Naval Ravikant by Eric Jorgenson"]
 +++

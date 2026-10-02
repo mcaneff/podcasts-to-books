@@ -6,8 +6,9 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2025-06-07"
 guest = ""
-books = ["the-body-keeps-the-score-bessel-van-der-kolk", "how-emotions-are-made-lisa-feldman-barrett", "anxiety-rx-dr-russell-kennedy", "helplessness-martin-seligman", "braving-the-wilderness-brene-brown", "rules-for-life-jordan-peterson", "transcend-scott-barry-kaufman", "beyond-the-pleasure-principle-sigmund-freud", "can-t-hurt-me-david-goggins"]
-books_display = ["The Body Keeps the Score by Bessel van der Kolk", "How Emotions Are Made by Lisa Feldman Barrett", "Anxiety RX by Dr. Russell Kennedy", "Helplessness: On Depression, Development, and Death by Martin Seligman", "Braving the Wilderness by Brené Brown", "Rules for Life by Jordan Peterson", "Transcend by Scott Barry Kaufman", "Beyond the Pleasure Principle by Sigmund Freud (Essay)", "Can't Hurt Me by David Goggins"]
+guests = []
+books = ["the-body-keeps-the-score-bessel-van-der-kolk", "how-emotions-are-made-lisa-feldman-barrett", "anxiety-rx-dr-russell-kennedy", "helplessness-martin-seligman", "braving-the-wilderness-brene-brown", "12-rules-for-life-jordan-peterson", "transcend-scott-barry-kaufman", "beyond-the-pleasure-principle-sigmund-freud", "can-t-hurt-me-david-goggins"]
+books_display = ["The Body Keeps the Score by Bessel van der Kolk", "How Emotions Are Made by Lisa Feldman Barrett", "Anxiety RX by Dr. Russell Kennedy", "Helplessness: On Depression, Development, and Death by Martin Seligman", "Braving the Wilderness by Brené Brown", "12 Rules for Life by Jordan Peterson", "Transcend by Scott Barry Kaufman", "Beyond the Pleasure Principle by Sigmund Freud (Essay)", "Can't Hurt Me by David Goggins"]
 +++
 
 Dr. Russell Kennedy is a neuroscientist specializing in anxiety treatment, physician, and an author.

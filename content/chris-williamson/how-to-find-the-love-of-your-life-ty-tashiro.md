@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-04-10"
 guest = "Ty Tashiro"
+guests = ["Ty Tashiro"]
 books = ["sex-at-dawn-christopher-ryan", "the-evolution-of-desire-david-buss", "get-married-brad-wilcox"]
 books_display = ["Sex at Dawn by Christopher Ryan", "The Evolution of Desire by David Buss", "Get Married by Brad Wilcox"]
 +++

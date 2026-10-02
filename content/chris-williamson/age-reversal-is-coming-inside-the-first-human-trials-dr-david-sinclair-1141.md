@@ -5,7 +5,8 @@ title = "“Age Reversal Is Coming.” Inside The First Human Trials - Dr David 
 type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-08-24"
-guest = "Dr David Sinclair"
+guest = "David Sinclair"
+guests = ["David Sinclair"]
 books = ["stolen-focus-johan-hari"]
 books_display = ["Stolen Focus by Johan Hari"]
 +++

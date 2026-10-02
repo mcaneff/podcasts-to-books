@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-06-29"
 guest = "Alex Hormozi"
+guests = ["Alex Hormozi"]
 books = ["alchemy-rory-sutherland", "die-with-zero-bill-perkins", "from-strength-to-strength-arthur-brooks", "the-splendid-and-the-vile-erik-larson"]
 books_display = ["Alchemy by Rory Sutherland", "Die With Zero by Bill Perkins", "From Strength to Strength by Arthur Brooks", "The Splendid and the Vile by Erik Larson"]
 +++

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-04-16"
 guest = "Alex Petkas"
+guests = ["Alex Petkas"]
 books = ["cyropaedia-xenophon", "on-the-advantage-and-disadvantage-of-history-for-life-nietzsche"]
 books_display = ["Cyropaedia by Xenophon", "On the Advantage and Disadvantage of History for Life by Nietzsche"]
 +++

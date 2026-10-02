@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-09-21"
 guest = "Tony Robbins"
+guests = ["Tony Robbins"]
 books = ["die-with-zero-bill-perkins", "the-holy-grail-of-investing-tony-robbins-and-christopher-zook"]
 books_display = ["Die with Zero by Bill Perkins", "The Holy Grail of Investing by Tony Robbins and Christopher Zook"]
 +++

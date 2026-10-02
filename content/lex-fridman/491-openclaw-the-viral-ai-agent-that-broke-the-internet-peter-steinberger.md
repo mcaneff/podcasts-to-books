@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2026-02-12"
 guest = "Peter Steinberger"
+guests = ["Peter Steinberger"]
 books = ["man-s-search-for-meaning-viktor-frankl"]
 books_display = ["Man's Search for Meaning by Viktor Frankl"]
 +++

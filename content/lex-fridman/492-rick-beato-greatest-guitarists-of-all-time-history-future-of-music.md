@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2026-03-01"
 guest = "Rick Beato"
+guests = ["Rick Beato"]
 books = ["black-sabbath-black-sabbath", "bohemian-rhapsody-queen", "europa-santana", "hallelujah-leonard-cohen", "man-s-search-for-meaning-viktor-frankl", "master-of-puppets-metallica", "money-for-nothing-dire-straits", "stairway-to-heaven-led-zeppelin", "star-wars-theme-john-williams", "sultans-of-swing-dire-straits", "tears-in-heaven-eric-clapton", "the-almanack-of-naval-ravikant-eric-jorgenson", "wonderful-tonight-eric-clapton", "yesterday-the-beatles"]
 books_display = ["Black Sabbath by Black Sabbath", "Bohemian Rhapsody by Queen", "Europa by Santana", "Hallelujah by Leonard Cohen", "Man's Search for Meaning by Viktor Frankl", "Master of Puppets by Metallica", "Money for Nothing by Dire Straits", "Stairway to Heaven by Led Zeppelin", "Star Wars theme by John Williams", "Sultans of Swing by Dire Straits", "Tears in Heaven by Eric Clapton", "The Almanack of Naval Ravikant by Eric Jorgenson", "Wonderful Tonight by Eric Clapton", "Yesterday by The Beatles"]
 +++

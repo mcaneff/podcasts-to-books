@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-05-04"
 guest = "Jefferson Fisher"
+guests = ["Jefferson Fisher"]
 books = ["against-empathy-paul-bloom", "how-to-stop-worrying-and-start-living-dale-carnegie"]
 books_display = ["Against Empathy by Paul Bloom", "How to Stop Worrying and Start Living by Dale Carnegie"]
 +++

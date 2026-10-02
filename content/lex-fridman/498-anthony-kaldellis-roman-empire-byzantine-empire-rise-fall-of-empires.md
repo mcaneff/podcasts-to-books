@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2026-06-30"
 guest = "Anthony Kaldellis"
+guests = ["Anthony Kaldellis"]
 books = ["politics-aristotle"]
 books_display = ["Politics by Aristotle"]
 +++

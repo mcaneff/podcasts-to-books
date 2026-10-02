@@ -5,7 +5,8 @@ title = "#942 - Gen. Stanley McChrystal - How To Actually Build Discipline"
 type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2025-05-17"
-guest = "How To Actually Build Discipline"
+guest = ""
+guests = []
 books = ["endurance-alfred-lansing", "good-to-great-jim-collins", "meditations-marcus-aurelius", "thinking-fast-and-slow-daniel-kahneman"]
 books_display = ["Endurance by Alfred Lansing", "Good to Great by Jim Collins", "Meditations by Marcus Aurelius", "Thinking, Fast and Slow by Daniel Kahneman"]
 +++

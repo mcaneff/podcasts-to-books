@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-02-19"
 guest = ""
+guests = []
 books = ["die-with-zero-bill-perkins", "four-thousand-weeks-oliver-burkeman", "man-s-search-for-meaning-viktor-frankl"]
 books_display = ["Die With Zero by Bill Perkins", "Four Thousand Weeks by Oliver Burkeman", "Man's Search for Meaning by Viktor Frankl"]
 +++

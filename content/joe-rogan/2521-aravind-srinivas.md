@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-07-01"
 guest = "Aravind Srinivas"
+guests = ["Aravind Srinivas"]
 books = ["fingerprints-of-the-gods-graham-hancock"]
 books_display = ["Fingerprints of the Gods by Graham Hancock"]
 +++

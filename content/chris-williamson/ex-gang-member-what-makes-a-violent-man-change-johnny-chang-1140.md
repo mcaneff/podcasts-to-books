@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-08-22"
 guest = "Johnny Chang"
+guests = ["Johnny Chang"]
 books = ["the-bible-anonymous"]
 books_display = ["The Bible by Anonymous"]
 +++

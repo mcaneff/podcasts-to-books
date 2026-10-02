@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-03-05"
 guest = ""
+guests = []
 books = ["deep-work-cal-newport", "proust-and-the-squid-maryanne-wolf", "slow-productivity-cal-newport", "the-shallows-nicholas-carr"]
 books_display = ["Deep Work by Cal Newport", "Proust and the Squid by Maryanne Wolf", "Slow Productivity by Cal Newport", "The Shallows by Nicholas Carr"]
 +++

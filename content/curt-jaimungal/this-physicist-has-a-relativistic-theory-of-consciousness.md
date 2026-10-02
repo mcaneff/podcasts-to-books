@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-03-05"
 guest = ""
+guests = []
 books = ["consciousness-explained-daniel-dennett", "man-s-search-for-meaning-viktor-frankl", "the-almanack-of-naval-ravikant-eric-jorgenson", "what-is-it-like-to-be-a-bat-thomas-nagel"]
 books_display = ["Consciousness Explained by Daniel Dennett", "Man's Search for Meaning by Viktor Frankl", "The Almanack of Naval Ravikant by Eric Jorgenson", "What Is It Like to Be a Bat? by Thomas Nagel (Essay)"]
 +++

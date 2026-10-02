@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-10"
 guest = "Cheryl Hines"
+guests = ["Cheryl Hines"]
 books = ["man-s-search-for-meaning-viktor-frankl", "the-almanack-of-naval-ravikant-eric-jorgenson", "the-real-anthony-fauci-robert-f-kennedy-jr", "unscripted-cheryl-hines"]
 books_display = ["Man's Search for Meaning by Viktor Frankl", "The Almanack of Naval Ravikant by Eric Jorgenson", "The Real Anthony Fauci by Robert F. Kennedy Jr", "Unscripted by Cheryl Hines"]
 +++

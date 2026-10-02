@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-05-12"
 guest = "Gad Saad"
+guests = ["Gad Saad"]
 books = ["suicidal-empathy-gad-saad", "the-parasitic-mind-gad-saad"]
 books_display = ["Suicidal Empathy by Gad Saad", "The Parasitic Mind by Gad Saad"]
 +++

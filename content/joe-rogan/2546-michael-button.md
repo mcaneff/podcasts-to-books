@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-08-26"
 guest = "Michael Button"
+guests = ["Michael Button"]
 books = ["the-jungle-book-rudyard-kipling"]
 books_display = ["The Jungle Book by Rudyard Kipling"]
 +++

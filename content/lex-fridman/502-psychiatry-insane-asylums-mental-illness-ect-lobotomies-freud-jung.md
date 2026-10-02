@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2026-09-17"
 guest = ""
+guests = []
 books = ["fat-and-blood-silas-weir-mitchell", "madness-in-civilization-andrew-scull", "studies-in-hysteria-josef-breuer-and-sigmund-freud", "the-interpretation-of-dreams-sigmund-freud", "wear-and-tear-silas-weir-mitchell"]
 books_display = ["Fat and Blood by Silas Weir Mitchell", "Madness in Civilization by Andrew Scull", "Studies in Hysteria by Josef Breuer and Sigmund Freud", "The Interpretation of Dreams by Sigmund Freud", "Wear and Tear by Silas Weir Mitchell"]
 +++

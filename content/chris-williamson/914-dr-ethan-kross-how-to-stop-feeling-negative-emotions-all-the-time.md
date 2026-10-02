@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-03-13"
 guest = ""
+guests = []
 books = ["chatter-ethan-kross"]
 books_display = ["Chatter by Ethan Kross"]
 +++

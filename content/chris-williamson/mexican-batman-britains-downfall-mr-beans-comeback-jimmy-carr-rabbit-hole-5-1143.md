@@ -5,7 +5,8 @@ title = "Mexican Batman, Britain’s Downfall, Mr Bean’s Comeback & Jimmy Carr
 type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-08-29"
-guest = "Mexican Batman, Britain’s Downfall, Mr Bean’s Comeback & Jimmy Carr"
+guest = ""
+guests = []
 books = ["finnegan-s-wake-james-joyce", "the-great-gatsby-f-scott-fitzgerald", "the-hero-with-a-thousand-faces-joseph-campbell"]
 books_display = ["Finnegan's Wake by James Joyce", "The Great Gatsby by F. Scott Fitzgerald", "The Hero with a Thousand Faces by Joseph Campbell"]
 +++

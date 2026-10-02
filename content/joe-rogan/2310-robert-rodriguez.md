@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-04-24"
 guest = "Robert Rodriguez"
+guests = ["Robert Rodriguez"]
 books = ["rebel-without-a-crew-robert-rodriguez", "the-war-of-art-steven-pressfield", "the-book-of-five-rings-miyamoto-musashi", "sin-city-frank-miller-graphic-novel"]
 books_display = ["Rebel without a Crew by Robert Rodriguez", "The War of Art by Steven Pressfield", "The Book of Five Rings by Miyamoto Musashi", "Sin City by Frank Miller (graphic novel)"]
 +++

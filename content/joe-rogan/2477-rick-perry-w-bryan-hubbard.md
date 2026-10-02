@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-04-01"
 guest = "Rick Perry & W. Bryan Hubbard"
+guests = ["Rick Perry", "W. Bryan Hubbard"]
 books = ["the-sacred-mushroom-and-the-cross-john-marco-allegro"]
 books_display = ["The Sacred Mushroom and the Cross by John Marco Allegro"]
 +++

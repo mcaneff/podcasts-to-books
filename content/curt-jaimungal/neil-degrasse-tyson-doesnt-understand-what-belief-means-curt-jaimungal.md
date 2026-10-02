@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-03-02"
 guest = ""
+guests = []
 books = ["the-coherence-of-theism-richard-swinburne", "the-scientific-image-bas-van-fraassen"]
 books_display = ["The Coherence of Theism by Richard Swinburne", "The Scientific Image by Bas van Fraassen"]
 +++

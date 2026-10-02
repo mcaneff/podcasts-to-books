@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-02-25"
 guest = "Terence Crawford"
+guests = ["Terence Crawford"]
 books = ["man-s-search-for-meaning-viktor-frankl"]
 books_display = ["Man's Search for Meaning by Viktor Frankl"]
 +++

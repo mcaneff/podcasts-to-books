@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-07-31"
 guest = "Annie Jacobsen"
+guests = ["Annie Jacobsen"]
 books = ["the-pentagon-s-brain-annie-jacobson"]
 books_display = ["The Pentagon's Brain: An Uncensored History of DARPA, America's Top-Secret Military Research Agency by Annie Jacobson"]
 +++

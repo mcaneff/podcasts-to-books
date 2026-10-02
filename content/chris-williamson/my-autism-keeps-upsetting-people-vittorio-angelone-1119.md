@@ -6,8 +6,9 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-07-04"
 guest = "Vittorio Angelone"
-books = ["rules-for-life-jordan-peterson", "strong-female-character-fern-brady", "the-psychology-of-money-morgan-housel"]
-books_display = ["Rules for Life by Jordan Peterson", "Strong Female Character by Fern Brady", "The Psychology of Money by Morgan Housel"]
+guests = ["Vittorio Angelone"]
+books = ["12-rules-for-life-jordan-peterson", "strong-female-character-fern-brady", "the-psychology-of-money-morgan-housel"]
+books_display = ["12 Rules for Life by Jordan Peterson", "Strong Female Character by Fern Brady", "The Psychology of Money by Morgan Housel"]
 +++
 
 Vittorio Angelone is an Irish comedian, writer, and podcaster.

@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2025-05-02"
 guest = ""
+guests = []
 books = ["the-physiology-of-taste-jean-anthelme-brillat-savarin", "change-the-recipe-jose-andres", "alices-adventures-in-wonderland-lewis-carroll", "the-montessori-method-maria-montessori"]
 books_display = ["The Physiology of Taste by Jean Anthelme Brillat-Savarin", "Change the Recipe by José Andrés", "Alice’s Adventures in Wonderland by Lewis Carroll", "The Montessori Method by Maria Montessori (Essay)"]
 +++

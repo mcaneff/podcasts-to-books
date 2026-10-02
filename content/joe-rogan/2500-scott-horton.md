@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-05-15"
 guest = "Scott Horton"
+guests = ["Scott Horton"]
 books = ["they-knew-they-were-right-jacob-heilbrunn"]
 books_display = ["They Knew They Were Right by Jacob Heilbrunn"]
 +++

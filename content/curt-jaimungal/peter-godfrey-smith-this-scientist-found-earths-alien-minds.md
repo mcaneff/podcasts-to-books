@@ -6,6 +6,7 @@ type = "post"
 podcaster = "curt-jaimungal"
 episode_id = "ep_curt-jaimungal_2026-08-17"
 guest = "Peter Godfrey-Smith"
+guests = ["Peter Godfrey-Smith"]
 books = ["other-minds-peter-godfrey-smith", "remarkably-bright-creatures-shelby-van-pelt"]
 books_display = ["Other Minds by Peter Godfrey Smith", "Remarkably Bright Creatures by Shelby Van Pelt"]
 +++

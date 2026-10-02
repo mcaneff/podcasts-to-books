@@ -1,0 +1,18 @@
+{{- define "main" }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  <div class="post-description">Every guest, with the books they brought up. Most episodes first.</div>
+</header>
+{{- $type := .Type }}
+<div class="guest-grid">
+  {{- range .Data.Terms.ByCount }}
+  {{- $count := .Count }}
+  {{- with site.GetPage (printf "/%s/%s" $type .Name) }}
+  <a class="guest-card" href="{{ .RelPermalink }}">
+    <span class="guest-name">{{ .Title }}</span>
+    <span class="muted">{{ $count }} episode{{ if ne $count 1 }}s{{ end }}</span>
+  </a>
+  {{- end }}
+  {{- end }}
+</div>
+{{- end }}

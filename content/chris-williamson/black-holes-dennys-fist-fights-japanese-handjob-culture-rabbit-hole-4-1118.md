@@ -5,7 +5,8 @@ title = "Black Holes, Denny’s Fist Fights & Japanese Handjob Culture - Rabbit 
 type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-07-02"
-guest = "Black Holes, Denny’s Fist Fights & Japanese Handjob Culture"
+guest = ""
+guests = []
 books = ["a-song-of-ice-and-fire-george-r-r-martin", "calvin-and-hobbes-bill-watterson", "dune-frank-herbert", "dungeon-crawler-carl-matt-dinniman", "four-thousand-weeks-oliver-burkeman", "fraction-of-the-whole-steve-toltz", "moonwalking-with-einstein-joshua-foer", "red-rising-pierce-brown", "seveneves-neal-stephenson", "the-five-ages-of-the-universe-fred-adams-and-gregory-laughlin", "the-happiness-hypothesis-jonathan-haidt", "the-righteous-mind-jonathan-haidt"]
 books_display = ["A Song of Ice and Fire by George R. R. Martin", "Calvin and Hobbes by Bill Watterson", "Dune by Frank Herbert", "Dungeon Crawler Carl by Matt Dinniman", "Four Thousand Weeks by Oliver Burkeman", "Fraction of the Whole by Steve Toltz", "Moonwalking with Einstein by Joshua Foer", "Red Rising by Pierce Brown", "Seveneves by Neal Stephenson", "The Five Ages of the Universe by Fred Adams and Gregory Laughlin", "The Happiness Hypothesis by Jonathan Haidt", "The Righteous Mind by Jonathan Haidt"]
 +++

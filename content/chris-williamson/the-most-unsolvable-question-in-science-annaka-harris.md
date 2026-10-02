@@ -6,6 +6,7 @@ type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chriswilliamson_2025-04-12"
 guest = "Annaka Harris"
+guests = ["Annaka Harris"]
 books = ["galileo-s-error-philip-goff", "the-light-eaters-zoe-schlinger"]
 books_display = ["Galileo's Error by Philip Goff", "The Light Eaters by Zoe Schlinger"]
 +++

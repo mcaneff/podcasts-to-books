@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-08-25"
 guest = "Jesse Michels"
+guests = ["Jesse Michels"]
 books = ["alien-information-theory-andrew-gallimore", "childhood-s-end-arthur-c-clarke", "the-sacred-mushroom-and-the-cross-john-marco-allegro", "what-is-real-adam-becker"]
 books_display = ["Alien Information Theory by Andrew Gallimore", "Childhood's End by Arthur C. Clarke", "The Sacred Mushroom and the Cross by John Marco Allegro", "What Is Real by Adam Becker"]
 +++

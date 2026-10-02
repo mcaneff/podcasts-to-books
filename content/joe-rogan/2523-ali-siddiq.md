@@ -6,6 +6,7 @@ type = "post"
 podcaster = "joe-rogan"
 episode_id = "ep_joe-rogan_2026-07-07"
 guest = "Ali Siddiq"
+guests = ["Ali Siddiq"]
 books = ["one-flew-over-the-cuckoo-s-nest-ken-kesey"]
 books_display = ["One Flew Over the Cuckoo's Nest by Ken Kesey"]
 +++

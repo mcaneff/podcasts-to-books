@@ -6,6 +6,7 @@ type = "post"
 podcaster = "lex-fridman"
 episode_id = "ep_lex-fridman_2026-02-01"
 guest = ""
+guests = []
 books = ["apple-in-china-patrick-mcgee", "build-a-large-language-model-from-scratch-nathan-lambert", "build-a-reasoning-model-from-scratch-nathan-lambert", "reinforcement-learning-from-human-feedback-nathan-lambert", "season-of-the-witch-david-talbot", "the-bitter-lesson-richard-sutton", "the-scaling-laws-of-reinforcement-learning-with-human-feedback-nathan-lambert"]
 books_display = ["Apple in China by Patrick McGee", "Build a Large Language Model from Scratch by Nathan Lambert", "Build a Reasoning Model from Scratch by Nathan Lambert", "Reinforcement Learning from Human Feedback by Nathan Lambert", "Season of the Witch by David Talbot", "The Bitter Lesson by Richard Sutton (Essay)", "The Scaling Laws of Reinforcement Learning with Human Feedback by Nathan Lambert (Essay)"]
 +++

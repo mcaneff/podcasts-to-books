@@ -5,7 +5,8 @@ title = "#1069 - Dr Max Butterfield - How Love Turns You Insane"
 type = "post"
 podcaster = "chris-williamson"
 episode_id = "ep_chris-williamson_2026-03-09"
-guest = "How Love Turns You Insane"
+guest = ""
+guests = []
 books = ["man-s-search-for-meaning-viktor-frankl", "the-almanack-of-naval-ravikant-eric-jorgenson"]
 books_display = ["Man's Search for Meaning by Viktor Frankl", "The Almanack of Naval Ravikant by Eric Jorgenson"]
 +++
