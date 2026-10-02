@@ -1,0 +1,63 @@
+{{- define "main" }}
+{{- $b := index (site.Data.books | default dict) .Params.book }}
+<article class="post-single book-page">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{- if $b }}<div class="post-description">by {{ $b.author }}{{ with $b.year }} · {{ . }}{{ end }}</div>{{ end }}
+  </header>
+
+  {{- if not $b }}
+  <p>This book's data is being rebuilt. Check back after the next update.</p>
+  {{- else }}
+  <div class="book-hero">
+    <div class="book-hero-cover">
+      {{- if $b.cover_url_large }}
+      <img src="{{ $b.cover_url_large }}" alt="Cover of {{ $b.title }}" width="240"
+           onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+      <div class="book-cover-fallback large" style="display:none"><span>{{ $b.title }}</span></div>
+      {{- else }}
+      <div class="book-cover-fallback large"><span>{{ $b.title }}</span></div>
+      {{- end }}
+    </div>
+    <div class="book-hero-body">
+      <p class="book-hero-summary">
+        Mentioned in <strong>{{ $b.mention_count }}</strong> episode{{ if ne $b.mention_count 1 }}s{{ end }}
+        across {{ len $b.podcasters }} podcast{{ if ne (len $b.podcasters) 1 }}s{{ end }}:
+        {{ range $i, $p := $b.podcasters }}{{ if $i }}, {{ end }}{{ with index ((site.Data.site | default dict).podcasters | default dict) $p }}{{ .name }}{{ else }}{{ $p }}{{ end }}{{ end }}.
+      </p>
+      <div class="book-buy">
+        <a class="btn" href="{{ $b.amazon_url }}" target="_blank" rel="noopener sponsored">Buy on Amazon</a>
+        <a class="btn secondary" href="{{ $b.bookshop_url }}" target="_blank" rel="noopener">Bookshop.org</a>
+        {{- if $b.open_library_url }}<a class="btn secondary" href="{{ $b.open_library_url }}" target="_blank" rel="noopener">Open Library</a>{{ end }}
+      </div>
+      {{- if $b.isbn13 }}<p class="muted">ISBN {{ $b.isbn13 }}</p>{{ end }}
+    </div>
+  </div>
+
+  <div class="post-content">
+    <h2 id="mentions">Where it comes up</h2>
+    {{- $groups := dict }}
+    {{- range $b.mentions }}
+      {{- $groups = merge $groups (dict .podcaster (append . (index $groups .podcaster | default slice))) }}
+    {{- end }}
+    {{- range $p, $ms := $groups }}
+    <h3>{{ with index ((site.Data.site | default dict).podcasters | default dict) $p }}{{ .name }}{{ else }}{{ $p }}{{ end }}</h3>
+    <ul class="mention-list">
+      {{- range sort $ms "date" "desc" }}
+      {{- $page := site.GetPage (printf "/%s" .post_path) }}
+      <li class="mention">
+        <div class="mention-head">
+          {{- if $page }}<a href="{{ $page.RelPermalink }}">{{ .episode_title }}</a>{{ else }}{{ .episode_title }}{{ end }}
+          <span class="muted">· {{ .date }}{{ with .guest }} · with {{ . }}{{ end }}</span>
+        </div>
+        {{- if .quote }}<blockquote class="mention-quote">“{{ .quote }}”</blockquote>{{ end }}
+        {{- if and $page .t_label }}<a class="seek-link" href="{{ $page.RelPermalink }}#t={{ .t }}">▶ Listen from {{ .t_label }}</a>{{ end }}
+      </li>
+      {{- end }}
+    </ul>
+    {{- end }}
+  </div>
+  {{- end }}
+</article>
+{{- end }}

@@ -1,0 +1,41 @@
+{{- /* Books mentioned in the current episode, from data/books.json (falls back to front matter). */ -}}
+{{- $eid := .Page.Params.episode_id -}}
+{{- $found := slice -}}
+{{- range $slug, $book := (site.Data.books | default dict) }}
+  {{- range $book.mentions }}
+    {{- if eq .episode_id $eid }}{{ $found = $found | append (dict "book" $book "m" .) }}{{ end }}
+  {{- end }}
+{{- end }}
+{{- if $found }}
+<div class="episode-books">
+  {{- range sort $found "book.title" }}
+  {{- $b := .book }}{{ $m := .m }}
+  <div class="episode-book">
+    {{- with site.GetPage (printf "/books/%s" $b.slug) }}
+    <a class="episode-book-cover" href="{{ .RelPermalink }}">
+      {{- if $b.cover_url }}<img src="{{ $b.cover_url }}" alt="" loading="lazy" width="80" height="120">{{ else }}<div class="book-cover-fallback small"><span>{{ $b.title }}</span></div>{{ end }}
+    </a>
+    <div class="episode-book-body">
+      <div class="episode-book-title"><a href="{{ .RelPermalink }}">{{ $b.title }}</a> <span class="episode-book-author">by {{ $b.author }}</span></div>
+    {{- else }}
+    <div class="episode-book-body">
+      <div class="episode-book-title">{{ $b.title }} <span class="episode-book-author">by {{ $b.author }}</span></div>
+    {{- end }}
+      {{- if $m.quote }}<blockquote class="mention-quote">“{{ $m.quote }}”</blockquote>{{ end }}
+      <div class="episode-book-links">
+        {{- if $m.t_label }}<a class="seek" href="#t={{ $m.t }}" data-t="{{ $m.t }}">▶ Play at {{ $m.t_label }}</a>{{ end }}
+        <a href="{{ $b.amazon_url }}" target="_blank" rel="noopener sponsored">Amazon</a>
+        {{- if $b.open_library_url }}<a href="{{ $b.open_library_url }}" target="_blank" rel="noopener">Open Library</a>{{ end }}
+        {{- if gt $b.mention_count 1 }}<span class="muted">· mentioned in {{ $b.mention_count }} episodes</span>{{ end }}
+      </div>
+    </div>
+  </div>
+  {{- end }}
+</div>
+{{- else }}
+<ul>
+  {{- range .Page.Params.books_display }}
+  <li><a href="https://www.amazon.com/s?k={{ replace . " " "+" }}&tag=podcaststoboo-20" target="_blank" rel="noopener sponsored">{{ . }}</a></li>
+  {{- end }}
+</ul>
+{{- end }}

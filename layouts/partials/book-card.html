@@ -1,0 +1,19 @@
+{{- /* A cover card. Context: dict "book" <book from data/books.json> "count" <optional mention count override> */ -}}
+{{- $b := .book -}}
+{{- $n := .count | default $b.mention_count -}}
+{{- with site.GetPage (printf "/books/%s" $b.slug) }}
+<a class="book-card" href="{{ .RelPermalink }}" title="{{ $b.title }} by {{ $b.author }}">
+  <div class="book-cover">
+    {{- if $b.cover_url }}
+    <img src="{{ $b.cover_url }}" alt="Cover of {{ $b.title }}" loading="lazy" width="180" height="270"
+         onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+    <div class="book-cover-fallback" style="display:none"><span>{{ $b.title }}</span></div>
+    {{- else }}
+    <div class="book-cover-fallback"><span>{{ $b.title }}</span></div>
+    {{- end }}
+  </div>
+  <div class="book-card-title">{{ $b.title }}</div>
+  <div class="book-card-author">{{ $b.author }}</div>
+  <div class="book-card-count">{{ $n }} episode{{ if ne $n 1 }}s{{ end }}</div>
+</a>
+{{- end }}

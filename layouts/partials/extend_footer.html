@@ -1,0 +1,18 @@
+<script>
+// Timestamp links: "#t=123" seeks the episode's audio player (and plays, if the browser allows it).
+(function () {
+  function player() { return document.getElementById('episode-audio') || document.querySelector('audio'); }
+  function seek(t, play) {
+    var a = player(); if (!a || isNaN(t)) return;
+    var go = function () { a.currentTime = t; if (play) { a.play().catch(function () {}); } a.scrollIntoView({behavior: 'smooth', block: 'center'}); };
+    if (a.readyState >= 1) { go(); } else { a.addEventListener('loadedmetadata', go, {once: true}); a.load(); }
+  }
+  document.addEventListener('click', function (e) {
+    var el = e.target.closest('a.seek'); if (!el) return;
+    e.preventDefault(); seek(parseFloat(el.dataset.t), true);
+    history.replaceState(null, '', '#t=' + el.dataset.t);
+  });
+  var m = location.hash.match(/#t=([\d.]+)/);
+  if (m) { window.addEventListener('load', function () { seek(parseFloat(m[1]), false); }); }
+})();
+</script>

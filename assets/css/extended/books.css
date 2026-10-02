@@ -1,0 +1,38 @@
+/* Book pages, cover grids and mention quotes */
+.book-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 18px 14px; margin: 16px 0 28px; }
+.book-grid.wide { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+.book-card { display: flex; flex-direction: column; text-decoration: none; color: var(--content); }
+.book-card:hover .book-cover { transform: translateY(-3px); box-shadow: 0 10px 24px rgba(0,0,0,.25); }
+.book-cover { position: relative; aspect-ratio: 2 / 3; border-radius: 6px; overflow: hidden; background: var(--code-bg); box-shadow: 0 4px 12px rgba(0,0,0,.18); transition: transform .15s ease, box-shadow .15s ease; }
+.book-cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.book-cover-fallback { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; text-align: center; padding: 10px; font-size: .85rem; font-weight: 600; line-height: 1.25; background: linear-gradient(160deg, var(--tertiary), var(--code-bg)); color: var(--primary); }
+.book-cover-fallback.small { position: relative; width: 80px; height: 120px; border-radius: 4px; font-size: .7rem; }
+.book-cover-fallback.large { position: relative; width: 240px; height: 360px; border-radius: 8px; font-size: 1.1rem; }
+.book-card-title { margin-top: 8px; font-weight: 600; font-size: .9rem; line-height: 1.25; }
+.book-card-author { font-size: .8rem; color: var(--secondary); }
+.book-card-count { font-size: .75rem; color: var(--secondary); margin-top: 2px; }
+.books-more { text-align: right; }
+
+.book-hero { display: flex; gap: 28px; align-items: flex-start; margin: 8px 0 28px; }
+.book-hero-cover img { width: 240px; border-radius: 8px; box-shadow: 0 8px 24px rgba(0,0,0,.3); }
+.book-hero-body { flex: 1; min-width: 0; }
+.book-hero-summary { font-size: 1.05rem; }
+.book-buy { display: flex; flex-wrap: wrap; gap: 10px; margin: 14px 0; }
+.btn { display: inline-block; padding: 8px 16px; border-radius: 8px; background: var(--primary); color: var(--theme) !important; font-weight: 600; text-decoration: none; }
+.btn.secondary { background: var(--code-bg); color: var(--primary) !important; }
+@media (max-width: 600px) { .book-hero { flex-direction: column; align-items: center; text-align: center; } .book-buy { justify-content: center; } }
+
+.mention-list { list-style: none; padding: 0; }
+.mention { padding: 12px 0; border-bottom: 1px solid var(--border); }
+.mention-head { font-weight: 600; }
+.mention-quote, .episode-book .mention-quote { margin: 8px 0; padding: 6px 14px; border-left: 3px solid var(--primary); color: var(--secondary); font-style: italic; font-size: .95rem; }
+.seek-link, a.seek { font-weight: 600; }
+
+.episode-books { display: flex; flex-direction: column; gap: 18px; }
+.episode-book { display: flex; gap: 16px; align-items: flex-start; }
+.episode-book-cover img { width: 80px; height: 120px; object-fit: cover; border-radius: 4px; box-shadow: 0 3px 10px rgba(0,0,0,.2); }
+.episode-book-body { flex: 1; min-width: 0; }
+.episode-book-title { font-weight: 600; font-size: 1.05rem; }
+.episode-book-author { font-weight: 400; color: var(--secondary); }
+.episode-book-links { display: flex; flex-wrap: wrap; gap: 14px; font-size: .9rem; }
+.muted { color: var(--secondary); font-weight: 400; }

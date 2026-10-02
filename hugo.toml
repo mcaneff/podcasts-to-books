@@ -5,7 +5,7 @@ enableRobotsTXT = true
 
 [params]
   ShowReadingTime = true
-  mainsections = ["chris-williamson", "lex-fridman", "joe-rogan"]
+  mainsections = ["chris-williamson", "lex-fridman", "joe-rogan", "curt-jaimungal"]
   ShowRssButtonInSectionTermList = false
   ShowPostNavLinks = true
 
@@ -15,6 +15,11 @@ enableRobotsTXT = true
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "Sitemap" ]
+
+[[menu.main]]
+  name = "Books"
+  url = "/books/"
+  weight = 0
 
 [[menu.main]]
   name = "Chris Williamson"

@@ -1,0 +1,16 @@
+{{- define "main" }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}<div class="post-description">{{ . }}</div>{{ end }}
+</header>
+{{- with (site.Data.site | default dict).counts }}
+<p class="muted">{{ .books }} books · {{ .episodes }} episodes · {{ .mentions }} mentions</p>
+{{- end }}
+<div class="book-grid wide">
+  {{- $books := slice }}
+  {{- range $slug, $b := (site.Data.books | default dict) }}{{ $books = $books | append $b }}{{ end }}
+  {{- range sort $books "mention_count" "desc" }}
+    {{- partial "book-card.html" (dict "book" .) }}
+  {{- end }}
+</div>
+{{- end }}

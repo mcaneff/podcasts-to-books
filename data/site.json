@@ -1,0 +1,107 @@
+{
+ "generated": "2026-10-02",
+ "recent_days": 90,
+ "top_alltime": [
+  "man-s-search-for-meaning-viktor-frankl",
+  "the-almanack-of-naval-ravikant-eric-jorgenson",
+  "atomic-habits-james-clear",
+  "die-with-zero-bill-perkins",
+  "fingerprints-of-the-gods-graham-hancock",
+  "models-mark-manson",
+  "the-evolution-of-desire-david-buss",
+  "the-psychology-of-money-morgan-housel",
+  "the-subtle-art-of-not-giving-a-f-ck-mark-manson",
+  "chaos-tom-o-neill",
+  "four-thousand-weeks-oliver-burkeman",
+  "meditations-marcus-aurelius"
+ ],
+ "top_recent": [
+  "die-with-zero-bill-perkins",
+  "the-moral-animal-robert-wright",
+  "atomic-habits-james-clear",
+  "book-of-enoch-enoch",
+  "childhood-s-end-arthur-c-clarke",
+  "cobalt-red-siddharth-kara",
+  "rules-for-life-jordan-peterson",
+  "superintelligence-nick-bostrom",
+  "the-pentagon-s-brain-annie-jacobson",
+  "the-precipice-toby-ord",
+  "a-space-odyssey-arthur-c-clarke",
+  "a-swim-in-a-pond-in-the-rain-george-saunders"
+ ],
+ "podcasters": {
+  "chris-williamson": {
+   "name": "Modern Wisdom",
+   "top": [
+    "man-s-search-for-meaning-viktor-frankl",
+    "the-almanack-of-naval-ravikant-eric-jorgenson",
+    "atomic-habits-james-clear",
+    "die-with-zero-bill-perkins",
+    "the-psychology-of-money-morgan-housel",
+    "the-subtle-art-of-not-giving-a-f-ck-mark-manson",
+    "models-mark-manson",
+    "the-moral-animal-robert-wright",
+    "four-thousand-weeks-oliver-burkeman",
+    "meditations-marcus-aurelius",
+    "rules-for-life-jordan-peterson",
+    "seveneves-neal-stephenson"
+   ]
+  },
+  "lex-fridman": {
+   "name": "Lex Fridman Podcast",
+   "top": [
+    "man-s-search-for-meaning-viktor-frankl",
+    "the-almanack-of-naval-ravikant-eric-jorgenson",
+    "the-bitter-lesson-richard-sutton",
+    "a-space-odyssey-arthur-c-clarke",
+    "a-clean-break-david-wurmser",
+    "a-foreign-policy-of-freedom-ron-paul",
+    "a-madman-dreams-of-turing-machines-janna-levin",
+    "abundance-ezra-klein-and-derek-thompson",
+    "angler-barton-gellman",
+    "apple-in-china-patrick-mcgee",
+    "atlas-shrugged-ayn-rand",
+    "bhagavad-gita-vyasa"
+   ]
+  },
+  "joe-rogan": {
+   "name": "Joe Rogan Experience",
+   "top": [
+    "man-s-search-for-meaning-viktor-frankl",
+    "fingerprints-of-the-gods-graham-hancock",
+    "the-almanack-of-naval-ravikant-eric-jorgenson",
+    "chaos-tom-o-neill",
+    "the-sacred-mushroom-and-the-cross-john-marco-allegro",
+    "cobalt-red-siddharth-kara",
+    "the-book-of-ezekiel-ezekiel",
+    "book-of-enoch-enoch",
+    "can-t-hurt-me-david-goggins",
+    "childhood-s-end-arthur-c-clarke",
+    "empire-of-the-summer-moon-s-c-gwynne",
+    "outliers-malcolm-gladwell"
+   ]
+  },
+  "curt-jaimungal": {
+   "name": "Theories of Everything",
+   "top": [
+    "godel-escher-bach-douglas-hofstadter",
+    "the-almanack-of-naval-ravikant-eric-jorgenson",
+    "the-master-and-his-emissary-iain-mcgilchrist",
+    "man-s-search-for-meaning-viktor-frankl",
+    "a-brief-history-of-time-stephen-hawking",
+    "consciousness-explained-daniel-dennett",
+    "critique-of-pure-reason-immanuel-kant",
+    "either-or-soren-kierkegaard",
+    "geons-black-holes-and-quantum-foam-john-archibald-wheeler",
+    "gravitation-and-cosmology-steven-weinberg",
+    "handbook-of-physics-wolfgang-pauli",
+    "homotopy-type-theory-the-univalent-foundations-program"
+   ]
+  }
+ },
+ "counts": {
+  "books": 537,
+  "episodes": 209,
+  "mentions": 720
+ }
+}

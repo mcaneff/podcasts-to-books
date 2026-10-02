@@ -15,23 +15,14 @@ cover:
 
 ### Welcome to **Podcast To Books** — a curated archive of books mentioned in top podcasts.
 
-From deep philosophical dives to peak performance guides, this site captures all the books mentioned by Chris Williamson, Lex Fridman, Joe Rogan, and Curt Jaimungal to update your reading lists. Enjoy :)
+537 books from 209 episodes of Chris Williamson, Lex Fridman, Joe Rogan and Curt Jaimungal. Every book links to the exact moment it comes up in the conversation.
 
----
+## Trending: most mentioned in the last 90 days
 
-## Top 10 Most Mentioned Books
+{{< book-grid list="top_recent" >}}
 
-| # | Book | Mentions |
-|---|------|----------|
-| 1 | [Man's Search for Meaning by Viktor Frankl (Essay)](https://www.amazon.com/s?k=Man's+Search+for+Meaning+by+Viktor+Frankl+(Essay)&tag=podcaststoboo-20) | 39 times |
-| 2 | ["The Almanack of Naval Ravikant" by Eric Jorgenson](https://www.amazon.com/s?k="The+Almanack+of+Naval+Ravikant"+by+Eric+Jorgenson&tag=podcaststoboo-20) | 31 times |
-| 3 | [Atomic Habits by James Clear](https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&tag=podcaststoboo-20) | 8 times |
-| 4 | [Die With Zero by Bill Perkins](https://www.amazon.com/s?k=Die+With+Zero+by+Bill+Perkins&tag=podcaststoboo-20) | 6 times |
-| 5 | [Chaos: Charles Manson, the CIA, and the Secret History of the Sixties by Tom O'Neill](https://www.amazon.com/s?k=Chaos:+Charles+Manson,+the+CIA,+and+the+Secret+History+of+the+Sixties+by+Tom+O'Neill&tag=podcaststoboo-20) | 5 times |
-| 6 | [The Evolution of Desire: Strategies of Human Mating by David Buss](https://www.amazon.com/s?k=The+Evolution+of+Desire:+Strategies+of+Human+Mating+by+David+Buss&tag=podcaststoboo-20) | 5 times |
-| 7 | [The Master and His Emissary: The Divided Brain and the Making of the Western World* by Iain McGilchrist](https://www.amazon.com/s?k=The+Master+and+His+Emissary:+The+Divided+Brain+and+the+Making+of+the+Western+World*+by+Iain+McGilchrist&tag=podcaststoboo-20) | 5 times |
-| 8 | [Fingerprints of the Gods by Graham Hancock](https://www.amazon.com/s?k=Fingerprints+of+the+Gods+by+Graham+Hancock&tag=podcaststoboo-20) | 5 times |
-| 9 | [Models: Attract Women Through Honesty by Mark Manson](https://www.amazon.com/s?k=Models:+Attract+Women+Through+Honesty+by+Mark+Manson&tag=podcaststoboo-20) | 5 times |
-| 10 | [The Subtle Art of Not Giving a F*ck by Mark Manson](https://www.amazon.com/s?k=The+Subtle+Art+of+Not+Giving+a+F*ck+by+Mark+Manson&tag=podcaststoboo-20) | 5 times |
+## Most Mentioned of All Time
 
----
+{{< book-grid list="top_alltime" >}}
+
+<p class="books-more"><a href="{{< relref "/books" >}}">Browse all books →</a></p>

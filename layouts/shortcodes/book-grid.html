@@ -1,0 +1,28 @@
+{{- /* {{< book-grid list="top_alltime" >}} | {{< book-grid list="top_recent" >}} | {{< book-grid podcaster="joe-rogan" limit="8" >}} */ -}}
+{{- $books := site.Data.books | default dict -}}
+{{- $site := site.Data.site | default dict -}}
+{{- $limit := int (.Get "limit" | default 12) -}}
+{{- $podcaster := .Get "podcaster" -}}
+{{- $slugs := slice -}}
+{{- if $podcaster }}
+  {{- with index ($site.podcasters | default dict) $podcaster }}{{ $slugs = .top }}{{ end }}
+{{- else }}
+  {{- with index $site (.Get "list" | default "top_alltime") }}{{ $slugs = . }}{{ end }}
+{{- end }}
+{{- if $slugs }}
+<div class="book-grid">
+  {{- range first $limit $slugs }}
+    {{- with index $books . }}
+      {{- $count := .mention_count -}}
+      {{- if $podcaster }}
+        {{- $ids := slice -}}
+        {{- range .mentions }}{{ if eq .podcaster $podcaster }}{{ $ids = $ids | append .episode_id }}{{ end }}{{ end }}
+        {{- $count = len ($ids | uniq) -}}
+      {{- end }}
+      {{- partial "book-card.html" (dict "book" . "count" $count) }}
+    {{- end }}
+  {{- end }}
+</div>
+{{- else }}
+<p><em>No books yet.</em></p>
+{{- end }}

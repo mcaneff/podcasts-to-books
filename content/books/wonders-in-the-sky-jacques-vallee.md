@@ -1,0 +1,8 @@
++++
+title = "Wonders in the Sky"
+author = "Jacques Vallee"
+book = "wonders-in-the-sky-jacques-vallee"
+description = "Mentioned in 1 podcast episode"
+date = "2026-07-30T00:00:00"
+type = "book"
++++
