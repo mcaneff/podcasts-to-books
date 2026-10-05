@@ -1058,12 +1058,24 @@
   "open_library_url": "https://openlibrary.org/works/OL24793569W",
   "amazon_url": "https://www.amazon.com/dp/0062024329?tag=podcaststoboo-20",
   "description": "Offers an adaptation in graphic novel format of a modern classic about the globe-trotting spiritual journey of a humble shepherd boy.",
-  "mention_count": 2,
+  "mention_count": 3,
   "podcasters": [
    "chris-williamson"
   ],
-  "latest_mention": "2026-09-12",
+  "latest_mention": "2026-10-05",
   "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-05",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "4 Men Share How They Hit Rock Bottom (and got out) - Dr K, Joe Hudson & Connor Beaton - #1159",
+    "guest": "",
+    "date": "2026-10-05",
+    "post_path": "chris-williamson/4-men-share-how-they-hit-rock-bottom-and-got-out-dr-k-joe-hudson-connor-beaton-1159",
+    "t": 1704.24,
+    "t_label": "28:24",
+    "quote": "And I'm like, lived it, had this media lockdown week for a week before I went in and then I've been on TV and like, I read the alchemist by Paulo Quaylor. So I was in a fucking like psychedelic fugue state for the entirety of the time that"
+   },
    {
     "episode_id": "ep_chris-williamson_2026-09-12",
     "podcaster": "chris-williamson",
@@ -21014,6 +21026,41 @@
     "t": 3800.48,
     "t_label": "1:03:20",
     "quote": "There was one woman who was apparently in love. There's a great book of Tom Mary's mosaic is the name of the book. Mary Pinchio, I think, was her name."
+   }
+  ]
+ },
+ "the-person-and-the-situation-lee-ross-and-richard-e-nisbett": {
+  "slug": "the-person-and-the-situation-lee-ross-and-richard-e-nisbett",
+  "title": "The Person and the Situation",
+  "author": "Lee Ross and Richard E. Nisbett",
+  "is_essay": false,
+  "full_entry": "The Person and the Situation by Lee Ross and Richard E. Nisbett",
+  "year": 1991,
+  "cover_id": 4026054,
+  "cover_url": "https://covers.openlibrary.org/b/id/4026054-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/4026054-L.jpg",
+  "isbn10": "0877228515",
+  "isbn13": "9780877228516",
+  "open_library_url": "https://openlibrary.org/works/OL4450683W",
+  "amazon_url": "https://www.amazon.com/dp/0877228515?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-10-03",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-03",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Willpower Expert: The Secret To Effortless Discipline - Angela Duckworth - #1158",
+    "guest": "Angela Duckworth",
+    "date": "2026-10-03",
+    "post_path": "chris-williamson/willpower-expert-the-secret-to-effortless-discipline-angela-duckworth-1158",
+    "t": 910.0,
+    "t_label": "15:10",
+    "quote": "Your academic diplomacy is showing it's it's it's really like I'm I'm trying to be honest in a way that doesn't sound like I you know I'm making it up because it is truth you know when I was in graduate school like the very first thing you learn is about the power of the situation there is a book that I don't think a…"
    }
   ]
  }

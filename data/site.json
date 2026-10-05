@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02",
+ "generated": "2026-10-05",
  "recent_days": 90,
  "top_alltime": [
   "man-s-search-for-meaning-viktor-frankl",
@@ -17,17 +17,17 @@
  ],
  "top_recent": [
   "die-with-zero-bill-perkins",
-  "the-moral-animal-robert-wright",
-  "12-rules-for-life-jordan-peterson",
   "atomic-habits-james-clear",
   "book-of-enoch-enoch",
   "childhood-s-end-arthur-c-clarke",
   "cobalt-red-siddharth-kara",
   "superintelligence-nick-bostrom",
+  "the-alchemist-paulo-coelho",
+  "the-moral-animal-robert-wright",
   "the-pentagon-s-brain-annie-jacobson",
   "the-precipice-toby-ord",
-  "2001-arthur-c-clarke",
-  "a-swim-in-a-pond-in-the-rain-george-saunders"
+  "12-rules-for-life-jordan-peterson",
+  "2001-arthur-c-clarke"
  ],
  "podcasters": {
   "chris-williamson": {
@@ -100,8 +100,8 @@
   }
  },
  "counts": {
-  "books": 537,
-  "episodes": 209,
-  "mentions": 720
+  "books": 538,
+  "episodes": 211,
+  "mentions": 722
  }
 }
