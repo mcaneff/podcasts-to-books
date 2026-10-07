@@ -11462,13 +11462,25 @@
   "open_library_url": "https://openlibrary.org/works/OL497483W",
   "amazon_url": "https://www.amazon.com/dp/1590710037?tag=podcaststoboo-20",
   "description": "",
-  "mention_count": 3,
+  "mention_count": 4,
   "podcasters": [
    "chris-williamson",
    "joe-rogan"
   ],
-  "latest_mention": "2025-04-24",
+  "latest_mention": "2026-10-06",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-06",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2561 - LL Cool J",
+    "guest": "LL Cool J",
+    "date": "2026-10-06",
+    "post_path": "joe-rogan/2561-ll-cool-j",
+    "t": 6408.82,
+    "t_label": "1:46:48",
+    "quote": "Yeah. And he wrote this book called The War of Art. Of course."
+   },
    {
     "episode_id": "ep_joe-rogan_2025-04-24",
     "podcaster": "joe-rogan",
@@ -14483,12 +14495,24 @@
   "open_library_url": "https://openlibrary.org/works/OL39568417W",
   "amazon_url": "https://www.amazon.com/dp/1717193617?tag=podcaststoboo-20",
   "description": "",
-  "mention_count": 2,
+  "mention_count": 3,
   "podcasters": [
    "joe-rogan"
   ],
-  "latest_mention": "2025-05-30",
+  "latest_mention": "2026-10-06",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-06",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2561 - LL Cool J",
+    "guest": "LL Cool J",
+    "date": "2026-10-06",
+    "post_path": "joe-rogan/2561-ll-cool-j",
+    "t": 5822.02,
+    "t_label": "1:37:02",
+    "quote": "Boy, I don't know if I have a favorite book. One of the most impactful books for me was a book that I read when I was very young called The Book of Five Rings. Oh, yeah, Miyamoto Masashi."
+   },
    {
     "episode_id": "ep_joe-rogan_2025-05-30",
     "podcaster": "joe-rogan",
@@ -21061,6 +21085,41 @@
     "t": 910.0,
     "t_label": "15:10",
     "quote": "Your academic diplomacy is showing it's it's it's really like I'm I'm trying to be honest in a way that doesn't sound like I you know I'm making it up because it is truth you know when I was in graduate school like the very first thing you learn is about the power of the situation there is a book that I don't think a…"
+   }
+  ]
+ },
+ "dark-matter-blake-crouch": {
+  "slug": "dark-matter-blake-crouch",
+  "title": "Dark Matter",
+  "author": "Blake Crouch",
+  "is_essay": false,
+  "full_entry": "Dark Matter by Blake Crouch",
+  "year": 2016,
+  "cover_id": 7436634,
+  "cover_url": "https://covers.openlibrary.org/b/id/7436634-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/7436634-L.jpg",
+  "isbn10": "1410491455",
+  "isbn13": "9781410491459",
+  "open_library_url": "https://openlibrary.org/works/OL17358795W",
+  "amazon_url": "https://www.amazon.com/dp/1410491455?tag=podcaststoboo-20",
+  "description": "One night after an evening out, Jason Dessen, forty-year-old physics professor living with his wife and son in Chicago, is kidnapped at gunpoint by a masked man, driven to an abandoned industrial site and injected with a powerful drug. As he wakes, a man Jason's never met smiles down at him and says, \"Welcome back, my friend.\" But this life is not the one he knows. His wife is not his wife; his son was never born; and he's not an ordinary college professor, but a celebrated genius who has achieved something impossible. Is it this world or the other that's the dream? How can he possibly make it back to the family he loves? The answers lie in a journey more wondrous and horrifying than anything he could have imagined--one that will force him to confront the darkest parts of himself as he battles a terrifying, seemingly unbeatable foe. --",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-10-06",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-06",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2561 - LL Cool J",
+    "guest": "LL Cool J",
+    "date": "2026-10-06",
+    "post_path": "joe-rogan/2561-ll-cool-j",
+    "t": 9005.74,
+    "t_label": "2:30:05",
+    "quote": "I'm reading the novel right now. Dark Matters? Yeah."
    }
   ]
  }
