@@ -9910,12 +9910,24 @@
   "open_library_url": "https://openlibrary.org/works/OL580870W",
   "amazon_url": "https://www.amazon.com/dp/1403144869?tag=podcaststoboo-20",
   "description": "The anatomy and full description of the Reactive Mind, the previously unknown source of nightmares, unreasonable fears, upsets and insecurities which enslave Man: shows you how to get rid of it, and so achieve something Man has previously only dreamed of: the State of Clear.\r\nAmong the discoveries herein:\r\n* The Goal of Man\r\n* The Dynamic Principle of Existence -- the one word that motivates all living things\r\n* The Four Dynamics -- the drives upon which all of life is compartmented\r\n* The Descriptic Graph of Survival revealing ones true potential and how to achieve it\r\n* The discovery of and complete anatomy of the Reactive Mind\r\n* The painful experiences engrams contained in the Reactive Mind which command one to act irrationally against their own wishes and goals\r\n*The impact of prenatal engrams that took place before you were born and how it has influenced you ever since\r\n\r\nDianetics enables you to discover and eradicate harmful experiences so they never affect you again, revealing the one person you have always wanted to know -- you.",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
    "joe-rogan"
   ],
-  "latest_mention": "2026-02-17",
+  "latest_mention": "2026-10-13",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-13",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2564 - Chuck Lorre",
+    "guest": "Chuck Lorre",
+    "date": "2026-10-13",
+    "post_path": "joe-rogan/2564-chuck-lorre",
+    "t": 4162.88,
+    "t_label": "1:09:22",
+    "quote": "they structure their lives? Because I bought Dianetics on a late night television commercial."
+   },
    {
     "episode_id": "ep_joe-rogan_2026-02-17",
     "podcaster": "joe-rogan",
