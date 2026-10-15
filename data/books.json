@@ -4791,12 +4791,24 @@
   "open_library_url": "https://openlibrary.org/works/OL2944469W",
   "amazon_url": "https://www.amazon.com/dp/0606042393?tag=podcaststoboo-20",
   "description": "One Flew Over the Cuckoo's Nest is a novel written by Ken Kesey. Set in an Oregon psychiatric hospital, the narrative serves as a study of institutional processes and the human mind; including a critique of psychiatry, and a tribute to individualistic principles",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
    "joe-rogan"
   ],
-  "latest_mention": "2026-07-07",
+  "latest_mention": "2026-10-14",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-14",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2565 - Michael Douglas",
+    "guest": "Michael Douglas",
+    "date": "2026-10-14",
+    "post_path": "joe-rogan/2565-michael-douglas",
+    "t": 6893.84,
+    "t_label": "1:54:53",
+    "quote": "I go through my father's files, the history of cookies nest. And I see this guy named Saul Zance, who has a record company"
+   },
    {
     "episode_id": "ep_joe-rogan_2026-07-07",
     "podcaster": "joe-rogan",
@@ -21285,6 +21297,111 @@
     "t": 1324.48,
     "t_label": "22:04",
     "quote": "A second of the work that's kind of a famous technique, sometimes called tiny habits or similar names, is you make a version of your habit for days"
+   }
+  ]
+ },
+ "in-cold-blood-truman-capote": {
+  "slug": "in-cold-blood-truman-capote",
+  "title": "In Cold Blood",
+  "author": "Truman Capote",
+  "is_essay": false,
+  "full_entry": "In Cold Blood by Truman Capote",
+  "year": 1965,
+  "cover_id": 228066,
+  "cover_url": "https://covers.openlibrary.org/b/id/228066-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/228066-L.jpg",
+  "isbn10": "",
+  "isbn13": "",
+  "open_library_url": "https://openlibrary.org/works/OL1992198W",
+  "amazon_url": "https://www.amazon.com/s?k=In+Cold+Blood+by+Truman+Capote&tag=podcaststoboo-20",
+  "description": "On November 15, 1959, in the small town of Holcomb, Kansas, four members of the Clutter family were savagely murdered by blasts from a shotgun held a few inches from their faces. There was no apparent motive for the crime, and there were almost no clues.",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-10-14",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-14",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2565 - Michael Douglas",
+    "guest": "Michael Douglas",
+    "date": "2026-10-14",
+    "post_path": "joe-rogan/2565-michael-douglas",
+    "t": 5497.56,
+    "t_label": "1:31:37",
+    "quote": "And then he came out and visited me. He came out for a audition for in Cold Blood, the Robert Blake Party, in Chemical Blood. And then New York, I remember he was going to see me up in Santa Barbara in my hippie"
+   }
+  ]
+ },
+ "catch-22-joseph-heller": {
+  "slug": "catch-22-joseph-heller",
+  "title": "Catch-22",
+  "author": "Joseph Heller",
+  "is_essay": false,
+  "full_entry": "Catch-22 by Joseph Heller",
+  "year": 1961,
+  "cover_id": 6468653,
+  "cover_url": "https://covers.openlibrary.org/b/id/6468653-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/6468653-L.jpg",
+  "isbn10": "0440543053",
+  "isbn13": "9780440543053",
+  "open_library_url": "https://openlibrary.org/works/OL276798W",
+  "amazon_url": "https://www.amazon.com/dp/0440543053?tag=podcaststoboo-20",
+  "description": "*Catch-22* is like no other novel. It has its own rationale, its own extraordinary character. It moves back and forth from hilarity to horror. It is outrageously funny and strangely affecting. It is totally original. Set in the closing months of World War II in an American bomber squadron off Italy, *Catch-22* is the story of a bombardier named Yossarian, who is frantic and furious because thousands of people he hasn't even met keep trying to kill him. *Catch-22* is a microcosm of the twentieth-century world as it might look to someone dangerously sane. It is a novel that lives and moves and grows with astonishing power and vitality -- a masterpiece of our time. - Back cover.",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-10-15",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-15",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "9 Harsh Truths No One Wants To Admit - Shaan Puri - #1163",
+    "guest": "Shaan Puri",
+    "date": "2026-10-15",
+    "post_path": "chris-williamson/9-harsh-truths-no-one-wants-to-admit-shaan-puri-1163",
+    "t": null,
+    "t_label": "",
+    "quote": ""
+   }
+  ]
+ },
+ "the-whole-earth-catalog-kevin-kelly": {
+  "slug": "the-whole-earth-catalog-kevin-kelly",
+  "title": "The Whole Earth Catalog",
+  "author": "Kevin Kelly",
+  "is_essay": false,
+  "full_entry": "The Whole Earth Catalog by Kevin Kelly",
+  "year": 1988,
+  "cover_id": 13152290,
+  "cover_url": "https://covers.openlibrary.org/b/id/13152290-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/13152290-L.jpg",
+  "isbn10": "051757084X",
+  "isbn13": "9780517570845",
+  "open_library_url": "https://openlibrary.org/works/OL4777154W",
+  "amazon_url": "https://www.amazon.com/dp/051757084X?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-10-15",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-15",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "9 Harsh Truths No One Wants To Admit - Shaan Puri - #1163",
+    "guest": "Shaan Puri",
+    "date": "2026-10-15",
+    "post_path": "chris-williamson/9-harsh-truths-no-one-wants-to-admit-shaan-puri-1163",
+    "t": 4403.58,
+    "t_label": "1:13:23",
+    "quote": "like a really cool art project with Bezos and he edited the whole Earth catalog. And he did all these really interesting things in his life."
    }
   ]
  }

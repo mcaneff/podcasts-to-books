@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14",
+ "generated": "2026-10-15",
  "recent_days": 90,
  "top_alltime": [
   "man-s-search-for-meaning-viktor-frankl",
@@ -16,7 +16,6 @@
   "four-thousand-weeks-oliver-burkeman"
  ],
  "top_recent": [
-  "atomic-habits-james-clear",
   "book-of-enoch-enoch",
   "childhood-s-end-arthur-c-clarke",
   "cobalt-red-siddharth-kara",
@@ -27,7 +26,8 @@
   "12-rules-for-life-jordan-peterson",
   "2001-arthur-c-clarke",
   "a-swim-in-a-pond-in-the-rain-george-saunders",
-  "against-the-odds-james-dyson"
+  "against-the-odds-james-dyson",
+  "alice-in-wonderland-lewis-carroll"
  ],
  "podcasters": {
   "chris-williamson": {
@@ -100,8 +100,8 @@
   }
  },
  "counts": {
-  "books": 543,
-  "episodes": 215,
-  "mentions": 731
+  "books": 546,
+  "episodes": 217,
+  "mentions": 735
  }
 }
