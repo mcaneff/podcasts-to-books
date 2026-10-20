@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15",
+ "generated": "2026-10-20",
  "recent_days": 90,
  "top_alltime": [
   "man-s-search-for-meaning-viktor-frankl",
@@ -7,27 +7,27 @@
   "atomic-habits-james-clear",
   "die-with-zero-bill-perkins",
   "fingerprints-of-the-gods-graham-hancock",
+  "meditations-marcus-aurelius",
   "models-mark-manson",
   "the-evolution-of-desire-david-buss",
   "the-psychology-of-money-morgan-housel",
   "the-subtle-art-of-not-giving-a-f-ck-mark-manson",
   "12-rules-for-life-jordan-peterson",
-  "chaos-tom-o-neill",
-  "four-thousand-weeks-oliver-burkeman"
+  "chaos-tom-o-neill"
  ],
  "top_recent": [
   "book-of-enoch-enoch",
   "childhood-s-end-arthur-c-clarke",
   "cobalt-red-siddharth-kara",
   "die-with-zero-bill-perkins",
+  "meditations-marcus-aurelius",
+  "one-flew-over-the-cuckoo-s-nest-ken-kesey",
   "the-alchemist-paulo-coelho",
   "the-pentagon-s-brain-annie-jacobson",
   "the-precipice-toby-ord",
+  "way-of-the-warrior-kid-jocko-willink",
   "12-rules-for-life-jordan-peterson",
-  "2001-arthur-c-clarke",
-  "a-swim-in-a-pond-in-the-rain-george-saunders",
-  "against-the-odds-james-dyson",
-  "alice-in-wonderland-lewis-carroll"
+  "2001-arthur-c-clarke"
  ],
  "podcasters": {
   "chris-williamson": {
@@ -73,12 +73,12 @@
     "chaos-tom-o-neill",
     "the-sacred-mushroom-and-the-cross-john-marco-allegro",
     "cobalt-red-siddharth-kara",
+    "one-flew-over-the-cuckoo-s-nest-ken-kesey",
     "the-book-of-ezekiel-ezekiel",
     "the-book-of-five-rings-miyamoto-musashi",
     "book-of-enoch-enoch",
     "can-t-hurt-me-david-goggins",
-    "childhood-s-end-arthur-c-clarke",
-    "dianetics-l-ron-hubbard"
+    "childhood-s-end-arthur-c-clarke"
    ]
   },
   "curt-jaimungal": {
@@ -89,19 +89,19 @@
     "the-master-and-his-emissary-iain-mcgilchrist",
     "man-s-search-for-meaning-viktor-frankl",
     "a-brief-history-of-time-stephen-hawking",
+    "autobiographical-notes-albert-einstein",
     "consciousness-explained-daniel-dennett",
     "critique-of-pure-reason-immanuel-kant",
     "either-or-soren-kierkegaard",
     "geons-black-holes-and-quantum-foam-john-archibald-wheeler",
     "gravitation-and-cosmology-steven-weinberg",
-    "handbook-of-physics-wolfgang-pauli",
-    "homotopy-type-theory-the-univalent-foundations-program"
+    "handbook-of-physics-wolfgang-pauli"
    ]
   }
  },
  "counts": {
-  "books": 546,
-  "episodes": 217,
-  "mentions": 735
+  "books": 555,
+  "episodes": 221,
+  "mentions": 749
  }
 }

@@ -2313,12 +2313,24 @@
   "open_library_url": "https://openlibrary.org/works/OL19730842W",
   "amazon_url": "https://www.amazon.com/dp/1250151074?tag=podcaststoboo-20",
   "description": "Fifth grade was the worst year of Marc's life. He stunk at gym class, math was too hard for him, the school lunch was horrible, and his class field trip was ruined because he couldn't swim. But what was most awful thing about fifth grade? Kenny Williamson, the class bully, who calls himself the 'King of the Jungle.' When Marc's mother tells him that his Uncle Jake is coming to stay for the whole summer, Marc can't wait. Uncle Jake is a for real, super-cool Navy SEAL. And Uncle Jake has a plan.",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
    "chris-williamson"
   ],
-  "latest_mention": "2026-08-20",
+  "latest_mention": "2026-10-19",
   "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-19",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Forgotten War Heroes Who Changed The World - The Fat Electrician - #1165",
+    "guest": "",
+    "date": "2026-10-19",
+    "post_path": "chris-williamson/forgotten-war-heroes-who-changed-the-world-the-fat-electrician-1165",
+    "t": 8724.08,
+    "t_label": "2:25:24",
+    "quote": "and we were talking about how this is gonna happen with Walmart and all the rest of it and he showed me the um early cut trailer for way of the warrior kid which is Chris Pratt and um he's doing something which is uh cinematic or a movie equivalent I think of what you're trying to do with"
+   },
    {
     "episode_id": "ep_chris-williamson_2026-08-20",
     "podcaster": "chris-williamson",
@@ -3944,13 +3956,26 @@
   "open_library_url": "https://openlibrary.org/works/OL30687578W",
   "amazon_url": "https://www.amazon.com/s?k=Meditations+by+Marcus+Aurelius&tag=podcaststoboo-20",
   "description": "",
-  "mention_count": 4,
+  "mention_count": 5,
   "podcasters": [
    "chris-williamson",
+   "joe-rogan",
    "lex-fridman"
   ],
-  "latest_mention": "2026-07-30",
+  "latest_mention": "2026-10-15",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-15",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2566 - Cody Tucker",
+    "guest": "Cody Tucker",
+    "date": "2026-10-15",
+    "post_path": "joe-rogan/2566-cody-tucker",
+    "t": 2970.82,
+    "t_label": "49:30",
+    "quote": "participated in that, I'm most certain that that flavored some of his writings, particularly meditations. Yeah. Because there's a lot of the stuff in there that seems very psychedelically inspired. Like the wisdom of this guy, okay, this guy is running Rome. Yeah, what is one of the"
+   },
    {
     "episode_id": "ep_chris-williamson_2026-07-30",
     "podcaster": "chris-williamson",
@@ -4791,12 +4816,24 @@
   "open_library_url": "https://openlibrary.org/works/OL2944469W",
   "amazon_url": "https://www.amazon.com/dp/0606042393?tag=podcaststoboo-20",
   "description": "One Flew Over the Cuckoo's Nest is a novel written by Ken Kesey. Set in an Oregon psychiatric hospital, the narrative serves as a study of institutional processes and the human mind; including a critique of psychiatry, and a tribute to individualistic principles",
-  "mention_count": 2,
+  "mention_count": 3,
   "podcasters": [
    "joe-rogan"
   ],
-  "latest_mention": "2026-10-14",
+  "latest_mention": "2026-10-15",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-15",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2566 - Cody Tucker",
+    "guest": "Cody Tucker",
+    "date": "2026-10-15",
+    "post_path": "joe-rogan/2566-cody-tucker",
+    "t": null,
+    "t_label": "",
+    "quote": ""
+   },
    {
     "episode_id": "ep_joe-rogan_2026-10-14",
     "podcaster": "joe-rogan",
@@ -6549,12 +6586,24 @@
   "open_library_url": "https://openlibrary.org/works/OL4325174W",
   "amazon_url": "https://www.amazon.com/dp/0670022756?tag=podcaststoboo-20",
   "description": "\"A bold and all-embracing exploration of the nature and progress of knowledge from one of today's great thinkers. Throughout history, mankind has struggled to understand life's mysteries, from the mundane to the seemingly miraculous. In this important new book, David Deutsch, an award-winning pioneer in the field of quantum computation, argues that explanations have a fundamental place in the universe. They have unlimited scope and power to cause change, and the quest to improve them is the basic regulating principle not only of science but of all successful human endeavor. This stream of ever improving explanations has infinite reach, according to Deutsch: we are subject only to the laws of physics, and they impose no upper boundary to what we can eventually understand, control, and achieve. In his previous book, The Fabric of Reality, Deutsch describe the four deepest strands of existing knowledge-the theories of evolution, quantum physics, knowledge, and computation-arguing jointly they reveal a unified fabric of reality. In this new book, he applies that worldview to a wide range of issues and unsolved problems, from creativity and free will to the origin and future of the human species. Filled with startling new conclusions about human choice, optimism, scientific explanation, and the evolution of culture, The Beginning of Infinity is a groundbreaking book that will become a classic of its kind\"--",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
    "chris-williamson"
   ],
-  "latest_mention": "2026-04-30",
+  "latest_mention": "2026-10-17",
   "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-17",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Father Of Quantum Computing: How To Think Like A Genius - David Deutsch - #1164",
+    "guest": "David Deutsch",
+    "date": "2026-10-17",
+    "post_path": "chris-williamson/father-of-quantum-computing-how-to-think-like-a-genius-david-deutsch-1164",
+    "t": 323.08,
+    "t_label": "5:23",
+    "quote": "different finite amounts of knowledge, we are all at, like I say in my book, we're all at the beginning of infinity. We're only ever at the beginning."
+   },
    {
     "episode_id": "ep_chris-williamson_2026-04-30",
     "podcaster": "chris-williamson",
@@ -19666,12 +19715,24 @@
   "open_library_url": "https://openlibrary.org/works/OL21412631W",
   "amazon_url": "https://www.amazon.com/dp/1408488248?tag=podcaststoboo-20",
   "description": "An extraordinary and moving tale by an ex-POW and last surviving member of the Gordon Highlanders regiment that was captured by the Japanese in Singapore. Urquhart was taken prisoner and sent to work on the Death Railway and the notorious bridge over the River Kwai. He survived starvation, cholera and the brutality of the Japanese Imperial Army, only to be packed in the rusting hold of a 'hellship' bound for Japan. Torpedoed by an American submarine, he drifted for days, close to death. When eventually recaptured, Urquhart was transported to a prison camp only eleven miles from a city called Nagasaki, where he bore witness to one of the most monentous and terrible actions of human history.",
-  "mention_count": 2,
+  "mention_count": 3,
   "podcasters": [
    "chris-williamson"
   ],
-  "latest_mention": "2025-01-01",
+  "latest_mention": "2026-10-19",
   "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-19",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Forgotten War Heroes Who Changed The World - The Fat Electrician - #1165",
+    "guest": "",
+    "date": "2026-10-19",
+    "post_path": "chris-williamson/forgotten-war-heroes-who-changed-the-world-the-fat-electrician-1165",
+    "t": 2216.8,
+    "t_label": "36:56",
+    "quote": "idea of ever since watching a lot of your stuff and getting more interested in these kinds of stories. Carton Dewat was the first one that got me into it. Alistair, a cart, the forgotten highlander. Yeah, so that was one of the first stories that got me into this. And then I guess a similar one"
+   },
    {
     "episode_id": "ep_test_chriswilliamson_10-books",
     "podcaster": "chris-williamson",
@@ -21402,6 +21463,321 @@
     "t": 4403.58,
     "t_label": "1:13:23",
     "quote": "like a really cool art project with Bezos and he edited the whole Earth catalog. And he did all these really interesting things in his life."
+   }
+  ]
+ },
+ "autobiographical-notes-albert-einstein": {
+  "slug": "autobiographical-notes-albert-einstein",
+  "title": "Autobiographical Notes",
+  "author": "Albert Einstein",
+  "is_essay": true,
+  "full_entry": "Autobiographical Notes by Albert Einstein (Essay)",
+  "year": 1979,
+  "cover_id": 5403877,
+  "cover_url": "https://covers.openlibrary.org/b/id/5403877-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/5403877-L.jpg",
+  "isbn10": "0875483526",
+  "isbn13": "9780875483528",
+  "open_library_url": "https://openlibrary.org/works/OL1214189W",
+  "amazon_url": "https://www.amazon.com/dp/0875483526?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "curt-jaimungal"
+  ],
+  "latest_mention": "2026-10-19",
+  "mentions": [
+   {
+    "episode_id": "ep_curt-jaimungal_2026-10-19",
+    "podcaster": "curt-jaimungal",
+    "podcaster_name": "Theories of Everything",
+    "episode_title": "Hirosi Ooguri: Could AI Find Physics We Can’t Understand?",
+    "guest": "Hirosi Ooguri",
+    "date": "2026-10-19",
+    "post_path": "curt-jaimungal/hirosi-ooguri-could-ai-find-physics-we-cant-understand",
+    "t": 4237.84,
+    "t_label": "1:10:37",
+    "quote": "conjecture with Cameron which was mathematical reformulation what actually Einstein speculated in his autobiographical note that if you read Einstein's autobiographical note there is an interesting passage where he claimed that ultimate fundamental theory should not have arbitrary"
+   }
+  ]
+ },
+ "science-and-method-henri-poincare": {
+  "slug": "science-and-method-henri-poincare",
+  "title": "Science and Method",
+  "author": "Henri Poincaré",
+  "is_essay": false,
+  "full_entry": "Science and Method by Henri Poincaré",
+  "year": 1900,
+  "cover_id": 2093320,
+  "cover_url": "https://covers.openlibrary.org/b/id/2093320-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/2093320-L.jpg",
+  "isbn10": "",
+  "isbn13": "",
+  "open_library_url": "https://openlibrary.org/works/OL8038197W",
+  "amazon_url": "https://www.amazon.com/s?k=Science+and+Method+by+Henri+Poincaré&tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "curt-jaimungal"
+  ],
+  "latest_mention": "2026-10-19",
+  "mentions": [
+   {
+    "episode_id": "ep_curt-jaimungal_2026-10-19",
+    "podcaster": "curt-jaimungal",
+    "podcaster_name": "Theories of Everything",
+    "episode_title": "Hirosi Ooguri: Could AI Find Physics We Can’t Understand?",
+    "guest": "Hirosi Ooguri",
+    "date": "2026-10-19",
+    "post_path": "curt-jaimungal/hirosi-ooguri-could-ai-find-physics-we-cant-understand",
+    "t": 5728.24,
+    "t_label": "1:35:28",
+    "quote": "had impact in many other areas of physics and mathematics. When I was a high school student one of the book I read which had rather big impact on me was a book by Poincarec or science and method on Poincarec was a mathematician in date 19th century or 20th century he almost discovered"
+   }
+  ]
+ },
+ "do-androids-dream-of-electric-sheep-philip-k-dick": {
+  "slug": "do-androids-dream-of-electric-sheep-philip-k-dick",
+  "title": "Do Androids Dream of Electric Sheep?",
+  "author": "Philip K. Dick",
+  "is_essay": false,
+  "full_entry": "Do Androids Dream of Electric Sheep? by Philip K. Dick",
+  "year": 1968,
+  "cover_id": 207515,
+  "cover_url": "https://covers.openlibrary.org/b/id/207515-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/207515-L.jpg",
+  "isbn10": "0345323882",
+  "isbn13": "9780345323880",
+  "open_library_url": "https://openlibrary.org/works/OL2172356W",
+  "amazon_url": "https://www.amazon.com/dp/0345323882?tag=podcaststoboo-20",
+  "description": "It was January 2021, and Rick Deckard had a license to kill.\r\nSomewhere among the hordes of humans out there, lurked several rogue androids. Deckard's assignment--find them and then...\"retire\" them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found!",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-10-15",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-15",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2566 - Cody Tucker",
+    "guest": "Cody Tucker",
+    "date": "2026-10-15",
+    "post_path": "joe-rogan/2566-cody-tucker",
+    "t": null,
+    "t_label": "",
+    "quote": ""
+   }
+  ]
+ },
+ "mein-kampf-adolf-hitler": {
+  "slug": "mein-kampf-adolf-hitler",
+  "title": "Mein Kampf",
+  "author": "Adolf Hitler",
+  "is_essay": false,
+  "full_entry": "Mein Kampf by Adolf Hitler",
+  "year": 1922,
+  "cover_id": 12724015,
+  "cover_url": "https://covers.openlibrary.org/b/id/12724015-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/12724015-L.jpg",
+  "isbn10": "0944379044",
+  "isbn13": "9780944379042",
+  "open_library_url": "https://openlibrary.org/works/OL1067314W",
+  "amazon_url": "https://www.amazon.com/dp/0944379044?tag=podcaststoboo-20",
+  "description": "1925 autobiographical book \"My Struggle\" (USA: \"My Battle\") by Nazi Party leader Adolf Hitler\r\n\r\nOn April 1, 1924, because of the sentence handed down by the People's Court of Munich, I had to begin that day, serving my term in the fortress at Landsberg on the Lech. Thus, after years of uninterrupted work, I was afforded for the first time an opportunity to embark on a task insisted upon by many and felt to be serviceable to the movement by myself. Therefore, I resolved not only to set forth, in two volumes, the object of our movement, but also to draw a picture of its development. From this more can be learned than from any purely doctrinary treatise. That also gave me the opportunity to describe my own development, as far as this is necessary for the understanding of the first as well as the second volume, and which may serve to destroy the evil legends created about my person by the Jewish press. - Preface.",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-10-15",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-15",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2566 - Cody Tucker",
+    "guest": "Cody Tucker",
+    "date": "2026-10-15",
+    "post_path": "joe-rogan/2566-cody-tucker",
+    "t": null,
+    "t_label": "",
+    "quote": ""
+   }
+  ]
+ },
+ "the-electric-kool-aid-acid-test-tom-wolfe": {
+  "slug": "the-electric-kool-aid-acid-test-tom-wolfe",
+  "title": "The Electric Kool-Aid Acid Test",
+  "author": "Tom Wolfe",
+  "is_essay": false,
+  "full_entry": "The Electric Kool-Aid Acid Test by Tom Wolfe",
+  "year": 1968,
+  "cover_id": 14839523,
+  "cover_url": "https://covers.openlibrary.org/b/id/14839523-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/14839523-L.jpg",
+  "isbn10": "0553234587",
+  "isbn13": "9780553234589",
+  "open_library_url": "https://openlibrary.org/works/OL1925362W",
+  "amazon_url": "https://www.amazon.com/dp/0553234587?tag=podcaststoboo-20",
+  "description": "One of the most essential works on the 1960s counterculture, Tom Wolfe's The Electric Kool-Aid Test is the seminal work on the hippie culture, a report on what it was like to follow along with Ken Kesey and the Merry Pranksters as they launched out on the \"Transcontinental Bus Tour\" from the West Coast to New York, all the while introducing acid (then legal) to hundreds of like-minded folks, staging impromptu jam sessions, dodging the Feds, and meeting some of the most revolutionary figures of the day.",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-10-15",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-15",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2566 - Cody Tucker",
+    "guest": "Cody Tucker",
+    "date": "2026-10-15",
+    "post_path": "joe-rogan/2566-cody-tucker",
+    "t": null,
+    "t_label": "",
+    "quote": ""
+   }
+  ]
+ },
+ "the-lord-of-the-rings-j-r-r-tolkien": {
+  "slug": "the-lord-of-the-rings-j-r-r-tolkien",
+  "title": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "is_essay": false,
+  "full_entry": "The Lord of the Rings by J.R.R. Tolkien",
+  "year": 1954,
+  "cover_id": 14625765,
+  "cover_url": "https://covers.openlibrary.org/b/id/14625765-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/14625765-L.jpg",
+  "isbn10": "0618343997",
+  "isbn13": "9780618343997",
+  "open_library_url": "https://openlibrary.org/works/OL27448W",
+  "amazon_url": "https://www.amazon.com/dp/0618343997?tag=podcaststoboo-20",
+  "description": "Originally published from 1954 through 1956, J.R.R. Tolkien's richly complex series ushered in a new age of epic adventure storytelling. A philologist and illustrator who took inspiration from his work, Tolkien invented the modern heroic quest novel from the ground up, creating not just a world, but a domain, not just a lexicon, but a language, that would spawn countless imitators and lead to the inception of the epic fantasy genre. Today, THE LORD OF THE RINGS is considered \"the most influential fantasy novel ever written.\" (THE ENCYCLOPEDIA OF FANTASY)\r\n\r\nDuring his travels across Middle-earth, the hobbit Bilbo Baggins had found the Ring. But the simple band of gold was far from ordinary; it was in fact the One Ring - the greatest of the ancient Rings of Power. Sauron, the Dark Lord, had infused it with his own evil magic, and when it was lost, he was forced to flee into hiding.\r\n\r\nBut now Sauron's exile has ended and his power is spreading anew, fueled by the knowledge that his treasure has been found. He has gathered all the Great Rings to him, and will stop at nothing to reclaim the One that will complete his dominion. The only way to stop him is to cast the Ruling Ring deep into the Fire-Mountain at the heart of the land of Mordor--Sauron's dark realm.\r\n\r\nFate has placed the burden in the hands of Frodo Baggins, Bilbo's heir...and he is resolved to bear it to its end. Or his own.\r\n\r\n---\r\n\r\n**Contains**\r\n\r\n- The Fellowship of the Ring\r\n- The Two Towers\r\n- The Return of…",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-10-15",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-15",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2566 - Cody Tucker",
+    "guest": "Cody Tucker",
+    "date": "2026-10-15",
+    "post_path": "joe-rogan/2566-cody-tucker",
+    "t": 8127.06,
+    "t_label": "2:15:27",
+    "quote": "treadmill in front of a television and watching a movie. Yeah. So I was, well, that's a great way to do it. Yeah. I was watching like Lord of the Rings because I was like, I want to do the walk to board or thing. You know, it's a little nerdy, but I love Lord of the Rings. And I was like,"
+   }
+  ]
+ },
+ "the-ministry-of-ungentlemanly-warfare-damien-lewis": {
+  "slug": "the-ministry-of-ungentlemanly-warfare-damien-lewis",
+  "title": "The Ministry of Ungentlemanly Warfare",
+  "author": "Damien Lewis",
+  "is_essay": false,
+  "full_entry": "The Ministry of Ungentlemanly Warfare by Damien Lewis",
+  "year": 2015,
+  "cover_id": 13606384,
+  "cover_url": "https://covers.openlibrary.org/b/id/13606384-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/13606384-L.jpg",
+  "isbn10": "1681443929",
+  "isbn13": "9781681443928",
+  "open_library_url": "https://openlibrary.org/works/OL20009078W",
+  "amazon_url": "https://www.amazon.com/dp/1681443929?tag=podcaststoboo-20",
+  "description": "\"When France fell to the Nazis in 1939, Churchill declared that Britain would resist the advance of the German army-alone if necessary. Churchill commanded the Special Operations Executive to secretly develop of a very special kind of military unit that would operate on their own initiative deep behind enemy lines. The units would be licensed to kill, fully deniable by the British government, and a ruthless force to meet the advancing Germans. The very first of these \"butcher-and-bolt\" units-the innocuously named Maid Honour Force-was led by Gus March-Phillipps, a wild British eccentric of high birth, and an aristocratic, handsome, and bloodthirsty young Danish warrior, Anders Lassen. Amped up on amphetamines, these assorted renegades and sociopaths undertook the very first of Churchill's special operations--a top-secret, high-stakes mission to seize Nazi shipping in the far-distant port of Fernando Po, in West Africa. Though few of these early desperadoes survived WWII, they took part in a series of fascinating, daring missions that changed the course of the war. It was the first stirrings of the modern special-ops team, and all of the men involved would be declared war heroes when it was all over.The Ministry of Ungentlemanly Warfare focuses on a dozen of these extraordinary men, weaving their stories of brotherhood, comradely, and elite soldiering into a gripping narrative yarn, from the earliest missions to Anders Larssen's tragic death, just weeks before the end of the…",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-10-19",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-19",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Forgotten War Heroes Who Changed The World - The Fat Electrician - #1165",
+    "guest": "",
+    "date": "2026-10-19",
+    "post_path": "chris-williamson/forgotten-war-heroes-who-changed-the-world-the-fat-electrician-1165",
+    "t": 9092.4,
+    "t_label": "2:31:32",
+    "quote": "I've never seen any background he's a farm kid that grew up in Iowa and he he dad gave him money for bullets he's been shooting 10,000 rounds a month since he was like 11"
+   }
+  ]
+ },
+ "the-fabric-of-reality-david-deutsch": {
+  "slug": "the-fabric-of-reality-david-deutsch",
+  "title": "The Fabric of Reality",
+  "author": "David Deutsch",
+  "is_essay": false,
+  "full_entry": "The Fabric of Reality by David Deutsch",
+  "year": 1997,
+  "cover_id": 452204,
+  "cover_url": "https://covers.openlibrary.org/b/id/452204-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/452204-L.jpg",
+  "isbn10": "014027541X",
+  "isbn13": "9780140275414",
+  "open_library_url": "https://openlibrary.org/works/OL2635835W",
+  "amazon_url": "https://www.amazon.com/dp/014027541X?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-10-17",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-17",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Father Of Quantum Computing: How To Think Like A Genius - David Deutsch - #1164",
+    "guest": "David Deutsch",
+    "date": "2026-10-17",
+    "post_path": "chris-williamson/father-of-quantum-computing-how-to-think-like-a-genius-david-deutsch-1164",
+    "t": null,
+    "t_label": "",
+    "quote": ""
+   }
+  ]
+ },
+ "the-necessity-of-atheism-percy-bysshe-shelley": {
+  "slug": "the-necessity-of-atheism-percy-bysshe-shelley",
+  "title": "The Necessity of Atheism",
+  "author": "Percy Bysshe Shelley",
+  "is_essay": true,
+  "full_entry": "The Necessity of Atheism by Percy Bysshe Shelley (Essay)",
+  "year": null,
+  "cover_id": null,
+  "cover_url": "",
+  "cover_url_large": "",
+  "isbn10": "",
+  "isbn13": "",
+  "open_library_url": "",
+  "amazon_url": "https://www.amazon.com/s?k=The+Necessity+of+Atheism+by+Percy+Bysshe+Shelley+(Essay)&tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-10-17",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-17",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Father Of Quantum Computing: How To Think Like A Genius - David Deutsch - #1164",
+    "guest": "David Deutsch",
+    "date": "2026-10-17",
+    "post_path": "chris-williamson/father-of-quantum-computing-how-to-think-like-a-genius-david-deutsch-1164",
+    "t": null,
+    "t_label": "",
+    "quote": ""
    }
   ]
  }
