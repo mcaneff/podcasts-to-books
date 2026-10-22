@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20",
+ "generated": "2026-10-22",
  "recent_days": 90,
  "top_alltime": [
   "man-s-search-for-meaning-viktor-frankl",
@@ -23,11 +23,11 @@
   "meditations-marcus-aurelius",
   "one-flew-over-the-cuckoo-s-nest-ken-kesey",
   "the-alchemist-paulo-coelho",
-  "the-pentagon-s-brain-annie-jacobson",
-  "the-precipice-toby-ord",
+  "the-shining-stephen-king",
   "way-of-the-warrior-kid-jocko-willink",
   "12-rules-for-life-jordan-peterson",
-  "2001-arthur-c-clarke"
+  "2001-arthur-c-clarke",
+  "a-swim-in-a-pond-in-the-rain-george-saunders"
  ],
  "podcasters": {
   "chris-williamson": {
@@ -100,8 +100,8 @@
   }
  },
  "counts": {
-  "books": 555,
-  "episodes": 221,
-  "mentions": 749
+  "books": 558,
+  "episodes": 222,
+  "mentions": 754
  }
 }
