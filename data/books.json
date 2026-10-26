@@ -4088,12 +4088,24 @@
   "open_library_url": "https://openlibrary.org/works/OL17078706W",
   "amazon_url": "https://www.amazon.com/dp/0804139296?tag=podcaststoboo-20",
   "description": "If you want to build a better future, you must believe in secrets.\r\n\r\nThe great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One , legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things. \r\n\r\nThiel begins with the contrarian premise that we live in an age of technological stagnation, even if we’re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself.\r\n\r\nDoing what someone else already knows how to do takes the world from 1 to n, adding more of something familiar. But when you do something new, you go from 0 to 1. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. Tomorrow’s champions will not win by competing ruthlessly in today’s marketplace. They will escape competition altogether, because their businesses will be unique. \r\n\r\nZero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation: it starts by learning to ask the questions that lead you to find value in unexpected places.",
-  "mention_count": 2,
+  "mention_count": 3,
   "podcasters": [
    "chris-williamson"
   ],
-  "latest_mention": "2026-07-30",
+  "latest_mention": "2026-10-26",
   "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-26",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Crypto Scams, Dopamine Websites, Tasteful Slop & Vape Shop Energy - Rabbit Hole #6 - #1168",
+    "guest": "Crypto Scams, Dopamine Websites, Tasteful Slop & Vape Shop Energy",
+    "date": "2026-10-26",
+    "post_path": "chris-williamson/crypto-scams-dopamine-websites-tasteful-slop-vape-shop-energy-rabbit-hole-6-1168",
+    "t": 2115.36,
+    "t_label": "35:15",
+    "quote": "Then put you out the seventh is Niagara Falls or something. Yeah, we then put you out the Einstein didn't actually say that It's in zero to one Einstein didn't actually say that but Einstein's brand is so powerful that even post-humus He's getting random quotes. This is churlian drift churlian drift is great great…"
+   },
    {
     "episode_id": "ep_chris-williamson_2026-07-30",
     "podcaster": "chris-williamson",
@@ -21907,6 +21919,146 @@
     "t": null,
     "t_label": "",
     "quote": ""
+   }
+  ]
+ },
+ "politics-and-the-english-language-george-orwell": {
+  "slug": "politics-and-the-english-language-george-orwell",
+  "title": "Politics and the English Language",
+  "author": "George Orwell",
+  "is_essay": true,
+  "full_entry": "Politics and the English Language by George Orwell (Essay)",
+  "year": 1947,
+  "cover_id": 9021075,
+  "cover_url": "https://covers.openlibrary.org/b/id/9021075-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/9021075-L.jpg",
+  "isbn10": "",
+  "isbn13": "",
+  "open_library_url": "https://openlibrary.org/works/OL1168179W",
+  "amazon_url": "https://www.amazon.com/s?k=Politics+and+the+English+Language+by+George+Orwell+(Essay)&tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-10-26",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-26",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Crypto Scams, Dopamine Websites, Tasteful Slop & Vape Shop Energy - Rabbit Hole #6 - #1168",
+    "guest": "Crypto Scams, Dopamine Websites, Tasteful Slop & Vape Shop Energy",
+    "date": "2026-10-26",
+    "post_path": "chris-williamson/crypto-scams-dopamine-websites-tasteful-slop-vape-shop-energy-rabbit-hole-6-1168",
+    "t": 166.12,
+    "t_label": "2:46",
+    "quote": "I know none of this. I saw this yesterday. Are you been in Android for too long? This is the whole thing I George at the private equity"
+   }
+  ]
+ },
+ "abnormal-psychology-martin-seligman": {
+  "slug": "abnormal-psychology-martin-seligman",
+  "title": "Abnormal Psychology",
+  "author": "Martin Seligman",
+  "is_essay": false,
+  "full_entry": "Abnormal Psychology by Martin Seligman",
+  "year": 2000,
+  "cover_id": 252844,
+  "cover_url": "https://covers.openlibrary.org/b/id/252844-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/252844-L.jpg",
+  "isbn10": "0393974170",
+  "isbn13": "9780393974171",
+  "open_library_url": "https://openlibrary.org/works/OL2160397W",
+  "amazon_url": "https://www.amazon.com/dp/0393974170?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-10-24",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-24",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Positive Psychology Founder: How To Stop Your Negative Thoughts - Martin Seligman - #1167",
+    "guest": "Martin Seligman",
+    "date": "2026-10-24",
+    "post_path": "chris-williamson/positive-psychology-founder-how-to-stop-your-negative-thoughts-martin-seligman-1167",
+    "t": null,
+    "t_label": "",
+    "quote": ""
+   }
+  ]
+ },
+ "the-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind-julian-jaynes": {
+  "slug": "the-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind-julian-jaynes",
+  "title": "The Origin of Consciousness in the Breakdown of the Bicameral Mind",
+  "author": "Julian Jaynes",
+  "is_essay": false,
+  "full_entry": "The Origin of Consciousness in the Breakdown of the Bicameral Mind by Julian Jaynes",
+  "year": 1976,
+  "cover_id": 4616576,
+  "cover_url": "https://covers.openlibrary.org/b/id/4616576-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/4616576-L.jpg",
+  "isbn10": "0395207290",
+  "isbn13": "9780395207291",
+  "open_library_url": "https://openlibrary.org/works/OL4187432W",
+  "amazon_url": "https://www.amazon.com/dp/0395207290?tag=podcaststoboo-20",
+  "description": "At the heart of this classic, seminal book is Julian Jaynes's still-controversial thesis that human consciousness did not begin far back in animal evolution but instead is a learned process that came about only three thousand years ago and is still developing. The implications of this revolutionary scientific paradigm extend into virtually every aspect of our psychology, our history and culture, our religion -- and indeed our future.",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-10-24",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-24",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Positive Psychology Founder: How To Stop Your Negative Thoughts - Martin Seligman - #1167",
+    "guest": "Martin Seligman",
+    "date": "2026-10-24",
+    "post_path": "chris-williamson/positive-psychology-founder-how-to-stop-your-negative-thoughts-martin-seligman-1167",
+    "t": 3334.7,
+    "t_label": "55:34",
+    "quote": "Absolutely so here's a example from the Bible from Hebrew in the Torah"
+   }
+  ]
+ },
+ "what-you-can-change-and-what-you-can-t-martin-seligman": {
+  "slug": "what-you-can-change-and-what-you-can-t-martin-seligman",
+  "title": "What You Can Change and What You Can't",
+  "author": "Martin Seligman",
+  "is_essay": false,
+  "full_entry": "What You Can Change and What You Can't by Martin Seligman",
+  "year": 1993,
+  "cover_id": 4653964,
+  "cover_url": "https://covers.openlibrary.org/b/id/4653964-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/4653964-L.jpg",
+  "isbn10": "0679410244",
+  "isbn13": "9780679410249",
+  "open_library_url": "https://openlibrary.org/works/OL2160408W",
+  "amazon_url": "https://www.amazon.com/dp/0679410244?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-10-24",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-24",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Positive Psychology Founder: How To Stop Your Negative Thoughts - Martin Seligman - #1167",
+    "guest": "Martin Seligman",
+    "date": "2026-10-24",
+    "post_path": "chris-williamson/positive-psychology-founder-how-to-stop-your-negative-thoughts-martin-seligman-1167",
+    "t": 287.74,
+    "t_label": "4:47",
+    "quote": "What impedes agency what makes us helpless and and 20 years of work on finding out what makes us helpless brought me out of the notion of"
    }
   ]
  }
