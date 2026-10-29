@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27",
+ "generated": "2026-10-29",
  "recent_days": 90,
  "top_alltime": [
   "man-s-search-for-meaning-viktor-frankl",
@@ -17,17 +17,17 @@
  ],
  "top_recent": [
   "book-of-enoch-enoch",
-  "childhood-s-end-arthur-c-clarke",
   "cobalt-red-siddharth-kara",
   "die-with-zero-bill-perkins",
-  "meditations-marcus-aurelius",
+  "finnegan-s-wake-james-joyce",
   "one-flew-over-the-cuckoo-s-nest-ken-kesey",
   "the-alchemist-paulo-coelho",
-  "the-shining-stephen-king",
+  "the-hero-with-a-thousand-faces-joseph-campbell",
+  "the-wisdom-of-insecurity-alan-watts",
   "way-of-the-warrior-kid-jocko-willink",
-  "zero-to-one-peter-thiel",
   "12-rules-for-life-jordan-peterson",
-  "2001-arthur-c-clarke"
+  "2001-arthur-c-clarke",
+  "a-swim-in-a-pond-in-the-rain-george-saunders"
  ],
  "podcasters": {
   "chris-williamson": {
@@ -100,8 +100,8 @@
   }
  },
  "counts": {
-  "books": 562,
-  "episodes": 224,
-  "mentions": 759
+  "books": 567,
+  "episodes": 226,
+  "mentions": 771
  }
 }

@@ -1422,13 +1422,26 @@
   "open_library_url": "https://openlibrary.org/works/OL86319W",
   "amazon_url": "https://www.amazon.com/s?k=Finnegan's+Wake+by+James+Joyce&tag=podcaststoboo-20",
   "description": "Follows a man's thoughts and dreams during a single night. It is also a book that participates in the re-reading of Irish history that was part of the revival of the early 20th century. The author also wrote \"Ulysses\", \"Dubliners\" and \"Portrait of an Artist as a Young Man\".",
-  "mention_count": 2,
+  "mention_count": 3,
   "podcasters": [
    "chris-williamson",
+   "joe-rogan",
    "lex-fridman"
   ],
-  "latest_mention": "2026-08-29",
+  "latest_mention": "2026-10-28",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-28",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2571 - Jimmy Carr",
+    "guest": "Jimmy Carr",
+    "date": "2026-10-28",
+    "post_path": "joe-rogan/2571-jimmy-carr",
+    "t": 5709.16,
+    "t_label": "1:35:09",
+    "quote": "human life and the person that really the way this gets interesting is Star Wars okay so I can link this back all right so there's a book called Finnegan's Wake by James Joyce it's like arguably the greatest work of literature in the western canon it's a wonderful book and a guy called Joseph"
+   },
    {
     "episode_id": "ep_chris-williamson_2026-08-29",
     "podcaster": "chris-williamson",
@@ -1505,13 +1518,25 @@
   "open_library_url": "https://openlibrary.org/works/OL2497175W",
   "amazon_url": "https://www.amazon.com/dp/0691017840?tag=podcaststoboo-20",
   "description": "Originally written by Campbell in the '40s-- in his pre-Bill Moyers days -- and famous as George Lucas' inspiration for \"Star Wars,\" this book will likewise inspire any writer or reader in its well considered assertion that while all stories have already been told, this is *not* a bad thing, since the *retelling* is still necessary. And while our own life's journey must always be ended alone, the travel is undertaken in the company not only of immediate loved ones and primal passion, but of the heroes and heroines -- and myth-cycles -- that have preceded us. ([Amazon.com review][1].)",
-  "mention_count": 3,
+  "mention_count": 4,
   "podcasters": [
    "chris-williamson",
    "joe-rogan"
   ],
-  "latest_mention": "2026-08-29",
+  "latest_mention": "2026-10-28",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-28",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2571 - Jimmy Carr",
+    "guest": "Jimmy Carr",
+    "date": "2026-10-28",
+    "post_path": "joe-rogan/2571-jimmy-carr",
+    "t": 5736.28,
+    "t_label": "1:35:36",
+    "quote": "and he wrote this book he wrote his dissertation on this book took him years and then afterwards he did a like too long didn't read version of it which is called the hero has a thousand faces and the hero's journey and then George Lucas picked up those books and he made Star Wars"
+   },
    {
     "episode_id": "ep_chris-williamson_2026-08-29",
     "podcaster": "chris-williamson",
@@ -4781,12 +4806,24 @@
   "open_library_url": "https://openlibrary.org/works/OL27730617W",
   "amazon_url": "https://www.amazon.com/dp/1982111607?tag=podcaststoboo-20",
   "description": "",
-  "mention_count": 3,
+  "mention_count": 4,
   "podcasters": [
    "chris-williamson"
   ],
-  "latest_mention": "2026-07-09",
+  "latest_mention": "2026-10-29",
   "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-29",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "35 Emotions Explained By Evolutionary Psychology - Rob Kurzban - #1169",
+    "guest": "Rob Kurzban",
+    "date": "2026-10-29",
+    "post_path": "chris-williamson/35-emotions-explained-by-evolutionary-psychology-rob-kurzban-1169",
+    "t": 8804.18,
+    "t_label": "2:26:44",
+    "quote": "It has this very party kind of, as you were saying. That was Robert Wright's Why Buddism is true when I first learned about that"
+   },
    {
     "episode_id": "ep_chris-williamson_2026-07-09",
     "podcaster": "chris-williamson",
@@ -6540,12 +6577,24 @@
   "open_library_url": "https://openlibrary.org/works/OL20048765W",
   "amazon_url": "https://www.amazon.com/dp/0062339338?tag=podcaststoboo-20",
   "description": "\"We often think of our capacity to experience the suffering of others as the ultimate source of goodness. Many of our wisest policy-makers, activists, scientists, and philosophers agree that the only problem with empathy is that we don't have enough of it. Nothing could be farther from the truth, argues Yale researcher Paul Bloom. In Against Empathy, Bloom reveals empathy to be one of the leading motivators of inequality and immorality in society. Far from helping us to improve the lives of others, empathy is a capricious and irrational emotion that appeals to our narrow prejudices. It muddles our judgment and, ironically, often leads to cruelty. We are at our best when we are smart enough not to rely on it, but to draw instead upon a more distanced compassion. Basing his argument on groundbreaking scientific findings, Bloom makes the case that some of the worst decisions made by individuals and nations--whom to give money to, when to go to war, how to respond to climate change, and whom to imprison--are too often motivated by honest, yet misplaced, emotions. With precision and wit, he demonstrates how empathy distorts our judgment in every aspect of our lives, from philanthropy and charity to the justice system and from medical care and education to parenting and marriage. Without empathy, Bloom insists, our decisions would be clearer, fairer, and--yes--ultimately more moral.\"--Dust jacket flap.",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
    "chris-williamson"
   ],
-  "latest_mention": "2026-05-04",
+  "latest_mention": "2026-10-29",
   "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-29",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "35 Emotions Explained By Evolutionary Psychology - Rob Kurzban - #1169",
+    "guest": "Rob Kurzban",
+    "date": "2026-10-29",
+    "post_path": "chris-williamson/35-emotions-explained-by-evolutionary-psychology-rob-kurzban-1169",
+    "t": 5648.54,
+    "t_label": "1:34:08",
+    "quote": "interesting I mean empathy is kind of it has a lot it's certainly got a lot written about it Paul Bloom is then some nice work on it against empathy and I mean for again for the show everyone's a friend's show I'm gonna have to find out who an enemy of the show is oh I've"
+   },
    {
     "episode_id": "ep_chris-williamson_2026-05-04",
     "podcaster": "chris-williamson",
@@ -10182,12 +10231,24 @@
   "open_library_url": "https://openlibrary.org/works/OL20873479W",
   "amazon_url": "https://www.amazon.com/s?k=Dissolving+Illusions+by+Suzanne+Humphries&tag=podcaststoboo-20",
   "description": "",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
    "joe-rogan"
   ],
-  "latest_mention": "2026-02-13",
+  "latest_mention": "2026-10-28",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-28",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2571 - Jimmy Carr",
+    "guest": "Jimmy Carr",
+    "date": "2026-10-28",
+    "post_path": "joe-rogan/2571-jimmy-carr",
+    "t": 1845.0,
+    "t_label": "30:45",
+    "quote": "I just want to tell people that are listening. There's a great book called Disvolving Illusions. And if you just counter-check all the things that she put in that book,"
+   },
    {
     "episode_id": "ep_joe-rogan_2026-02-13",
     "podcaster": "joe-rogan",
@@ -16979,12 +17040,24 @@
   "open_library_url": "",
   "amazon_url": "https://www.amazon.com/s?k=The+Fourth+Turning:+An+American+Prophecy+by+William+Strauss+and+Neil+Howe&tag=podcaststoboo-20",
   "description": "",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
    "joe-rogan"
   ],
-  "latest_mention": "2025-04-23",
+  "latest_mention": "2026-10-28",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-28",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2571 - Jimmy Carr",
+    "guest": "Jimmy Carr",
+    "date": "2026-10-28",
+    "post_path": "joe-rogan/2571-jimmy-carr",
+    "t": 5598.76,
+    "t_label": "1:33:18",
+    "quote": "just becoming hippies you can ask is are you familiar with this this theory of you know what I'm familiar with the fact that I have to pee let's be and it'll come out for the fourth turning what is what are we going to talk about the fourth turning the fourth turning all right we'll be right back"
+   },
    {
     "episode_id": "ep_joe-rogan_2025-04-23",
     "podcaster": "joe-rogan",
@@ -21342,12 +21415,24 @@
   "open_library_url": "https://openlibrary.org/works/OL266158W",
   "amazon_url": "https://www.amazon.com/s?k=The+Wisdom+of+Insecurity+by+Alan+Watts&tag=podcaststoboo-20",
   "description": "amazing insight. helps westerners step back and look at their actions and how they relate to the world around them. the mere desire to \"be secure\" is what actually makes you insecure. all about time and pain. most influential book i've ever read, and i've read a lot, high iq, etc. from my point of view, a must read.",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
    "joe-rogan"
   ],
-  "latest_mention": "2026-10-07",
+  "latest_mention": "2026-10-28",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-28",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2571 - Jimmy Carr",
+    "guest": "Jimmy Carr",
+    "date": "2026-10-28",
+    "post_path": "joe-rogan/2571-jimmy-carr",
+    "t": 9006.2,
+    "t_label": "2:30:06",
+    "quote": "talked about this recently I just finished it this Alan Watts book from um is it the 1950 is it the the the the what is it the the wisdom of insecurity oh no I've read that it's fantastic I just finished it so it is from 1952 I think it was when he wrote it and he's talking about how rapidly society"
+   },
    {
     "episode_id": "ep_joe-rogan_2026-10-07",
     "podcaster": "joe-rogan",
@@ -22059,6 +22144,181 @@
     "t": 287.74,
     "t_label": "4:47",
     "quote": "What impedes agency what makes us helpless and and 20 years of work on finding out what makes us helpless brought me out of the notion of"
+   }
+  ]
+ },
+ "amusing-ourselves-to-death-neil-postman": {
+  "slug": "amusing-ourselves-to-death-neil-postman",
+  "title": "Amusing Ourselves to Death",
+  "author": "Neil Postman",
+  "is_essay": false,
+  "full_entry": "Amusing Ourselves to Death by Neil Postman",
+  "year": 1985,
+  "cover_id": 94285,
+  "cover_url": "https://covers.openlibrary.org/b/id/94285-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/94285-L.jpg",
+  "isbn10": "0140094385",
+  "isbn13": "9780140094381",
+  "open_library_url": "https://openlibrary.org/works/OL137916W",
+  "amazon_url": "https://www.amazon.com/dp/0140094385?tag=podcaststoboo-20",
+  "description": "Amusing Ourselves to Death is a prophetic look at what happens when politics, journalism, education, and even religion become subject to the demands of entertainment. It is also a blueprint for regaining control of our media, so that they can serve our highest goals.",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-10-28",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-28",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2571 - Jimmy Carr",
+    "guest": "Jimmy Carr",
+    "date": "2026-10-28",
+    "post_path": "joe-rogan/2571-jimmy-carr",
+    "t": 7737.48,
+    "t_label": "2:08:57",
+    "quote": "like a lump sum yeah it's in a bank account now you're at your out of soul but then that that Neil Postman had that you wrote this brilliant book in like 1984 right called amusing ourselves to death and it was about Ronald Reagan getting elected it was basically he said we've gone from reading"
+   }
+  ]
+ },
+ "factfulness-hans-rosling": {
+  "slug": "factfulness-hans-rosling",
+  "title": "Factfulness",
+  "author": "Hans Rosling",
+  "is_essay": false,
+  "full_entry": "Factfulness by Hans Rosling",
+  "year": 2018,
+  "cover_id": 8186237,
+  "cover_url": "https://covers.openlibrary.org/b/id/8186237-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/8186237-L.jpg",
+  "isbn10": "1529387159",
+  "isbn13": "9781529387155",
+  "open_library_url": "https://openlibrary.org/works/OL17877260W",
+  "amazon_url": "https://www.amazon.com/dp/1529387159?tag=podcaststoboo-20",
+  "description": "Factfulness: The stress-reducing habit of only carrying opinions for which you have strong supporting facts.\r\n\r\nWhen asked simple questions about global trends―what percentage of the world’s population live in poverty; why the world’s population is increasing; how many girls finish school―we systematically get the answers wrong. So wrong that a chimpanzee choosing answers at random will consistently outguess teachers, journalists, Nobel laureates, and investment bankers.\r\n\r\nIn Factfulness, Professor of International Health and global TED phenomenon Hans Rosling, together with his two long-time collaborators, Anna and Ola, offers a radical new explanation of why this happens. They reveal the ten instincts that distort our perspective―from our tendency to divide the world into two camps (usually some version of us and them) to the way we consume media (where fear rules) to how we perceive progress (believing that most things are getting worse).\r\n\r\nOur problem is that we don’t know what we don’t know, and even our guesses are informed by unconscious and predictable biases.\r\n\r\nIt turns out that the world, for all its imperfections, is in a much better state than we might think. That doesn’t mean there aren’t real concerns. But when we worry about everything all the time instead of embracing a worldview based on facts, we can lose our ability to focus on the things that threaten us most.\r\n\r\nInspiring and revelatory, filled with lively anecdotes and moving stories, Factfulness is…",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-10-28",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-28",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2571 - Jimmy Carr",
+    "guest": "Jimmy Carr",
+    "date": "2026-10-28",
+    "post_path": "joe-rogan/2571-jimmy-carr",
+    "t": 8740.84,
+    "t_label": "2:25:40",
+    "quote": "better I mean yes it's a hard thing to say but that that was a great Stephen Pinker book about things getting better there was a great book factfulness about the things are yeah I read the thing or book things can be terrible and still be getting better than they"
+   }
+  ]
+ },
+ "fight-club-chuck-palahniuk": {
+  "slug": "fight-club-chuck-palahniuk",
+  "title": "Fight Club",
+  "author": "Chuck Palahniuk",
+  "is_essay": false,
+  "full_entry": "Fight Club by Chuck Palahniuk",
+  "year": 1996,
+  "cover_id": 7890578,
+  "cover_url": "https://covers.openlibrary.org/b/id/7890578-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/7890578-L.jpg",
+  "isbn10": "0805062971",
+  "isbn13": "9780805062977",
+  "open_library_url": "https://openlibrary.org/works/OL18941W",
+  "amazon_url": "https://www.amazon.com/dp/0805062971?tag=podcaststoboo-20",
+  "description": "A man who struggles with insomnia meets a colorful extremist, and they create a secret organization together.\r\n\r\nChuck Palahniuk showed himself to be his generation’s most visionary satirist in this, his first book. Fight Club’s estranged narrator leaves his lackluster job when he comes under the thrall of Tyler Durden, an enigmatic young man who holds secret after-hours boxing matches in the basement of bars. There, two men fight \"as long as they have to.\" This is a gloriously original work that exposes the darkness at the core of our modern world.",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-10-28",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-28",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2571 - Jimmy Carr",
+    "guest": "Jimmy Carr",
+    "date": "2026-10-28",
+    "post_path": "joe-rogan/2571-jimmy-carr",
+    "t": 10059.32,
+    "t_label": "2:47:39",
+    "quote": "locust of control is within you that's a massive advantage in life and then thinking about what you really want as opposed to yes that line from fight club isn't it the we spend our lives making money to buy things to impress people we don't give a fuck about and think about how much"
+   }
+  ]
+ },
+ "what-s-our-problem-tim-urban": {
+  "slug": "what-s-our-problem-tim-urban",
+  "title": "What's Our Problem?",
+  "author": "Tim Urban",
+  "is_essay": false,
+  "full_entry": "What's Our Problem? by Tim Urban",
+  "year": 2023,
+  "cover_id": 13323691,
+  "cover_url": "https://covers.openlibrary.org/b/id/13323691-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/13323691-L.jpg",
+  "isbn10": "",
+  "isbn13": "",
+  "open_library_url": "https://openlibrary.org/works/OL34489497W",
+  "amazon_url": "https://www.amazon.com/s?k=What's+Our+Problem?+by+Tim+Urban&tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-10-28",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-28",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2571 - Jimmy Carr",
+    "guest": "Jimmy Carr",
+    "date": "2026-10-28",
+    "post_path": "joe-rogan/2571-jimmy-carr",
+    "t": 8204.04,
+    "t_label": "2:16:44",
+    "quote": "they are is dependent upon where you find yourself and what ideology you've looked up you know Tim Urban you ever had him on the show no he wrote this book called What's Our Problem is like one of my favorite books the last 10 years right and so the book is it's not about left and right it's"
+   }
+  ]
+ },
+ "wild-problems-russ-roberts": {
+  "slug": "wild-problems-russ-roberts",
+  "title": "Wild Problems",
+  "author": "Russ Roberts",
+  "is_essay": false,
+  "full_entry": "Wild Problems by Russ Roberts",
+  "year": 2022,
+  "cover_id": null,
+  "cover_url": "",
+  "cover_url_large": "",
+  "isbn10": "1399806289",
+  "isbn13": "9781399806282",
+  "open_library_url": "https://openlibrary.org/works/OL28352778W",
+  "amazon_url": "https://www.amazon.com/dp/1399806289?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-10-29",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-10-29",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "35 Emotions Explained By Evolutionary Psychology - Rob Kurzban - #1169",
+    "guest": "Rob Kurzban",
+    "date": "2026-10-29",
+    "post_path": "chris-williamson/35-emotions-explained-by-evolutionary-psychology-rob-kurzban-1169",
+    "t": null,
+    "t_label": "",
+    "quote": ""
    }
   ]
  }
