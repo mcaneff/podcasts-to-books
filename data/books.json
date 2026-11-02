@@ -13588,12 +13588,24 @@
   "open_library_url": "https://openlibrary.org/works/OL15992072W",
   "amazon_url": "https://www.amazon.com/dp/0385676514?tag=podcaststoboo-20",
   "description": "In his mega bestseller, Thinking, Fast and Slow, Daniel Kahneman, world-famous psychologist and winner of the Nobel Prize in Economics, takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think.\r\n\r\nSystem 1 is fast, intuitive, and emotional; System 2 is slower, more deliberative, and more logical. The impact of overconfidence on corporate strategies, the difficulties of predicting what will make us happy in the future, the profound effect of cognitive biases on everything from playing the stock market to planning our next vacation―each of these can be understood only by knowing how the two systems shape our judgments and decisions.\r\n\r\nEngaging the reader in a lively conversation about how we think, Kahneman reveals where we can and cannot trust our intuitions and how we can tap into the benefits of slow thinking. He offers practical and enlightening insights into how choices are made in both our business and our personal lives―and how we can use different techniques to guard against the mental glitches that often get us into trouble. Topping bestseller lists for almost ten years, Thinking, Fast and Slow is a contemporary classic, an essential book that has changed the lives of millions of readers.",
-  "mention_count": 3,
+  "mention_count": 4,
   "podcasters": [
    "chris-williamson"
   ],
-  "latest_mention": "2025-06-21",
+  "latest_mention": "2026-11-02",
   "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-11-02",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "How To Make Better Decisions (with way less uncertainty) - Joe Hudson - #1171",
+    "guest": "Joe Hudson",
+    "date": "2026-11-02",
+    "post_path": "chris-williamson/how-to-make-better-decisions-with-way-less-uncertainty-joe-hudson-1171",
+    "t": 199.4,
+    "t_label": "3:19",
+    "quote": "system two, thinking a bit from Daniel Kahneman, thinking fast and slow. So the system two is very deliberate"
+   },
    {
     "episode_id": "ep_chris-williamson_2025-06-21",
     "podcaster": "chris-williamson",
@@ -17265,12 +17277,24 @@
   "open_library_url": "",
   "amazon_url": "https://www.amazon.com/s?k=Weird+Scenes+Inside+the+Canyon:+Laurel+Canyon,+Covert+Ops+&+the+Dark+Heart+of+the+Hippie+Dream+by+Dave+McGowan&tag=podcaststoboo-20",
   "description": "",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
    "joe-rogan"
   ],
-  "latest_mention": "2025-04-19",
+  "latest_mention": "2026-10-29",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-29",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2572 - Colum Tyrrell",
+    "guest": "Colum Tyrrell",
+    "date": "2026-10-29",
+    "post_path": "joe-rogan/2572-colum-tyrrell",
+    "t": 3779.74,
+    "t_label": "1:02:59",
+    "quote": "Weird scenes. Weird scenes inside the canyon. Yeah, like it was almost orchestrated for the great."
+   },
    {
     "episode_id": "ep_joe-rogan_2025-04-19",
     "podcaster": "joe-rogan",
@@ -20269,12 +20293,24 @@
   "open_library_url": "https://openlibrary.org/works/OL3475649W",
   "amazon_url": "https://www.amazon.com/dp/0062508342?tag=podcaststoboo-20",
   "description": "A discussion of the age-old techniques on which the classic \"Tibetan Book of the Dead\" is based examines the possibility for healing that can be released when people begin to view death as another chapter of life.",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
    "chris-williamson"
   ],
-  "latest_mention": "2025-04-07",
+  "latest_mention": "2026-11-02",
   "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-11-02",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "How To Make Better Decisions (with way less uncertainty) - Joe Hudson - #1171",
+    "guest": "Joe Hudson",
+    "date": "2026-11-02",
+    "post_path": "chris-williamson/how-to-make-better-decisions-with-way-less-uncertainty-joe-hudson-1171",
+    "t": 943.16,
+    "t_label": "15:43",
+    "quote": "So whether you are a stoic or a samurai or Tibetan book of living or dying, the way to overcome the fear of death is to actually visualize"
+   },
    {
     "episode_id": "ep_chriswilliamson_2025-04-07",
     "podcaster": "chris-williamson",
@@ -22319,6 +22355,111 @@
     "t": null,
     "t_label": "",
     "quote": ""
+   }
+  ]
+ },
+ "the-human-zoo-desmond-morris": {
+  "slug": "the-human-zoo-desmond-morris",
+  "title": "The Human Zoo",
+  "author": "Desmond Morris",
+  "is_essay": false,
+  "full_entry": "The Human Zoo by Desmond Morris",
+  "year": 1705,
+  "cover_id": 76492,
+  "cover_url": "https://covers.openlibrary.org/b/id/76492-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/76492-L.jpg",
+  "isbn10": "",
+  "isbn13": "",
+  "open_library_url": "https://openlibrary.org/works/OL104152W",
+  "amazon_url": "https://www.amazon.com/s?k=The+Human+Zoo+by+Desmond+Morris&tag=podcaststoboo-20",
+  "description": "Morris looks closely at the human species under the stresses and pressures of urban living.This study concerns the city dweller. Morris finds remarkable similarities with captive zoo animals and looks closely at the aggressive, sexual and parental behaviour of the human species under the stresses and pressures of urban living.",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-10-31",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-31",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2574 - Francis Foster & Konstantin Kisin",
+    "guest": "Francis Foster & Konstantin Kisin",
+    "date": "2026-10-31",
+    "post_path": "joe-rogan/2574-francis-foster-konstantin-kisin",
+    "t": 2188.76,
+    "t_label": "36:28",
+    "quote": "my sense has always been I read this great book by a guy called Desmond Morris he was a primatologist he studied great apes and he wrote a book called the human zoo which was all about how the city creates in human beings the kind of responses that a zoo creates in animals"
+   }
+  ]
+ },
+ "the-status-game-will-storr": {
+  "slug": "the-status-game-will-storr",
+  "title": "The Status Game",
+  "author": "Will Storr",
+  "is_essay": false,
+  "full_entry": "The Status Game by Will Storr",
+  "year": 2021,
+  "cover_id": null,
+  "cover_url": "",
+  "cover_url_large": "",
+  "isbn10": "",
+  "isbn13": "",
+  "open_library_url": "https://openlibrary.org/works/OL37812846W",
+  "amazon_url": "https://www.amazon.com/s?k=The+Status+Game+by+Will+Storr&tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-10-31",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-31",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2574 - Francis Foster & Konstantin Kisin",
+    "guest": "Francis Foster & Konstantin Kisin",
+    "date": "2026-10-31",
+    "post_path": "joe-rogan/2574-francis-foster-konstantin-kisin",
+    "t": 8412.44,
+    "t_label": "2:20:12",
+    "quote": "it's a status thing I think we had this great guy on co-will stalk he wrote a book called the status game are you familiar with yes yes this is that this is the reason people do this I think is it's a status thing so Premier League footballer high status yeah electrician low status and also"
+   }
+  ]
+ },
+ "dead-doctors-don-t-lie-joel-wallick": {
+  "slug": "dead-doctors-don-t-lie-joel-wallick",
+  "title": "Dead Doctors Don't Lie",
+  "author": "Joel Wallick",
+  "is_essay": false,
+  "full_entry": "Dead Doctors Don't Lie by Joel Wallick",
+  "year": 2007,
+  "cover_id": null,
+  "cover_url": "",
+  "cover_url_large": "",
+  "isbn10": "0974858102",
+  "isbn13": "9780974858104",
+  "open_library_url": "https://openlibrary.org/works/OL8263235W",
+  "amazon_url": "https://www.amazon.com/dp/0974858102?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-10-30",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-10-30",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2573 - Legion of Skanks",
+    "guest": "Legion of Skanks",
+    "date": "2026-10-30",
+    "post_path": "joe-rogan/2573-legion-of-skanks",
+    "t": 114.0,
+    "t_label": "1:54",
+    "quote": "lot of them. There's a book called Dead Doctors Don't Lie by Joel Wallick. Interesting book. But"
    }
   ]
  }

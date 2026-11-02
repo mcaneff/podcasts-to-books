@@ -15,7 +15,7 @@ cover:
 
 ### Welcome to **Podcast To Books** — a curated archive of books mentioned in top podcasts.
 
-567 books from 226 episodes of Chris Williamson, Lex Fridman, Joe Rogan and Curt Jaimungal. Every book links to the exact moment it comes up in the conversation.
+570 books from 230 episodes of Chris Williamson, Lex Fridman, Joe Rogan and Curt Jaimungal. Every book links to the exact moment it comes up in the conversation.
 
 ## Trending: most mentioned in the last 90 days
 
