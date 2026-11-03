@@ -22462,5 +22462,40 @@
     "quote": "lot of them. There's a book called Dead Doctors Don't Lie by Joel Wallick. Interesting book. But"
    }
   ]
+ },
+ "the-astonishing-hypothesis-francis-crick": {
+  "slug": "the-astonishing-hypothesis-francis-crick",
+  "title": "The Astonishing Hypothesis",
+  "author": "Francis Crick",
+  "is_essay": false,
+  "full_entry": "The Astonishing Hypothesis by Francis Crick",
+  "year": 1993,
+  "cover_id": 424929,
+  "cover_url": "https://covers.openlibrary.org/b/id/424929-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/424929-L.jpg",
+  "isbn10": "0684194317",
+  "isbn13": "9780684194318",
+  "open_library_url": "https://openlibrary.org/works/OL3948850W",
+  "amazon_url": "https://www.amazon.com/dp/0684194317?tag=podcaststoboo-20",
+  "description": "Forty years ago, Francis Crick, along with James Watson, made history with the discovery of the structure of DNA, forever changing our understanding of life itself. Now Crick is once again at the frontier of scientific discovery, turning his attention to the mysteries of human consciousness.\r\n\r\nBent on deciphering the complexities of the brain, Crick maps out the neurobiology of vision. The result is a cogent, witty, and richly detailed analysis of how the brain \"sees,\" and a daring exploration of some of the most fundamental questions of human existence: Do we have free will? What exactly is it that makes us sentient beings and different from other animals? Is there such a thing as a soul, or are we nothing more than an immensely complex collection of neurons?\r\n\r\nIn this groundbreaking, provocative work, Francis Crick challenges the very foundations of current scientific, philosophical, and religious thought.",
+  "mention_count": 1,
+  "podcasters": [
+   "curt-jaimungal"
+  ],
+  "latest_mention": "2026-11-02",
+  "mentions": [
+   {
+    "episode_id": "ep_curt-jaimungal_2026-11-02",
+    "podcaster": "curt-jaimungal",
+    "podcaster_name": "Theories of Everything",
+    "episode_title": "Mark Solms: Consciousness Isn't in the Cortex",
+    "guest": "Mark Solms",
+    "date": "2026-11-02",
+    "post_path": "curt-jaimungal/mark-solms-consciousness-isn-t-in-the-cortex",
+    "t": 4092.88,
+    "t_label": "1:08:12",
+    "quote": "The mistake that we made was to begin with perception. The model example that we've used since we started scientifically trying to tackle this question. And I would date that to the mid-1990s and to Francis Cricks, the book was the astonishing hypothesis. And that was the beginning of this concerted effort to…"
+   }
+  ]
  }
 }
