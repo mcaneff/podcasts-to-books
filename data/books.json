@@ -2490,12 +2490,24 @@
   "open_library_url": "https://openlibrary.org/works/OL40879W",
   "amazon_url": "https://www.amazon.com/dp/0679728759?tag=podcaststoboo-20",
   "description": "An epic novel of the violence and depravity that attended America's westward expansion, Blood Meridian brilliantly subverts the conventions of the Western novel and the mythology of the \"wild west.\" Based on historical events that took place on the Texas-Mexico border in the 1850s, it traces the fortunes of the Kid, a fourteen-year-old Tennesseean who stumbles into the nightmarish world where Indians are being murdered and the market for their scalps is thriving.",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
    "joe-rogan"
   ],
-  "latest_mention": "2026-08-13",
+  "latest_mention": "2026-11-03",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-03",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2575 - Sam Tallent",
+    "guest": "Sam Tallent",
+    "date": "2026-11-03",
+    "post_path": "joe-rogan/2575-sam-tallent",
+    "t": 5370.0,
+    "t_label": "1:29:30",
+    "quote": "Get someone into Kormac McCarthy. Get someone into Blood Merinian or some of the really dark blood Merinian."
+   },
    {
     "episode_id": "ep_joe-rogan_2026-08-13",
     "podcaster": "joe-rogan",
@@ -11633,13 +11645,25 @@
   "open_library_url": "https://openlibrary.org/works/OL497483W",
   "amazon_url": "https://www.amazon.com/dp/1590710037?tag=podcaststoboo-20",
   "description": "",
-  "mention_count": 4,
+  "mention_count": 5,
   "podcasters": [
    "chris-williamson",
    "joe-rogan"
   ],
-  "latest_mention": "2026-10-06",
+  "latest_mention": "2026-11-03",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-03",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2575 - Sam Tallent",
+    "guest": "Sam Tallent",
+    "date": "2026-11-03",
+    "post_path": "joe-rogan/2575-sam-tallent",
+    "t": 6418.24,
+    "t_label": "1:46:58",
+    "quote": "I guess the human experience. Have you read Pressfield's book, The War of Art? Oh, yeah."
+   },
    {
     "episode_id": "ep_joe-rogan_2026-10-06",
     "podcaster": "joe-rogan",
@@ -22495,6 +22519,251 @@
     "t": 4092.88,
     "t_label": "1:08:12",
     "quote": "The mistake that we made was to begin with perception. The model example that we've used since we started scientifically trying to tackle this question. And I would date that to the mid-1990s and to Francis Cricks, the book was the astonishing hypothesis. And that was the beginning of this concerted effort to…"
+   }
+  ]
+ },
+ "a-little-life-hanya-yanagihara": {
+  "slug": "a-little-life-hanya-yanagihara",
+  "title": "A Little Life",
+  "author": "Hanya Yanagihara",
+  "is_essay": false,
+  "full_entry": "A Little Life by Hanya Yanagihara",
+  "year": 2008,
+  "cover_id": 12065783,
+  "cover_url": "https://covers.openlibrary.org/b/id/12065783-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/12065783-L.jpg",
+  "isbn10": "0385539258",
+  "isbn13": "9780385539258",
+  "open_library_url": "https://openlibrary.org/works/OL17370186W",
+  "amazon_url": "https://www.amazon.com/dp/0385539258?tag=podcaststoboo-20",
+  "description": "A Little Life is a 2015 novel by American novelist Hanya Yanagihara. The novel was written over the course of eighteen months. Despite the length and difficult subject matter, it became a bestseller.",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-03",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-03",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2575 - Sam Tallent",
+    "guest": "Sam Tallent",
+    "date": "2026-11-03",
+    "post_path": "joe-rogan/2575-sam-tallent",
+    "t": 5041.84,
+    "t_label": "1:24:01",
+    "quote": "And it's like so boring. And then the stuff they do champion, like a little life, is the most ridiculous hyperbolic bullshit that's never happened to anyone."
+   }
+  ]
+ },
+ "angels-denis-johnson": {
+  "slug": "angels-denis-johnson",
+  "title": "Angels",
+  "author": "Denis Johnson",
+  "is_essay": false,
+  "full_entry": "Angels by Denis Johnson",
+  "year": 1983,
+  "cover_id": 42894,
+  "cover_url": "https://covers.openlibrary.org/b/id/42894-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/42894-L.jpg",
+  "isbn10": "0394532252",
+  "isbn13": "9780394532257",
+  "open_library_url": "https://openlibrary.org/works/OL545420W",
+  "amazon_url": "https://www.amazon.com/dp/0394532252?tag=podcaststoboo-20",
+  "description": "Angels puts Jamie Mays--a runaway wife toting along two kids--and Bill Houston--ex-Navy man, ex-husband, ex-con--on a Greyhound bus for a dark, wild ride cross country. Driven by restless souls, bad booze, and desperate needs, Jamie and Bill bounce from bus stations to cheap hotels as they ply the strange, fascinating, and dangerous fringe of American life. Their tickets may say Phoenix, but their inescapable destination is a last stop marked by stunning violence and mind-shattering surprise. Denis Johnson, known for his portraits of America's dispossessed, sets off literary pyrotechnics on this highway odyssey, lighting the trek with wit and a personal metaphysics that defiantly takes on the world.--Amazon.com",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-03",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-03",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2575 - Sam Tallent",
+    "guest": "Sam Tallent",
+    "date": "2026-11-03",
+    "post_path": "joe-rogan/2575-sam-tallent",
+    "t": 5326.72,
+    "t_label": "1:28:46",
+    "quote": "Nice. And angels, if anyone out there's listening and they want to read a really good book,"
+   }
+  ]
+ },
+ "naked-lunch-william-s-burroughs": {
+  "slug": "naked-lunch-william-s-burroughs",
+  "title": "Naked Lunch",
+  "author": "William S. Burroughs",
+  "is_essay": false,
+  "full_entry": "Naked Lunch by William S. Burroughs",
+  "year": 1959,
+  "cover_id": 9788627,
+  "cover_url": "https://covers.openlibrary.org/b/id/9788627-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/9788627-L.jpg",
+  "isbn10": "0007268416",
+  "isbn13": "9780007268412",
+  "open_library_url": "https://openlibrary.org/works/OL258134W",
+  "amazon_url": "https://www.amazon.com/dp/0007268416?tag=podcaststoboo-20",
+  "description": "Controversial and bizarre cult novel based on the author’s own experiences as a drug addict, first published in 1959. Formed as a series of inter-connected adventures set in locations as diverse as the U.S. Mexico and Morocco sees the protagonist, Burroughs’ alter-ego William Lee on the run from the police and always searching for his next fix. Burroughs once stated that the chapters can be read in any order.",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-03",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-03",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2575 - Sam Tallent",
+    "guest": "Sam Tallent",
+    "date": "2026-11-03",
+    "post_path": "joe-rogan/2575-sam-tallent",
+    "t": 811.56,
+    "t_label": "13:31",
+    "quote": "Those two for sure. Naked lunch always seemed like he was jerk. Like I hated it."
+   }
+  ]
+ },
+ "no-country-for-old-men-cormac-mccarthy": {
+  "slug": "no-country-for-old-men-cormac-mccarthy",
+  "title": "No Country for Old Men",
+  "author": "Cormac McCarthy",
+  "is_essay": false,
+  "full_entry": "No Country for Old Men by Cormac McCarthy",
+  "year": 1900,
+  "cover_id": 9296899,
+  "cover_url": "https://covers.openlibrary.org/b/id/9296899-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/9296899-L.jpg",
+  "isbn10": "033044011X",
+  "isbn13": "9780330440110",
+  "open_library_url": "https://openlibrary.org/works/OL40875W",
+  "amazon_url": "https://www.amazon.com/dp/033044011X?tag=podcaststoboo-20",
+  "description": "In his blistering new novel, Cormac McCarthy returns to the Texas-Mexico border, setting of his famed *Border Trilogy.* The time is our own, when rustlers have given way to drug-runners and small towns have become free-fire zones. One day, a good old boy named Llewellyn Moss finds a pickup truck surrounded by a bodyguard of dead men. A load of heroin and two million dollars in cash are still in the back. When Moss takes the money, he sets off a chain reaction of catastrophic violence that not even the law--in the person of aging, disillusioned Sheriff Bell--can contain. As Moss tries to evade his pursuers--in particular a mysterious mastermind who flips coins for human lives--McCarthy simultaneously strips down the American crime novel and broadens its concerns to encompass themes as ancient as the Bible and as bloodily contemporary as this morning's headlines. *No Country for Old Men* is a triumph. (From the Trade Paperback edition)",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-03",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-03",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2575 - Sam Tallent",
+    "guest": "Sam Tallent",
+    "date": "2026-11-03",
+    "post_path": "joe-rogan/2575-sam-tallent",
+    "t": 5366.0,
+    "t_label": "1:29:26",
+    "quote": "than just looking at your phone and saying that. I just read no country for Old Man. Get someone into Kormac McCarthy."
+   }
+  ]
+ },
+ "rogue-male-geoffrey-household": {
+  "slug": "rogue-male-geoffrey-household",
+  "title": "Rogue Male",
+  "author": "Geoffrey Household",
+  "is_essay": false,
+  "full_entry": "Rogue Male by Geoffrey Household",
+  "year": 1939,
+  "cover_id": 499152,
+  "cover_url": "https://covers.openlibrary.org/b/id/499152-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/499152-L.jpg",
+  "isbn10": "",
+  "isbn13": "",
+  "open_library_url": "https://openlibrary.org/works/OL4780878W",
+  "amazon_url": "https://www.amazon.com/s?k=Rogue+Male+by+Geoffrey+Household&tag=podcaststoboo-20",
+  "description": "Rogue male is a short novel written in the first person about a failed Hitler assassination, including aspects of a city chase scene, and a series of narrow escapes by the protagonist from two following german spies in rural England.",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-03",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-03",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2575 - Sam Tallent",
+    "guest": "Sam Tallent",
+    "date": "2026-11-03",
+    "post_path": "joe-rogan/2575-sam-tallent",
+    "t": 5293.28,
+    "t_label": "1:28:13",
+    "quote": "I mean, that's a problem. Have you ever read Rogue Mail? No."
+   }
+  ]
+ },
+ "the-gray-man-mark-greaney": {
+  "slug": "the-gray-man-mark-greaney",
+  "title": "The Gray Man",
+  "author": "Mark Greaney",
+  "is_essay": false,
+  "full_entry": "The Gray Man by Mark Greaney",
+  "year": 2012,
+  "cover_id": 10402247,
+  "cover_url": "https://covers.openlibrary.org/b/id/10402247-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/10402247-L.jpg",
+  "isbn10": "0751550256",
+  "isbn13": "9780751550252",
+  "open_library_url": "https://openlibrary.org/works/OL21758985W",
+  "amazon_url": "https://www.amazon.com/dp/0751550256?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-03",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-03",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2575 - Sam Tallent",
+    "guest": "Sam Tallent",
+    "date": "2026-11-03",
+    "post_path": "joe-rogan/2575-sam-tallent",
+    "t": 5091.12,
+    "t_label": "1:24:51",
+    "quote": "that's fiction is like, it's all male stuff. Like I'm really into the Gray Man series. What's the Gray Man series?"
+   }
+  ]
+ },
+ "the-terminal-list-jack-carr": {
+  "slug": "the-terminal-list-jack-carr",
+  "title": "The Terminal List",
+  "author": "Jack Carr",
+  "is_essay": false,
+  "full_entry": "The Terminal List by Jack Carr",
+  "year": 2018,
+  "cover_id": 9211494,
+  "cover_url": "https://covers.openlibrary.org/b/id/9211494-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/9211494-L.jpg",
+  "isbn10": "1982158115",
+  "isbn13": "9781982158118",
+  "open_library_url": "https://openlibrary.org/works/OL20569445W",
+  "amazon_url": "https://www.amazon.com/dp/1982158115?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-03",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-03",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2575 - Sam Tallent",
+    "guest": "Sam Tallent",
+    "date": "2026-11-03",
+    "post_path": "joe-rogan/2575-sam-tallent",
+    "t": 5248.96,
+    "t_label": "1:27:28",
+    "quote": "Uh, no. Former Navy SEAL wrote the book, The Terminalist. The They Turn Into A Show on Netflix."
    }
   ]
  }
