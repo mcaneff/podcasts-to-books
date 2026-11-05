@@ -22766,5 +22766,40 @@
     "quote": "Uh, no. Former Navy SEAL wrote the book, The Terminalist. The They Turn Into A Show on Netflix."
    }
   ]
+ },
+ "courage-to-face-covid-19-peter-mccullough": {
+  "slug": "courage-to-face-covid-19-peter-mccullough",
+  "title": "Courage to Face COVID-19",
+  "author": "Peter McCullough",
+  "is_essay": false,
+  "full_entry": "Courage to Face COVID-19 by Peter McCullough",
+  "year": 2022,
+  "cover_id": null,
+  "cover_url": "",
+  "cover_url_large": "",
+  "isbn10": "151077680X",
+  "isbn13": "9781510776807",
+  "open_library_url": "https://openlibrary.org/works/OL28065270W",
+  "amazon_url": "https://www.amazon.com/dp/151077680X?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-04",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-04",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2576 - Dr. Peter McCullough",
+    "guest": "Peter McCullough",
+    "date": "2026-11-04",
+    "post_path": "joe-rogan/2576-dr-peter-mccullough",
+    "t": 600.76,
+    "t_label": "10:00",
+    "quote": "I'm in the book. Yeah, the first one is, courage to face COVID-19. In the title, we come up with this term called the Bio-pharmaceutical Complex."
+   }
+  ]
  }
 }
