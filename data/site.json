@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05",
+ "generated": "2026-11-10",
  "recent_days": 90,
  "top_alltime": [
   "man-s-search-for-meaning-viktor-frankl",
@@ -19,7 +19,6 @@
   "blood-meridian-cormac-mccarthy",
   "book-of-enoch-enoch",
   "cobalt-red-siddharth-kara",
-  "die-with-zero-bill-perkins",
   "finnegan-s-wake-james-joyce",
   "one-flew-over-the-cuckoo-s-nest-ken-kesey",
   "the-alchemist-paulo-coelho",
@@ -27,7 +26,8 @@
   "the-war-of-art-stephen-pressfield",
   "the-wisdom-of-insecurity-alan-watts",
   "way-of-the-warrior-kid-jocko-willink",
-  "12-rules-for-life-jordan-peterson"
+  "12-rules-for-life-jordan-peterson",
+  "2001-arthur-c-clarke"
  ],
  "podcasters": {
   "chris-williamson": {
@@ -100,8 +100,8 @@
   }
  },
  "counts": {
-  "books": 579,
-  "episodes": 233,
-  "mentions": 788
+  "books": 581,
+  "episodes": 234,
+  "mentions": 790
  }
 }

@@ -22801,5 +22801,75 @@
     "quote": "I'm in the book. Yeah, the first one is, courage to face COVID-19. In the title, we come up with this term called the Bio-pharmaceutical Complex."
    }
   ]
+ },
+ "bigfoot-john-napier": {
+  "slug": "bigfoot-john-napier",
+  "title": "Bigfoot",
+  "author": "John Napier",
+  "is_essay": false,
+  "full_entry": "Bigfoot by John Napier",
+  "year": 1974,
+  "cover_id": 9289676,
+  "cover_url": "https://covers.openlibrary.org/b/id/9289676-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/9289676-L.jpg",
+  "isbn10": "0425025462",
+  "isbn13": "9780425025468",
+  "open_library_url": "https://openlibrary.org/works/OL20650940W",
+  "amazon_url": "https://www.amazon.com/dp/0425025462?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-05",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-05",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2577 - Gregory Forth",
+    "guest": "Gregory Forth",
+    "date": "2026-11-05",
+    "post_path": "joe-rogan/2577-gregory-forth",
+    "t": 6705.72,
+    "t_label": "1:51:45",
+    "quote": "Yeah. Yeah. No. I mean, there's a number of other primatologists and people who study primates in the field who have also subscribed to, if not, Bigfoot then, the Yeti, a guy called Vern Reynolds. Who's an Oxford at one time, I think."
+   }
+  ]
+ },
+ "child-of-the-jungle-sabine-kugler": {
+  "slug": "child-of-the-jungle-sabine-kugler",
+  "title": "Child of the Jungle",
+  "author": "Sabine Kugler",
+  "is_essay": false,
+  "full_entry": "Child of the Jungle by Sabine Kugler",
+  "year": 2007,
+  "cover_id": 286597,
+  "cover_url": "https://covers.openlibrary.org/b/id/286597-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/286597-L.jpg",
+  "isbn10": "1844082628",
+  "isbn13": "9781844082629",
+  "open_library_url": "https://openlibrary.org/works/OL8135580W",
+  "amazon_url": "https://www.amazon.com/dp/1844082628?tag=podcaststoboo-20",
+  "description": "A #1 bestseller in Europe, CHILD OF THE JUNGLE tells the remarkable story of a childhood and adolescence spent caught between two modes of existence-jungle life and Western \"civilization.\" Sabine Kuegler was five years old when her family-her German linguist-missionary parents and her siblings-moved to the territory of the recently discovered hunter-and-gatherer Fayu tribe of Papua New Guinea . The Fayu tribe is best known for being a Stone Age community untouched by modern times-they live an existence characterized by fear, violence, and atavistic ritual (including cannibalism in some regions)-but Sabine's family saw another side to them as well. Once the Kueglers were accepted by a clan chief, they found themselves becoming a part of a tightly knit and fiercely loyal community, and living the primal existence of the Fayu-one marked by the natural cycles of day and night, malaria and other diseases, and daily encounters with wildlife, from swims with crocodiles to dinners of worms. As the Kueglers changed, so did the Fayu people, learning from Sabine's family that there was a way out of their cycle of violence and that forgiveness can be sweeter than revenge. At the age of 17, Sabine found her life turned upside down when she left for Switzerland to attend boarding school and entered traditional society head-on. CHILD OF THE JUNGLE is the story of a life lived among the Fayu and the author's attempt to reconcile her feelings about \"civilization\" with those about a life she…",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-05",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-05",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2577 - Gregory Forth",
+    "guest": "Gregory Forth",
+    "date": "2026-11-05",
+    "post_path": "joe-rogan/2577-gregory-forth",
+    "t": 6036.72,
+    "t_label": "1:40:36",
+    "quote": "And this would, yeah, that this would present a real philosophical problem, broken under him. Yeah. So forest Galaunt was telling me about a contemporary account of a woman who was an anthropologist who's I just cannot remember where the village was. But this person had encountered something. I got it. Yeah, here it…"
+   }
+  ]
  }
 }
