@@ -22871,5 +22871,40 @@
     "quote": "And this would, yeah, that this would present a real philosophical problem, broken under him. Yeah. So forest Galaunt was telling me about a contemporary account of a woman who was an anthropologist who's I just cannot remember where the village was. But this person had encountered something. I got it. Yeah, here it…"
    }
   ]
+ },
+ "grateful-american-gary-sinise": {
+  "slug": "grateful-american-gary-sinise",
+  "title": "Grateful American",
+  "author": "Gary Sinise",
+  "is_essay": false,
+  "full_entry": "Grateful American by Gary Sinise",
+  "year": 2019,
+  "cover_id": 8800272,
+  "cover_url": "https://covers.openlibrary.org/b/id/8800272-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/8800272-L.jpg",
+  "isbn10": "1400208122",
+  "isbn13": "9781400208128",
+  "open_library_url": "https://openlibrary.org/works/OL20155233W",
+  "amazon_url": "https://www.amazon.com/dp/1400208122?tag=podcaststoboo-20",
+  "description": "As a kid in suburban Chicago, Gary Sinise was more interested in sports and rock 'n' roll than reading or schoolwork. But when he impulsively auditioned for a school production of West Side Story, he found his purpose -- or so it seemed. Within a few years, Gary and a handful of friends created what became one of the most exciting and important new theater companies in America. From its humble beginnings in a suburban Chicago church basement and eventual move into the city, the Steppenwolf Theatre Company launched a series of groundbreaking productions, igniting Gary's career along with those of John Malkovich, Joan Allen, Gary Cole, Laurie Metcalf, Jeff Perry, John Mahoney, and others. Television and film came calling soon after, and Gary starred in Of Mice and Men (which he also directed) and The Stand before taking the role that would change his life in unforeseeable ways: Lieutenant Dan in the Academy Award-winning Forrest Gump. The military community's embrace of the character of the disabled veteran was matched only by the depth of Gary's realization that America's defenders had not received all the honor, respect, and gratitude their sacrifices deserve. In the aftermath of the September 11 attacks, this became Gary's mission. While starring in hits like Apollo 13, Ransom, Truman, George Wallace, CSI:NY, and Criminal Minds: Beyond Borders, Gary has worked tirelessly on behalf of those who serve this country, entertaining more than a half million troops around the world…",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-10",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-10",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2579 - Gary Sinise",
+    "guest": "Gary Sinise",
+    "date": "2026-11-10",
+    "post_path": "joe-rogan/2579-gary-sinise",
+    "t": 102.0,
+    "t_label": "1:42",
+    "quote": "Very good. Yeah thank you. You wrote a memoir. It was just like it would everyone who's lived an extraordinary life should do at some point in time. Write a memoir. Well I wrote a couple. The first one was called Grateful American. That came out in 2019 actually came out that year and it kind of documents how I got so…"
+   }
+  ]
  }
 }
