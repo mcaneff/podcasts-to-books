@@ -7989,12 +7989,25 @@
   "open_library_url": "https://openlibrary.org/works/OL37615571W",
   "amazon_url": "https://www.amazon.com/dp/0197752799?tag=podcaststoboo-20",
   "description": "",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
+   "chris-williamson",
    "curt-jaimungal"
   ],
-  "latest_mention": "2026-03-05",
+  "latest_mention": "2026-11-12",
   "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-11-12",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Why Atheists Keep Finding God (in everything) - Alex O’Connor - #1175",
+    "guest": "Alex O’Connor",
+    "date": "2026-11-12",
+    "post_path": "chris-williamson/why-atheists-keep-finding-god-in-everything-alex-oconnor-1175",
+    "t": 1262.3,
+    "t_label": "21:02",
+    "quote": "Always that's always the problem with so much of these these religious discussions is that the data can sometimes be predicted by both um Like I'm sort of looking at the problem of divine hiddenness which is why if God exists he's not obvious to people and"
+   },
    {
     "episode_id": "ep_curt-jaimungal_2026-03-05",
     "podcaster": "curt-jaimungal",
@@ -22904,6 +22917,146 @@
     "t": 102.0,
     "t_label": "1:42",
     "quote": "Very good. Yeah thank you. You wrote a memoir. It was just like it would everyone who's lived an extraordinary life should do at some point in time. Write a memoir. Well I wrote a couple. The first one was called Grateful American. That came out in 2019 actually came out that year and it kind of documents how I got so…"
+   }
+  ]
+ },
+ "entangled-life-merlin-sheldrake": {
+  "slug": "entangled-life-merlin-sheldrake",
+  "title": "Entangled Life",
+  "author": "Merlin Sheldrake",
+  "is_essay": false,
+  "full_entry": "Entangled Life by Merlin Sheldrake",
+  "year": 2020,
+  "cover_id": 10152882,
+  "cover_url": "https://covers.openlibrary.org/b/id/10152882-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/10152882-L.jpg",
+  "isbn10": "1847925200",
+  "isbn13": "9781847925206",
+  "open_library_url": "https://openlibrary.org/works/OL20758206W",
+  "amazon_url": "https://www.amazon.com/dp/1847925200?tag=podcaststoboo-20",
+  "description": "\"Living at the border between life and non-life, fungi use diverse cocktails of potent enzymes and acids to disassemble some of the most stubborn substances on the planet, turning rock into soil and wood into compost, allowing plants to grow. Fungi not only help create soil, they send out networks of tubes that enmesh roots and link plants together in the 'Wood Wide Web.' Fungi also drive many long-standing human fascinations: from yeasts that cause bread to rise and orchestrate the fermentation of sugar into alcohol; to psychedelic fungi; to the mold that produces penicillin and revolutionized modern medicine. And we can partner with fungi to heal the damage we've done to the planet. Fungi are already being used to make sustainable building materials and wearable leather, but they can do so much more. Fungi can digest many stubborn and toxic pollutants from crude oil to human-made polyurethane plastics and the explosive TNT. They can grow food from renewable sources: edible mushrooms can be grown on anything from plant waste to cigarette butts. And some fungi's antiviral compounds might be able to ease the colony collapse of bees. Merlin Sheldrake's revelatory introduction to this world will show us how fungi, and our relationships with them, are more astonishing than we could have imagined. Bringing to light science's latest discoveries and ingeniously parsing the varieties and behaviors of the fungi themselves, he points us toward the fundamental questions about the…",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-11-12",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-11-12",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Why Atheists Keep Finding God (in everything) - Alex O’Connor - #1175",
+    "guest": "Alex O’Connor",
+    "date": "2026-11-12",
+    "post_path": "chris-williamson/why-atheists-keep-finding-god-in-everything-alex-oconnor-1175",
+    "t": 4600.3,
+    "t_label": "1:16:40",
+    "quote": "except like I There are a few boxes of that"
+   }
+  ]
+ },
+ "proslogion-anselm-of-canterbury": {
+  "slug": "proslogion-anselm-of-canterbury",
+  "title": "Proslogion",
+  "author": "Anselm of Canterbury",
+  "is_essay": false,
+  "full_entry": "Proslogion by Anselm of Canterbury",
+  "year": 1903,
+  "cover_id": 1619733,
+  "cover_url": "https://covers.openlibrary.org/b/id/1619733-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/1619733-L.jpg",
+  "isbn10": "0872205665",
+  "isbn13": "9780872205666",
+  "open_library_url": "https://openlibrary.org/works/OL707174W",
+  "amazon_url": "https://www.amazon.com/dp/0872205665?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-11-12",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-11-12",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Why Atheists Keep Finding God (in everything) - Alex O’Connor - #1175",
+    "guest": "Alex O’Connor",
+    "date": "2026-11-12",
+    "post_path": "chris-williamson/why-atheists-keep-finding-god-in-everything-alex-oconnor-1175",
+    "t": null,
+    "t_label": "",
+    "quote": ""
+   }
+  ]
+ },
+ "summa-theologica-thomas-aquinas": {
+  "slug": "summa-theologica-thomas-aquinas",
+  "title": "Summa Theologica",
+  "author": "Thomas Aquinas",
+  "is_essay": false,
+  "full_entry": "Summa Theologica by Thomas Aquinas",
+  "year": 1467,
+  "cover_id": 8236222,
+  "cover_url": "https://covers.openlibrary.org/b/id/8236222-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/8236222-L.jpg",
+  "isbn10": "",
+  "isbn13": "",
+  "open_library_url": "https://openlibrary.org/works/OL15314568W",
+  "amazon_url": "https://www.amazon.com/s?k=Summa+Theologica+by+Thomas+Aquinas&tag=podcaststoboo-20",
+  "description": "Thomas's magnum opus, comprising a systematic integration of Aristotelian philosophy with Christianity. Covers topics such as the nature and existence of God, human nature, law and morality and the relationship of God, world and humans.",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-11-12",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-11-12",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Why Atheists Keep Finding God (in everything) - Alex O’Connor - #1175",
+    "guest": "Alex O’Connor",
+    "date": "2026-11-12",
+    "post_path": "chris-williamson/why-atheists-keep-finding-god-in-everything-alex-oconnor-1175",
+    "t": 524.14,
+    "t_label": "8:44",
+    "quote": "Is the one the only one where there are any observance which is the earth which means the technically you can see everything is moving around the earth um But I digress um"
+   }
+  ]
+ },
+ "the-experience-of-god-david-bentley-hart": {
+  "slug": "the-experience-of-god-david-bentley-hart",
+  "title": "The Experience of God",
+  "author": "David Bentley Hart",
+  "is_essay": false,
+  "full_entry": "The Experience of God by David Bentley Hart",
+  "year": 2013,
+  "cover_id": 10990733,
+  "cover_url": "https://covers.openlibrary.org/b/id/10990733-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/10990733-L.jpg",
+  "isbn10": "0300166842",
+  "isbn13": "9780300166842",
+  "open_library_url": "https://openlibrary.org/works/OL19971552W",
+  "amazon_url": "https://www.amazon.com/dp/0300166842?tag=podcaststoboo-20",
+  "description": "Despite the recent ferocious public debate about belief, the concept most central to the discussion \"God\" frequently remains vaguely and obscurely described. Are those engaged in these arguments even talking about the same thing? In a wide-ranging response to this confusion, esteemed scholar David Bentley Hart pursues a clarification of how the word \"God\" functions in the world's great theistic faiths. Ranging broadly across Judaism, Christianity, Islam, Vedantic and Bhaktic Hinduism, Sikhism, and Buddhism, Hart explores how these great intellectual traditions treat humanity's knowledge of the divine mysteries. Constructing his argument around three principal metaphysical \"moments\" -being, consciousness, and bliss- the author demonstrates an essential continuity between our fundamental experience of reality and the ultimate reality to which that experience inevitably points.",
+  "mention_count": 1,
+  "podcasters": [
+   "chris-williamson"
+  ],
+  "latest_mention": "2026-11-12",
+  "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-11-12",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Why Atheists Keep Finding God (in everything) - Alex O’Connor - #1175",
+    "guest": "Alex O’Connor",
+    "date": "2026-11-12",
+    "post_path": "chris-williamson/why-atheists-keep-finding-god-in-everything-alex-oconnor-1175",
+    "t": 667.74,
+    "t_label": "11:07",
+    "quote": "The great mathematician and inventor of the bus randomly um He Has a religious experience in 1654 and writes down in a diary fire fire"
    }
   ]
  }
