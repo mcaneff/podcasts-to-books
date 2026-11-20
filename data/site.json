@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19",
+ "generated": "2026-11-20",
  "recent_days": 90,
  "top_alltime": [
   "man-s-search-for-meaning-viktor-frankl",
@@ -17,17 +17,17 @@
  ],
  "top_recent": [
   "can-t-hurt-me-david-goggins",
+  "the-book-of-enoch-enoch",
   "alice-in-wonderland-lewis-carroll",
-  "book-of-enoch-enoch",
   "cobalt-red-siddharth-kara",
   "finnegan-s-wake-james-joyce",
   "one-flew-over-the-cuckoo-s-nest-ken-kesey",
   "the-alchemist-paulo-coelho",
   "the-hero-with-a-thousand-faces-joseph-campbell",
-  "the-secret-rhonda-byrne",
   "the-war-of-art-stephen-pressfield",
   "the-wisdom-of-insecurity-alan-watts",
-  "12-rules-for-life-jordan-peterson"
+  "12-rules-for-life-jordan-peterson",
+  "2001-arthur-c-clarke"
  ],
  "podcasters": {
   "chris-williamson": {
@@ -75,10 +75,10 @@
     "the-sacred-mushroom-and-the-cross-john-marco-allegro",
     "cobalt-red-siddharth-kara",
     "one-flew-over-the-cuckoo-s-nest-ken-kesey",
+    "the-book-of-enoch-enoch",
     "the-book-of-ezekiel-ezekiel",
     "the-book-of-five-rings-miyamoto-musashi",
-    "the-war-of-art-stephen-pressfield",
-    "blood-meridian-cormac-mccarthy"
+    "the-war-of-art-stephen-pressfield"
    ]
   },
   "curt-jaimungal": {
@@ -101,7 +101,7 @@
  },
  "counts": {
   "books": 591,
-  "episodes": 242,
-  "mentions": 810
+  "episodes": 243,
+  "mentions": 814
  }
 }

@@ -83,53 +83,6 @@
    }
   ]
  },
- "book-of-enoch-enoch": {
-  "slug": "book-of-enoch-enoch",
-  "title": "Book of Enoch",
-  "author": "Enoch",
-  "is_essay": false,
-  "full_entry": "Book of Enoch by Enoch",
-  "year": 2009,
-  "cover_id": 11077946,
-  "cover_url": "https://covers.openlibrary.org/b/id/11077946-M.jpg",
-  "cover_url_large": "https://covers.openlibrary.org/b/id/11077946-L.jpg",
-  "isbn10": "",
-  "isbn13": "",
-  "open_library_url": "https://openlibrary.org/works/OL24470527W",
-  "amazon_url": "https://www.amazon.com/s?k=Book+of+Enoch+by+Enoch&tag=podcaststoboo-20",
-  "description": "",
-  "mention_count": 2,
-  "podcasters": [
-   "joe-rogan"
-  ],
-  "latest_mention": "2026-09-30",
-  "mentions": [
-   {
-    "episode_id": "ep_joe-rogan_2026-09-30",
-    "podcaster": "joe-rogan",
-    "podcaster_name": "Joe Rogan Experience",
-    "episode_title": "#2560 - David Grusch",
-    "guest": "David Grusch",
-    "date": "2026-09-30",
-    "post_path": "joe-rogan/2560-david-grusch",
-    "t": 5454.4,
-    "t_label": "1:30:54",
-    "quote": "And I think with all this coming out there's going to be a huge rewriting of a lot of our ancient and modern history. So that's where it gets really weird. You know, Rep Paulina Luna was on the podcast. Oh, yeah. She was talking to me about the book of Enoch. Yeah, I hadn't read it. She's like, you have to read it and…"
-   },
-   {
-    "episode_id": "ep_joe-rogan_2026-09-24",
-    "podcaster": "joe-rogan",
-    "podcaster_name": "Joe Rogan Experience",
-    "episode_title": "#2558 - Tyler Engle",
-    "guest": "Tyler Engle",
-    "date": "2026-09-24",
-    "post_path": "joe-rogan/2558-tyler-engle",
-    "t": 3887.02,
-    "t_label": "1:04:47",
-    "quote": "Imagine being around here 50,000 years. And then you have things like the book of Enoch, right? Which, which talks about the watchers who come down and mate with the daughters of men"
-   }
-  ]
- },
  "chariots-of-the-gods-erich-von-daniken": {
   "slug": "chariots-of-the-gods-erich-von-daniken",
   "title": "Chariots of the Gods",
@@ -5879,12 +5832,24 @@
   "open_library_url": "https://openlibrary.org/works/OL13086743W",
   "amazon_url": "https://www.amazon.com/s?k=The+Book+of+Isaiah+by+Isaiah&tag=podcaststoboo-20",
   "description": "",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
    "joe-rogan"
   ],
-  "latest_mention": "2026-06-24",
+  "latest_mention": "2026-11-19",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-19",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2583 - Bob Gymlan",
+    "guest": "Bob Gymlan",
+    "date": "2026-11-19",
+    "post_path": "joe-rogan/2583-bob-gymlan",
+    "t": 8357.18,
+    "t_label": "2:19:17",
+    "quote": "But those stories were in the same caves that they found all those other religious Texts that were in the Bible. It was all in the same stuff like the book of Isaiah is also in that The the Kumaran caves and then the book of Enoch"
+   },
    {
     "episode_id": "ep_joe-rogan_2026-06-24",
     "podcaster": "joe-rogan",
@@ -20768,12 +20733,25 @@
   "open_library_url": "https://openlibrary.org/works/OL20745822W",
   "amazon_url": "https://www.amazon.com/dp/1472979575?tag=podcaststoboo-20",
   "description": "",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
-   "chris-williamson"
+   "chris-williamson",
+   "joe-rogan"
   ],
-  "latest_mention": "2023-11-13",
+  "latest_mention": "2026-11-19",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-19",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2583 - Bob Gymlan",
+    "guest": "Bob Gymlan",
+    "date": "2026-11-19",
+    "post_path": "joe-rogan/2583-bob-gymlan",
+    "t": null,
+    "t_label": "",
+    "quote": ""
+   },
    {
     "episode_id": "ep_chriswilliamson_2023-11-13",
     "podcaster": "chris-williamson",
@@ -20978,12 +20956,25 @@
   "open_library_url": "",
   "amazon_url": "https://www.amazon.com/s?k=The+Strange+Death+of+Europe:+Immigration,+Identity,+Islam+by+Douglas+Murray&tag=podcaststoboo-20",
   "description": "",
-  "mention_count": 2,
+  "mention_count": 3,
   "podcasters": [
-   "chris-williamson"
+   "chris-williamson",
+   "joe-rogan"
   ],
-  "latest_mention": "2025-04-14",
+  "latest_mention": "2026-11-19",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-19",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2583 - Bob Gymlan",
+    "guest": "Bob Gymlan",
+    "date": "2026-11-19",
+    "post_path": "joe-rogan/2583-bob-gymlan",
+    "t": 7328.06,
+    "t_label": "2:02:08",
+    "quote": "with mass migration in Europe a long time ago and he is really interesting. He wrote a book called I think it's called the Strange Death of Europe and it's all about this accepting of mass migration."
+   },
    {
     "episode_id": "ep_chriswilliamson_2025-04-14",
     "podcaster": "chris-williamson",
@@ -23343,6 +23334,65 @@
     "t": null,
     "t_label": "",
     "quote": ""
+   }
+  ]
+ },
+ "the-book-of-enoch-enoch": {
+  "slug": "the-book-of-enoch-enoch",
+  "title": "The Book of Enoch",
+  "author": "Enoch",
+  "is_essay": false,
+  "full_entry": "The Book of Enoch by Enoch",
+  "year": 2009,
+  "cover_id": 11077946,
+  "cover_url": "https://covers.openlibrary.org/b/id/11077946-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/11077946-L.jpg",
+  "isbn10": "",
+  "isbn13": "",
+  "open_library_url": "https://openlibrary.org/works/OL24470527W",
+  "amazon_url": "https://www.amazon.com/s?k=The+Book+of+Enoch+by+Enoch&tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 3,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-19",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-19",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2583 - Bob Gymlan",
+    "guest": "Bob Gymlan",
+    "date": "2026-11-19",
+    "post_path": "joe-rogan/2583-bob-gymlan",
+    "t": 8362.46,
+    "t_label": "2:19:22",
+    "quote": "Texts that were in the Bible. It was all in the same stuff like the book of Isaiah is also in that The the Kumaran caves and then the book of Enoch Is that the Dead Sea scrolls or is that okay? Yeah, that stuff's wacky man"
+   },
+   {
+    "episode_id": "ep_joe-rogan_2026-09-30",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2560 - David Grusch",
+    "guest": "David Grusch",
+    "date": "2026-09-30",
+    "post_path": "joe-rogan/2560-david-grusch",
+    "t": 5454.4,
+    "t_label": "1:30:54",
+    "quote": "And I think with all this coming out there's going to be a huge rewriting of a lot of our ancient and modern history. So that's where it gets really weird. You know, Rep Paulina Luna was on the podcast. Oh, yeah. She was talking to me about the book of Enoch. Yeah, I hadn't read it. She's like, you have to read it and…"
+   },
+   {
+    "episode_id": "ep_joe-rogan_2026-09-24",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2558 - Tyler Engle",
+    "guest": "Tyler Engle",
+    "date": "2026-09-24",
+    "post_path": "joe-rogan/2558-tyler-engle",
+    "t": 3887.02,
+    "t_label": "1:04:47",
+    "quote": "Imagine being around here 50,000 years. And then you have things like the book of Enoch, right? Which, which talks about the watchers who come down and mate with the daughters of men"
    }
   ]
  }
