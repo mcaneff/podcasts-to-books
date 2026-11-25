@@ -23395,5 +23395,110 @@
     "quote": "Imagine being around here 50,000 years. And then you have things like the book of Enoch, right? Which, which talks about the watchers who come down and mate with the daughters of men"
    }
   ]
+ },
+ "abduction-john-e-mack": {
+  "slug": "abduction-john-e-mack",
+  "title": "Abduction",
+  "author": "John E. Mack",
+  "is_essay": false,
+  "full_entry": "Abduction by John E. Mack",
+  "year": 1994,
+  "cover_id": 208300,
+  "cover_url": "https://covers.openlibrary.org/b/id/208300-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/208300-L.jpg",
+  "isbn10": "1568950829",
+  "isbn13": "9781568950822",
+  "open_library_url": "https://openlibrary.org/works/OL15042475W",
+  "amazon_url": "https://www.amazon.com/dp/1568950829?tag=podcaststoboo-20",
+  "description": "Reports of abduction by aliens was not a topic taken seriously until John E. Mack, a medical doctor and professor of psychiatry at Harvard Medical School, could no longer discount the recurring experiences of several individuals who consulted him in his office at the Cambridge Hospital in Massachusetts. The similarity and frequency of these experiences by clients with no history of mental illness provoked Dr. Mack to conduct four years of intensive research and investigation into the serious, ever-growing phenomenon of alien abduction. Dr. Mack's findings resulted in his best-selling book *Abduction: Human Encounters with Aliens*, a work that will forever change our perception of reality by asking why, not if, such a phenomenon is happening.\r\n\r\nOut of nearly one hundred case studies, Dr. Mack focuses on thirteen ordinary Americans from all walks of life who tell dramatic, inspiring, and remarkably similar stories of alien abductions. These stories tend to feature repeated visits from large-eyed beings, mysterious machines, telepathy, invasive medical procedures, hours missing from their lives, and startling messages about the future. As suggested in a 1991 Roper survey, the number of potential experiencers may be in the hundreds of thousands, if not millions, yet many people try to dismiss their encounters as nightmares or are misdiagnosed and treated for a range of physical and psychiatric disorders.\r\n\r\n\"This book describes a clinical map of the abduction territory, which I…",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-24",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-24",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2585 - Sam Tripoli & Eddie Bravo",
+    "guest": "Sam Tripoli & Eddie Bravo",
+    "date": "2026-11-24",
+    "post_path": "joe-rogan/2585-sam-tripoli-eddie-bravo",
+    "t": 3618.76,
+    "t_label": "1:00:18",
+    "quote": "Which is that's one of the problems with like um hypnotic regression when they use like those UFO people This was like the big criticism of John Max book so John Mack had this book abduction Which is a really interesting book"
+   }
+  ]
+ },
+ "coyote-america-dan-flores": {
+  "slug": "coyote-america-dan-flores",
+  "title": "Coyote America",
+  "author": "Dan Flores",
+  "is_essay": false,
+  "full_entry": "Coyote America by Dan Flores",
+  "year": 2016,
+  "cover_id": 8872443,
+  "cover_url": "https://covers.openlibrary.org/b/id/8872443-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/8872443-L.jpg",
+  "isbn10": "0465098533",
+  "isbn13": "9780465098538",
+  "open_library_url": "https://openlibrary.org/works/OL20220162W",
+  "amazon_url": "https://www.amazon.com/dp/0465098533?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-24",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-24",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2585 - Sam Tripoli & Eddie Bravo",
+    "guest": "Sam Tripoli & Eddie Bravo",
+    "date": "2026-11-24",
+    "post_path": "joe-rogan/2585-sam-tripoli-eddie-bravo",
+    "t": 4078.84,
+    "t_label": "1:07:58",
+    "quote": "What's the fastest they can refuel? I asked chabby GT that too I Don't know 100 miles an hour 200 miles now"
+   }
+  ]
+ },
+ "wet-goddess-malcolm-brenner": {
+  "slug": "wet-goddess-malcolm-brenner",
+  "title": "Wet Goddess",
+  "author": "Malcolm Brenner",
+  "is_essay": false,
+  "full_entry": "Wet Goddess by Malcolm Brenner",
+  "year": 2010,
+  "cover_id": 13706611,
+  "cover_url": "https://covers.openlibrary.org/b/id/13706611-M.jpg",
+  "cover_url_large": "https://covers.openlibrary.org/b/id/13706611-L.jpg",
+  "isbn10": "0615334601",
+  "isbn13": "9780615334608",
+  "open_library_url": "https://openlibrary.org/works/OL25867436W",
+  "amazon_url": "https://www.amazon.com/dp/0615334601?tag=podcaststoboo-20",
+  "description": "",
+  "mention_count": 1,
+  "podcasters": [
+   "joe-rogan"
+  ],
+  "latest_mention": "2026-11-24",
+  "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-24",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2585 - Sam Tripoli & Eddie Bravo",
+    "guest": "Sam Tripoli & Eddie Bravo",
+    "date": "2026-11-24",
+    "post_path": "joe-rogan/2585-sam-tripoli-eddie-bravo",
+    "t": 226.0,
+    "t_label": "3:46",
+    "quote": "He's a pioneer. He brought a novel, Wet Goddess, and the documentary was Dolphin Lover. Oh shit, it's real."
+   }
+  ]
  }
 }
