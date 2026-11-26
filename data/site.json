@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25",
+ "generated": "2026-11-26",
  "recent_days": 90,
  "top_alltime": [
   "man-s-search-for-meaning-viktor-frankl",
@@ -26,8 +26,8 @@
   "the-hero-with-a-thousand-faces-joseph-campbell",
   "the-war-of-art-stephen-pressfield",
   "the-wisdom-of-insecurity-alan-watts",
-  "12-rules-for-life-jordan-peterson",
-  "a-little-life-hanya-yanagihara"
+  "way-of-the-warrior-kid-jocko-willink",
+  "12-rules-for-life-jordan-peterson"
  ],
  "podcasters": {
   "chris-williamson": {
@@ -43,8 +43,8 @@
     "the-evolution-of-desire-david-buss",
     "12-rules-for-life-jordan-peterson",
     "four-thousand-weeks-oliver-burkeman",
-    "rick-hansen-hardwiring-happiness-rick-hanson",
-    "seveneves-neal-stephenson"
+    "red-rising-pierce-brown",
+    "rick-hansen-hardwiring-happiness-rick-hanson"
    ]
   },
   "lex-fridman": {
@@ -101,7 +101,7 @@
  },
  "counts": {
   "books": 594,
-  "episodes": 244,
-  "mentions": 817
+  "episodes": 246,
+  "mentions": 821
  }
 }

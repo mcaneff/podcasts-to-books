@@ -2341,12 +2341,25 @@
   "open_library_url": "https://openlibrary.org/works/OL19730842W",
   "amazon_url": "https://www.amazon.com/dp/1250151074?tag=podcaststoboo-20",
   "description": "Fifth grade was the worst year of Marc's life. He stunk at gym class, math was too hard for him, the school lunch was horrible, and his class field trip was ruined because he couldn't swim. But what was most awful thing about fifth grade? Kenny Williamson, the class bully, who calls himself the 'King of the Jungle.' When Marc's mother tells him that his Uncle Jake is coming to stay for the whole summer, Marc can't wait. Uncle Jake is a for real, super-cool Navy SEAL. And Uncle Jake has a plan.",
-  "mention_count": 2,
+  "mention_count": 3,
   "podcasters": [
-   "chris-williamson"
+   "chris-williamson",
+   "joe-rogan"
   ],
-  "latest_mention": "2026-10-19",
+  "latest_mention": "2026-11-25",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-25",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2586 - Jocko Willink",
+    "guest": "Jocko Willink",
+    "date": "2026-11-25",
+    "post_path": "joe-rogan/2586-jocko-willink",
+    "t": 9019.72,
+    "t_label": "2:30:19",
+    "quote": "That's it. Way of the warrior kid. By the time this podcast comes out, it's available."
+   },
    {
     "episode_id": "ep_chris-williamson_2026-10-19",
     "podcaster": "chris-williamson",
@@ -3198,12 +3211,24 @@
   "open_library_url": "https://openlibrary.org/works/OL24593432W",
   "amazon_url": "https://www.amazon.com/dp/0593820258?tag=podcaststoboo-20",
   "description": "**The apocalypse will be televised!**\r\n\r\nA man. His ex-girlfriend's cat. A sadistic game show unlike anything in the universe: a dungeon crawl where survival depends on killing your prey in the most entertaining way possible.\r\n\r\nIn a flash, every human-erected construction on Earth—from Buckingham Palace to the tiniest of sheds—collapses in a heap, sinking into the ground.\r\n\r\nThe buildings and all the people inside have all been atomized and transformed into the dungeon: an 18-level labyrinth filled with traps, monsters, and loot. A dungeon so enormous, it circles the entire globe.\r\n\r\nOnly a few dare venture inside. But once you're in, you can't get out. And what's worse, each level has a time limit. You have but days to find a staircase to the next level down, or it's game over. In this game, it's not about your strength or your dexterity. It's about your followers, your views. Your clout. It's about building an audience and killing those goblins with style.\r\n\r\n**You can't just survive here. You gotta survive big.**\r\n\r\nYou gotta fight with vigor, with excitement. You gotta make them stand up and cheer. And if you do have that \"it\" factor, you may just find yourself with a following. That's the only way to truly survive in this game—with the help of the loot boxes dropped upon you by the generous benefactors watching from across the galaxy.\r\n\r\nThey call it *Dungeon Crawler World*. But for Carl, it's anything but a game.",
-  "mention_count": 2,
+  "mention_count": 3,
   "podcasters": [
    "chris-williamson"
   ],
-  "latest_mention": "2026-08-08",
+  "latest_mention": "2026-11-26",
   "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-11-26",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Q&A: Age Gaps, Sexual Frustration & Performance Anxiety - #1181",
+    "guest": "",
+    "date": "2026-11-26",
+    "post_path": "chris-williamson/q-a-age-gaps-sexual-frustration-performance-anxiety-1181",
+    "t": 5624.32,
+    "t_label": "1:33:44",
+    "quote": "not doing whatever you could have done with those does uh I appreciate you very much shonwats 12 existential crisis reading dungeon crawler Carl or red rising first thanks that is a really fucking difficult one"
+   },
    {
     "episode_id": "ep_chris-williamson_2026-08-08",
     "podcaster": "chris-williamson",
@@ -3245,12 +3270,24 @@
   "open_library_url": "https://openlibrary.org/works/OL17076473W",
   "amazon_url": "https://www.amazon.com/dp/0345539796?tag=podcaststoboo-20",
   "description": "\"I live for the dream that my children will be born free,\" she says. \"That they will be what they like. That they will own the land their father gave them.\"\r\n\r\n\"I live for you,\" I say sadly.\r\n\r\nEo kisses my cheek. \"Then you must live for more.\"\r\n\r\nDarrow is a Red, a member of the lowest caste in the color-coded society of the future. Like his fellow Reds, he works all day, believing that he and his people are making the surface of Mars livable for future generations.\r\n\r\nYet he spends his life willingly, knowing that his blood and sweat will one day result in a better world for his children.\r\n\r\nBut Darrow and his kind have been betrayed. Soon he discovers that humanity already reached the surface generations ago. Vast cities and sprawling parks spread across the planet. Darrow—and Reds like him—are nothing more than slaves to a decadent ruling class.\r\n\r\nInspired by a longing for justice, and driven by the memory of lost love, Darrow sacrifices everything to infiltrate the legendary Institute, a proving ground for the dominant Gold caste, where the next generation of humanity's overlords struggle for power. He will be forced to compete for his life and the very future of civilization against the best and most brutal of Society's ruling class. There, he will stop at nothing to bring down his enemies... even if it means he has to become one of them to do so.",
-  "mention_count": 3,
+  "mention_count": 4,
   "podcasters": [
    "chris-williamson"
   ],
-  "latest_mention": "2026-08-08",
+  "latest_mention": "2026-11-26",
   "mentions": [
+   {
+    "episode_id": "ep_chris-williamson_2026-11-26",
+    "podcaster": "chris-williamson",
+    "podcaster_name": "Modern Wisdom",
+    "episode_title": "Q&A: Age Gaps, Sexual Frustration & Performance Anxiety - #1181",
+    "guest": "",
+    "date": "2026-11-26",
+    "post_path": "chris-williamson/q-a-age-gaps-sexual-frustration-performance-anxiety-1181",
+    "t": 5624.32,
+    "t_label": "1:33:44",
+    "quote": "not doing whatever you could have done with those does uh I appreciate you very much shonwats 12 existential crisis reading dungeon crawler Carl or red rising first thanks that is a really fucking difficult one"
+   },
    {
     "episode_id": "ep_chris-williamson_2026-08-08",
     "podcaster": "chris-williamson",
@@ -10681,12 +10718,24 @@
   "open_library_url": "https://openlibrary.org/works/OL24539387W",
   "amazon_url": "https://www.amazon.com/dp/1510766804?tag=podcaststoboo-20",
   "description": "",
-  "mention_count": 1,
+  "mention_count": 2,
   "podcasters": [
    "joe-rogan"
   ],
-  "latest_mention": "2026-02-10",
+  "latest_mention": "2026-11-25",
   "mentions": [
+   {
+    "episode_id": "ep_joe-rogan_2026-11-25",
+    "podcaster": "joe-rogan",
+    "podcaster_name": "Joe Rogan Experience",
+    "episode_title": "#2586 - Jocko Willink",
+    "guest": "Jocko Willink",
+    "date": "2026-11-25",
+    "post_path": "joe-rogan/2586-jocko-willink",
+    "t": 762.0,
+    "t_label": "12:42",
+    "quote": "Like, the AIDS thing is super controversial. I don't know if you've ever read Robert F. Kennedy's book, The Real Anthony Fauci. I haven't read it."
+   },
    {
     "episode_id": "ep_joe-rogan_2026-02-10",
     "podcaster": "joe-rogan",
